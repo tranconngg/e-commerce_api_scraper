@@ -1,0 +1,1954 @@
+{
+    "data": [
+        {
+            "id": 116122456,
+            "name": "Máy mát xa cầm tay, súng massage trị liệu toàn thân Với 4 Đầu Thay Thế 6 Cấp Độ",
+            "category_path": "may-mat-xa-cam-tay-sung-massage-tri-lieu-toan-than-voi-4-dau-thay-the-6-cap-do-116122456.html",
+            "image": "https://media3.scdn.vn/img4/2023/11_02/CoMQLbja5nllDT0B8dyZ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 199000,
+            "default_price_max": 199000,
+            "sale_price_min": 129000,
+            "sale_price_max": 129000,
+            "sale_percent": 36,
+            "sold": 160,
+            "order_count_text": "160",
+            "has_video": true,
+            "seller_admin_id": 575618,
+            "sku_user": "2010_116122456",
+            "active_event_frame": "flash_sale",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 575618,
+                "name": "Gia Dụng Pk",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 36,
+                "star": 4.4
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "flash_sale",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/aRbPXfiRl6OXLDrLAWOR.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 116274521,
+            "name": "Ổ Cứng Camera,  Máy tính PC HDD 3TB, 2TB, 1TB - Tháo máy chuyên dụng - HDD Camera giám sát",
+            "category_path": "o-cung-camera-may-tinh-pc-hdd-3tb-2tb-1tb-thao-may-chuyen-dung-hdd-camera-giam-sat-116274521.html",
+            "image": "https://media3.scdn.vn/img4/2024/01_02/JQ2muzb2jY7QGb4gIv69_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 700000,
+            "default_price_max": 1550000,
+            "sale_price_min": 539000,
+            "sale_price_max": 1150000,
+            "sale_percent": 29,
+            "sold": 11,
+            "order_count_text": "11",
+            "seller_admin_id": 99778,
+            "sku_user": "HDD Camera",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 99778,
+                "name": "Phụ Kiện Công Nghệ 24H",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 2,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 116140773,
+            "name": "Cốc sạc nhanh đa năng Remax RP-U123 2 cổng USB 1 cổng Type C PD max 40W",
+            "category_path": "coc-sac-nhanh-da-nang-remax-rp-u123-2-cong-usb-1-cong-type-c-pd-max-40w-116140773.html",
+            "image": "https://media3.scdn.vn/img4/2023/11_06/cy6ayNrRDQn2TKOe4zWW_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 298000,
+            "default_price_max": 298000,
+            "sale_price_min": 229000,
+            "sale_price_max": 229000,
+            "sale_percent": 24,
+            "sold": 27,
+            "order_count_text": "27",
+            "seller_admin_id": 461216,
+            "sku_user": "3215_116140773",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 461216,
+                "name": "Remax Chính Hãng",
+                "status": 2,
+                "type": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 116528994,
+            "name": "Quạt cầm tay tích điện dung lượng pin khủng 6000mah cao nhất trên thị trường DS-18, quạt mini 5 tốc độ gió linh hoạt",
+            "category_path": "quat-cam-tay-tich-dien-dung-luong-pin-khung-6000mah-cao-nhat-tren-thi-truong-ds-18-quat-mini-5-toc-do-gio-linh-hoat-116528994.html",
+            "image": "https://media3.scdn.vn/img4/2024/04_09/vgd6nqpa18tSAe554cRi_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 76000,
+            "default_price_max": 76000,
+            "sale_price_min": 75000,
+            "sale_price_max": 75000,
+            "sale_percent": 2,
+            "sold": 56,
+            "order_count_text": "56",
+            "has_video": true,
+            "seller_admin_id": 575618,
+            "sku_user": "3170_116528994",
+            "active_event_frame": "flash_sale",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 575618,
+                "name": "Gia Dụng Pk",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 14,
+                "star": 4
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "flash_sale",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/aRbPXfiRl6OXLDrLAWOR.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 115410891,
+            "name": "Tai Nghe Bluetooth True Wireless Remax AlloyBuds M2",
+            "category_path": "tai-nghe-bluetooth-true-wireless-remax-alloybuds-m2-115410891.html",
+            "image": "https://media3.scdn.vn/img4/2023/09_01/O75VE9RKutmUjJZ2HC2J_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 449000,
+            "default_price_max": 449000,
+            "sale_price_min": 349000,
+            "sale_price_max": 349000,
+            "sale_percent": 23,
+            "sold": 12,
+            "order_count_text": "12",
+            "seller_admin_id": 461216,
+            "sku_user": "AlloyBuds M2",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 461216,
+                "name": "Remax Chính Hãng",
+                "status": 2,
+                "type": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 114498099,
+            "name": "Tai Nghe Bluetooth True Wireless Remax CozyPods W9N Chống Ồn Chủ Động ANC Và Mic Khử Ồn Chuẩn ENC Bluetooth 5.3",
+            "category_path": "tai-nghe-bluetooth-true-wireless-remax-cozypods-w9n-chong-on-chu-dong-anc-va-mic-khu-on-chuan-enc-bluetooth-53-114498099.html",
+            "image": "https://media3.scdn.vn/img4/2023/06_28/GZLmCvOuh1FrlGaV42ql_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 648000,
+            "default_price_max": 648000,
+            "sale_price_min": 599000,
+            "sale_price_max": 599000,
+            "sale_percent": 8,
+            "sold": 33,
+            "order_count_text": "33",
+            "seller_admin_id": 461216,
+            "sku_user": "3237_114498099",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 461216,
+                "name": "Remax Chính Hãng",
+                "status": 2,
+                "type": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+                }
+            },
+            "rated": {
+                "total": 6,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 114344046,
+            "name": "Pin dự phòng sạc nhanh Remax RPP-513 20000mAH QC3.0 PD max 22.5W kèm cáp Lightning và Type C",
+            "category_path": "pin-du-phong-sac-nhanh-remax-rpp-513-20000mah-qc30-pd-max-225w-kem-cap-lightning-va-type-c-114344046.html",
+            "image": "https://media3.scdn.vn/img4/2023/06_12/WT772tU3XrO7oqLEDF18_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 668000,
+            "default_price_max": 668000,
+            "sale_price_min": 599000,
+            "sale_price_max": 599000,
+            "sale_percent": 11,
+            "sold": 25,
+            "order_count_text": "25",
+            "seller_admin_id": 461216,
+            "sku_user": "RPP-513",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 461216,
+                "name": "Remax Chính Hãng",
+                "status": 2,
+                "type": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+                }
+            },
+            "rated": {
+                "total": 1,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 114044540,
+            "name": "Máy Cạo Râu Mini  6 Lưỡi Kép , Chống Nước, Nhỏ Gọn Bỏ Túi, Cạo Sạch Nhanh Tiện Lợi",
+            "category_path": "may-cao-rau-mini-6-luoi-kep-chong-nuoc-nho-gon-bo-tui-cao-sach-nhanh-tien-loi-114044540.html",
+            "image": "https://media3.scdn.vn/img4/2023/04_27/aCR3HCwAwOjPXlz3Tdep_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 42000,
+            "default_price_max": 42000,
+            "sale_price_min": 42000,
+            "sale_price_max": 42000,
+            "sold": 64,
+            "order_count_text": "64",
+            "seller_admin_id": 744777,
+            "sku_user": "1362_114044540",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 744777,
+                "name": "khogiadung9999",
+                "status": 2,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 21,
+                "star": 3.7
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 113993469,
+            "name": "Máy Chà Gót Chân Tẩy tế bào chết, tại Nhà, tiện dụng,Sạc Pin Tích Điện.MÁY HÌNH NẤM",
+            "category_path": "may-cha-got-chan-tay-te-bao-chet-tai-nha-tie-n-du-ng-sac-pin-tich-dienmay-hinh-nam-113993469.html",
+            "image": "https://media3.scdn.vn/img4/2023/04_24/ryMAFCjpPmzEf7nTIRbX_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 41000,
+            "default_price_max": 41000,
+            "sale_price_min": 41000,
+            "sale_price_max": 41000,
+            "sold": 38,
+            "order_count_text": "38",
+            "seller_admin_id": 744777,
+            "sku_user": "4076_113993469",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 744777,
+                "name": "khogiadung9999",
+                "status": 2,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 9,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 113490757,
+            "name": "Cốc sạc nhanh Remax RP-U102 PD 30W 1 cổng Type C",
+            "category_path": "coc-sac-nhanh-remax-rp-u102-pd-30w-1-cong-type-c-113490757.html",
+            "image": "https://media3.scdn.vn/img4/2023/04_17/OdXP6HPZVTph8BKah76o_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 228000,
+            "default_price_max": 228000,
+            "sale_price_min": 199000,
+            "sale_price_max": 199000,
+            "sale_percent": 13,
+            "sold": 4,
+            "order_count_text": "4",
+            "seller_admin_id": 461216,
+            "sku_user": "RP-U102",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 461216,
+                "name": "Remax Chính Hãng",
+                "status": 2,
+                "type": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 111806753,
+            "name": "Pin dự phòng sạc nhanh Remax RPP-316 20000mAh QC3.0 PD max 22.5W 1 cổng USB và 1 cổng Type C",
+            "category_path": "pin-du-phong-sac-nhanh-remax-rpp-316-20000mah-qc30-pd-max-225w-1-cong-usb-va-1-cong-type-c-111806753.html",
+            "image": "https://media3.scdn.vn/img4/2023/03_13/pS3XjCmNNCIuECJ2CRxt_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 558000,
+            "default_price_max": 558000,
+            "sale_price_min": 499000,
+            "sale_price_max": 499000,
+            "sale_percent": 11,
+            "sold": 10,
+            "order_count_text": "10",
+            "seller_admin_id": 461216,
+            "sku_user": "3213_111806753",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 461216,
+                "name": "Remax Chính Hãng",
+                "status": 2,
+                "type": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 111280724,
+            "name": "Pin dự phòng Remax RPP-522 30000mAh QC3.0 22.5W và TypeC PD 20W, Đèn led siêu sáng",
+            "category_path": "pin-du-phong-remax-rpp-522-30000mah-qc30-225w-va-typec-pd-20w-den-led-sieu-sang-111280724.html",
+            "image": "https://media3.scdn.vn/img4/2023/02_25/K6qSDnvSqUrY3aST5WQf_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 698000,
+            "default_price_max": 698000,
+            "sale_price_min": 429000,
+            "sale_price_max": 429000,
+            "sale_percent": 39,
+            "sold": 39,
+            "order_count_text": "39",
+            "seller_admin_id": 461216,
+            "sku_user": "RPP-522",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 461216,
+                "name": "Remax Chính Hãng",
+                "status": 2,
+                "type": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+                }
+            },
+            "rated": {
+                "total": 1,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 108784221,
+            "name": "Dây đèn led đổi màu ARGB hiệu ứng nháy đuổi chỉnh app dt, cảm âm, led ngọc trai",
+            "category_path": "day-den-led-doi-mau-argb-hieu-ung-nhay-duoi-chinh-app-dt-cam-am-led-ngoc-trai-108784221.html",
+            "image": "https://media3.scdn.vn/img4/2022/12_16/YVD0PrLksF0B8kNZfUk9_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 201000,
+            "default_price_max": 201000,
+            "sale_price_min": 129000,
+            "sale_price_max": 129000,
+            "sale_percent": 36,
+            "sold": 95,
+            "order_count_text": "95",
+            "seller_admin_id": 533782,
+            "sku_user": "Ledngoctrai",
+            "like_counter": 1,
+            "active_event_frame": "flash_sale",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 533782,
+                "name": "Vua Gia Si",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 36,
+                "star": 4.9
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "flash_sale",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/aRbPXfiRl6OXLDrLAWOR.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 107268892,
+            "name": "Pin dự phòng sạc nhanh Remax RPP-65 10000mAh sạc không dây wireless 15W - hỗ trợ PD 20W (4 màu)",
+            "category_path": "pin-du-phong-sac-nhanh-remax-rpp-65-10000mah-sac-khong-day-wireless-15w-ho-tro-pd-20w-4-mau-107268892.html",
+            "image": "https://media3.scdn.vn/img4/2022/11_18/kZL71buRZC5F6w8kidNH_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 698000,
+            "default_price_max": 699000,
+            "sale_price_min": 399000,
+            "sale_price_max": 399000,
+            "sale_percent": 43,
+            "sold": 55,
+            "order_count_text": "55",
+            "seller_admin_id": 461216,
+            "sku_user": "RPP-65 2022",
+            "like_counter": 1,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 461216,
+                "name": "Remax Chính Hãng",
+                "status": 2,
+                "type": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+                }
+            },
+            "rated": {
+                "total": 10,
+                "star": 4.7
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 106829861,
+            "name": "Led dây dán 5050 RGB không phủ keo SILICON, keo dán 2 mặt tiện dụng dùng trang nội thất thiết kế thi công",
+            "category_path": "led-day-dan-5050-rgb-khong-phu-keo-silicon-keo-dan-2-mat-tien-dung-dung-trang-noi-that-thiet-ke-thi-cong-106829861.html",
+            "image": "https://media3.scdn.vn/img4/2022/11_09/qnnvOHJ4QnPR4QcGidS4_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 101000,
+            "default_price_max": 101000,
+            "sale_price_min": 59000,
+            "sale_price_max": 59000,
+            "sale_percent": 42,
+            "sold": 22,
+            "order_count_text": "22",
+            "seller_admin_id": 533782,
+            "sku_user": "leddanrgb5m",
+            "active_event_frame": "sale_event",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 533782,
+                "name": "Vua Gia Si",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 16,
+                "star": 4
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 106654667,
+            "name": "Sạc dự phòng năng lượng mặt trời 20000map chống nước tốt có đèn led",
+            "category_path": "sac-du-phong-nang-luong-mat-troi-20000map-chong-nuoc-tot-co-den-led-106654667.html",
+            "image": "https://media3.scdn.vn/img4/2022/11_05/PKEvI6b26KxNc1wWXufd_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 110000,
+            "default_price_max": 110000,
+            "sale_price_min": 110000,
+            "sale_price_max": 110000,
+            "sold": 91,
+            "order_count_text": "91",
+            "seller_admin_id": 744777,
+            "sku_user": "3213_106654667",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 744777,
+                "name": "khogiadung9999",
+                "status": 2,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 32,
+                "star": 3.8
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 105376841,
+            "name": "Tai nghe bluetooth 5.3 gaming Yoking X15 nhét tai chơi game không dây thể thao pin trâu độ trễ thấp",
+            "category_path": "tai-nghe-bluetooth-53-gaming-yoking-x15-nhet-tai-choi-game-khong-day-the-thao-pin-trau-do-tre-thap-105376841.html",
+            "image": "https://media3.scdn.vn/img4/2022/10_22/lOyBdjr8h1VtFb4EskUy_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 300000,
+            "default_price_max": 300000,
+            "sale_price_min": 109000,
+            "sale_price_max": 109000,
+            "sale_percent": 64,
+            "sold": 359,
+            "order_count_text": "359",
+            "seller_admin_id": 970144,
+            "sku_user": "X15",
+            "like_counter": 2,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 970144,
+                "name": "Yoking Official",
+                "status": 2,
+                "type": 2,
+                "ware_house_region_name": "Nam Định",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+                }
+            },
+            "rated": {
+                "total": 182,
+                "star": 4.4
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 104531946,
+            "name": "Tai nghe Bluetooth True Wireless Remax TWS-19 Marshmallow Series",
+            "category_path": "tai-nghe-bluetooth-true-wireless-remax-tws-19-marshmallow-series-104531946.html",
+            "image": "https://media3.scdn.vn/img4/2022/10_15/WvoAQRBJOPfVEfqS58Ms_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 448000,
+            "default_price_max": 448000,
+            "sale_price_min": 379000,
+            "sale_price_max": 379000,
+            "sale_percent": 16,
+            "sold": 183,
+            "order_count_text": "183",
+            "seller_admin_id": 461216,
+            "sku_user": "TWS-19",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 461216,
+                "name": "Remax Chính Hãng",
+                "status": 2,
+                "type": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+                }
+            },
+            "rated": {
+                "total": 5,
+                "star": 4.6
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 73329060,
+            "name": "Tai nghe chụp tai game thủ Remax WarGod Series II RM-850 tích hợp LED RGB Jack 3.5mm",
+            "category_path": "tai-nghe-chup-tai-game-thu-remax-wargod-series-ii-rm-850-tich-hop-led-rgb-jack-35mm-73329060.html",
+            "image": "https://media3.scdn.vn/img4/2022/03_14/a2kMhlOzS3YmPniXJaId_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 697000,
+            "default_price_max": 697000,
+            "sale_price_min": 499000,
+            "sale_price_max": 499000,
+            "sale_percent": 29,
+            "sold": 14,
+            "order_count_text": "14",
+            "seller_admin_id": 461216,
+            "sku_user": "RM-850",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 461216,
+                "name": "Remax Chính Hãng",
+                "status": 2,
+                "type": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 73177271,
+            "name": "Bộ Micro Không dây KELLYTEK K58 Chính hãng cao cấp, Hiển thị đèn led, Hút âm tốt, chống hú, Pin Sạc - Chuyên dụng loa kéo, amply- Bảo hành 12 Tháng",
+            "category_path": "bo-micro-khong-day-kellytek-k58-chinh-hang-cao-cap-hien-thi-den-led-hut-am-tot-chong-hu-pin-sac-chuyen-dung-loa-keo-amply-bao-hanh-12-thang-73177271.html",
+            "image": "https://media3.scdn.vn/img4/2023/11_28/Ou8s3tklNe9Gpw2FZOM0_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 500000,
+            "default_price_max": 700000,
+            "sale_price_min": 298000,
+            "sale_price_max": 398000,
+            "sale_percent": 46,
+            "sold": 75,
+            "order_count_text": "75",
+            "seller_admin_id": 99778,
+            "sku_user": "Micro Không dây Cao cấp",
+            "like_counter": 1,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 99778,
+                "name": "Phụ Kiện Công Nghệ 24H",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 19,
+                "star": 4.9
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 67663856,
+            "name": "Đèn nháy Led kim cương  trang trí sân vườn nhà cửa DÂY ĐÈN NHÁY DÀI 50M CÔNG NGHỆ LE.D chống nước sáng đều màu ( SIÊU GIÁ RẺ ) ..",
+            "category_path": "den-nhay-led-kim-cuong-trang-tri-san-vuon-nha-cua-day-den-nhay-da-i-50m-cong-nghe-led-chong-nuoc-sang-deu-mau-sieu-gia-re-67663856.html",
+            "image": "https://media3.scdn.vn/img4/2021/11_17/7kSpX2CoUH01NAU3ad1j_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 54000,
+            "default_price_max": 54000,
+            "sale_price_min": 54000,
+            "sale_price_max": 54000,
+            "sold": 40,
+            "order_count_text": "40",
+            "seller_admin_id": 744777,
+            "sku_user": "6785",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 744777,
+                "name": "khogiadung9999",
+                "status": 2,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 11,
+                "star": 4.1
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 51949550,
+            "name": "Micro Không dây Karaoke BD W003 Cao cấp chính hãng, Dùng cho Amply gia đình, Loa kéo - Bảo hành Hãng 1 đổi 1",
+            "category_path": "micro-khong-day-karaoke-bd-w003-cao-cap-chinh-hang-dung-cho-amply-gia-dinh-loa-keo-bao-hanh-hang-1-doi-1-51949550.html",
+            "image": "https://media3.scdn.vn/img4/2022/04_25/5A9b2LDtdsRItfzvVW17_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 500000,
+            "default_price_max": 500000,
+            "sale_price_min": 298000,
+            "sale_price_max": 298000,
+            "sale_percent": 41,
+            "sold": 57,
+            "order_count_text": "57",
+            "seller_admin_id": 99778,
+            "sku_user": "MICRO không dây",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 99778,
+                "name": "Phụ Kiện Công Nghệ 24H",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 15,
+                "star": 4.6
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 48550476,
+            "name": "Đèn ngủ cảm ứng hình nấm công nghệ LED",
+            "category_path": "den-ngu-cam-ung-hinh-nam-cong-nghe-led-48550476.html",
+            "image": "https://media3.scdn.vn/img4/2024/03_08/gWJu1Mb4c2HB9xxdxLIH_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 55000,
+            "default_price_max": 55000,
+            "sale_price_min": 23000,
+            "sale_price_max": 23000,
+            "sale_percent": 59,
+            "sold": 53,
+            "order_count_text": "53",
+            "seller_admin_id": 669991,
+            "sku_user": "bóng đèn ngủ hình nấm",
+            "active_event_frame": "sale_event",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 669991,
+                "name": "Thukhangtn Shop",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Thái Nguyên",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 12,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 45155380,
+            "name": "Pin Dự Phòng 20000mah Remax RPP-166 Lango Series Fast Charing 2.1A tích hợp 2 cổng USB",
+            "category_path": "pin-du-phong-20000mah-remax-rpp-166-lango-series-fast-charing-21a-tich-hop-2-cong-usb-45155380.html",
+            "image": "https://media3.scdn.vn/img4/2021/06_11/VzCzkAzTafAZxXv2wLNG_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 338000,
+            "default_price_max": 338000,
+            "sale_price_min": 259000,
+            "sale_price_max": 259000,
+            "sale_percent": 24,
+            "sold": 289,
+            "order_count_text": "289",
+            "seller_admin_id": 461216,
+            "sku_user": "RPP-166 B",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 461216,
+                "name": "Remax Chính Hãng",
+                "status": 2,
+                "type": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+                }
+            },
+            "rated": {
+                "total": 20,
+                "star": 4.9
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 38767734,
+            "name": "Tai nghe Bluetooth True Wireless Remax TWS-10 / TWS-10i / TWS-10 Plus",
+            "category_path": "tai-nghe-bluetooth-true-wireless-remax-tws-10-tws-10i-tws-10-plus-38767734.html",
+            "image": "https://media3.scdn.vn/img4/2021/04_20/5ZGtjFKSZcbMcwDkW3ff_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 398000,
+            "default_price_max": 498000,
+            "sale_price_min": 349000,
+            "sale_price_max": 399000,
+            "sale_percent": 20,
+            "sold": 98,
+            "order_count_text": "98",
+            "seller_admin_id": 461216,
+            "sku_user": "TWS-10 / TWS-10i / TWS-10 Plus",
+            "like_counter": 25,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 461216,
+                "name": "Remax Chính Hãng",
+                "status": 2,
+                "type": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+                }
+            },
+            "rated": {
+                "total": 16,
+                "star": 4.9
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 37511623,
+            "name": "Bộ Micro Không dây Karaoke ONTEKCO MU02, E6S, E6, BD W301 Chính hãng, Dùng chuyên cho các dòng loa kéo, Amply - Bảo hành 12 Tháng",
+            "category_path": "bo-micro-khong-day-karaoke-ontekco-mu02-e6s-e6-bd-w301-chinh-hang-dung-chuyen-cho-cac-dong-loa-keo-amply-bao-hanh-12-thang-37511623.html",
+            "image": "https://media3.scdn.vn/img4/2022/06_06/8drZ04Ma5ag8fxswXZwu_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 500000,
+            "default_price_max": 8000000,
+            "sale_price_min": 338000,
+            "sale_price_max": 538000,
+            "sale_percent": 94,
+            "sold": 286,
+            "order_count_text": "286",
+            "seller_admin_id": 99778,
+            "sku_user": "MICRO Không dây Karaoke",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 99778,
+                "name": "Phụ Kiện Công Nghệ 24H",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 70,
+                "star": 4.8
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 37173537,
+            "name": "Pin Dự Phòng 30000mah Remax RPP-167 Lango Series Fast Charing 2.1A tích hợp 2 cổng USB",
+            "category_path": "pin-du-phong-30000mah-remax-rpp-167-lango-series-fast-charing-21a-tich-hop-2-cong-usb-37173537.html",
+            "image": "https://media3.scdn.vn/img4/2020/11_09/3LVkyVIUQ4QVmaiOZcMe_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 498000,
+            "default_price_max": 498000,
+            "sale_price_min": 357000,
+            "sale_price_max": 357000,
+            "sale_percent": 29,
+            "sold": 31,
+            "order_count_text": "31",
+            "seller_admin_id": 461216,
+            "sku_user": "RPP-167",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 461216,
+                "name": "Remax Chính Hãng",
+                "status": 2,
+                "type": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+                }
+            },
+            "rated": {
+                "total": 9,
+                "star": 4.7
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 37019208,
+            "name": "[Chính Hãng] Bộ Micro Không dây ONTEK E6S / BEST SOUND W003 Cao cấp, Chuyên dụng cho Amply, loa kẹo kéo KARAOKE - Bảo hành 12 Tháng",
+            "category_path": "chinh-hang-bo-micro-khong-day-ontek-e6s-best-sound-w003-cao-cap-chuyen-dung-cho-amply-loa-keo-keo-karaoke-bao-hanh-12-thang-37019208.html",
+            "image": "https://media3.scdn.vn/img4/2022/07_01/XJB63HsjaP3xJO7DcGrs_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 680000,
+            "default_price_max": 800000,
+            "sale_price_min": 319000,
+            "sale_price_max": 429000,
+            "sale_percent": 61,
+            "sold": 94,
+            "order_count_text": "94",
+            "seller_admin_id": 99778,
+            "sku_user": "Micro Không dây karaoke cao cấp",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 99778,
+                "name": "Phụ Kiện Công Nghệ 24H",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 21,
+                "star": 4.4
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 36973777,
+            "name": "Micro Không dây Karaoke Cao cấp chính hãng ONTEKCO, Chuyên dụng cho Loa kéo, Amply, Vang cơ, vang số - Bảo hành 12 Tháng",
+            "category_path": "micro-khong-day-karaoke-cao-cap-chinh-hang-ontekco-chuyen-dung-cho-loa-keo-amply-vang-co-vang-so-bao-hanh-12-thang-36973777.html",
+            "image": "https://media3.scdn.vn/img4/2023/11_28/DetFHs9NBGiiLSEUDq7b_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 580000,
+            "default_price_max": 800000,
+            "sale_price_min": 325000,
+            "sale_price_max": 489000,
+            "sale_percent": 44,
+            "sold": 199,
+            "order_count_text": "199",
+            "seller_admin_id": 99778,
+            "sku_user": "Micro Không dây",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 99778,
+                "name": "Phụ Kiện Công Nghệ 24H",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 57,
+                "star": 4.7
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 33724170,
+            "name": "Loa treble AT3040 100w đen -1 đôi",
+            "category_path": "loa-treble-at3040-100w-den-1-doi-33724170.html",
+            "image": "https://media3.scdn.vn/img4/2023/11_13/G6OgEZHQRgAePHKxaWv7_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 395000,
+            "default_price_max": 395000,
+            "sale_price_min": 300000,
+            "sale_price_max": 300000,
+            "sale_percent": 25,
+            "sold": 7,
+            "order_count_text": "7",
+            "seller_admin_id": 552717,
+            "sku_user": "AT 3040",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 552717,
+                "name": "Điện máy Duy Tình",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 2,
+                "star": 4.5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 32638676,
+            "name": "Bộ Micro Không dây Karaoke Chính hãng KELLYTEK  Cao Cấp, Hút âm chống hú tốt - Chuyên dụng loa kéo, Amply - Bảo hành 12 Tháng",
+            "category_path": "bo-micro-khong-day-karaoke-chinh-hang-kellytek-cao-cap-hut-am-chong-hu-tot-chuyen-dung-loa-keo-amply-bao-hanh-12-thang-32638676.html",
+            "image": "https://media3.scdn.vn/img4/2023/11_28/Ou8s3tklNe9Gpw2FZOM0_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 550000,
+            "default_price_max": 780000,
+            "sale_price_min": 325000,
+            "sale_price_max": 535000,
+            "sale_percent": 45,
+            "sold": 387,
+            "order_count_text": "387",
+            "seller_admin_id": 99778,
+            "sku_user": "Micro Không Dây MV",
+            "like_counter": 1,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 99778,
+                "name": "Phụ Kiện Công Nghệ 24H",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 90,
+                "star": 4.7
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 26906111,
+            "name": "Vang Cơ NEX FX70Plus Có REVERD Chống Hú Tốt-tặng dây",
+            "category_path": "vang-co-nex-fx70plus-co-reverd-chong-hu-tot-tang-day-26906111.html",
+            "image": "https://media3.scdn.vn/img4/2023/11_14/MshFa4GSFWHUzlhPpAEs_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1650000,
+            "default_price_max": 1650000,
+            "sale_price_min": 1280000,
+            "sale_price_max": 1280000,
+            "sale_percent": 23,
+            "sold": 83,
+            "order_count_text": "83",
+            "seller_admin_id": 552717,
+            "sku_user": "NEX FX70",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 552717,
+                "name": "Điện máy Duy Tình",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 36,
+                "star": 4.9
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 24830976,
+            "name": "Pin Dự Phòng 10000mah Remax RPP-96 Garie Series Fast Charging 2.1A tích hợp 2 cổng USB",
+            "category_path": "pin-du-phong-10000mah-remax-rpp-96-garie-series-fast-charging-21a-tich-hop-2-cong-usb-24830976.html",
+            "image": "https://media3.scdn.vn/img4/2020/11_05/DvkLbvAOOaHq04FxNllR_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 198000,
+            "default_price_max": 198000,
+            "sale_price_min": 169000,
+            "sale_price_max": 169000,
+            "sale_percent": 16,
+            "sold": 701,
+            "order_count_text": "701",
+            "seller_admin_id": 461216,
+            "sku_user": "RPP-96",
+            "like_counter": 65,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 461216,
+                "name": "Remax Chính Hãng",
+                "status": 2,
+                "type": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+                }
+            },
+            "rated": {
+                "total": 244,
+                "star": 4.9
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 24327081,
+            "name": "Dây Đèn Led Trang Trí Bi Bọt Nước Nhỏ Dài 8m 35 bóng chớp nháy",
+            "category_path": "day-den-led-trang-tri-bi-bot-nuoc-nho-dai-8m-35-bong-chop-nhay-24327081.html",
+            "image": "https://media3.scdn.vn/img3/2019/12_5/AThKM3_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 130000,
+            "default_price_max": 130000,
+            "sale_price_min": 85000,
+            "sale_price_max": 85000,
+            "sale_percent": 35,
+            "sold": 366,
+            "order_count_text": "366",
+            "seller_admin_id": 533782,
+            "sku_user": "bi 10m",
+            "active_event_frame": "flash_sale",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 533782,
+                "name": "Vua Gia Si",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 115,
+                "star": 4.8
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "flash_sale",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/aRbPXfiRl6OXLDrLAWOR.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 23741681,
+            "name": "Thẻ nhớ Micro SDXC Yoosee 32GB / 64GB / 128GB - Class 10-U3 Chính hãng, Chuyên dụng Camera wifi, camera hành trình, điện thoại",
+            "category_path": "the-nho-micro-sdxc-yoosee-32gb-64gb-128gb-class-10-u3-chinh-hang-chuyen-dung-camera-wifi-camera-hanh-trinh-dien-thoai-23741681.html",
+            "image": "https://media3.scdn.vn/img4/2022/08_23/3uzbPjnFMOGIjkvHKKFY_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 100000,
+            "default_price_max": 300000,
+            "sale_price_min": 89000,
+            "sale_price_max": 259000,
+            "sale_percent": 14,
+            "sold": 365,
+            "order_count_text": "365",
+            "seller_admin_id": 99778,
+            "sku_user": "Thẻ nhớ Micro SDXC Yoosee",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 99778,
+                "name": "Phụ Kiện Công Nghệ 24H",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 130,
+                "star": 4.8
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 23123218,
+            "name": "Bộ Micro Không Dây Karaoke, Chuyên dụng cho Amply, Loa kéo, vang - Bảo hành chính hãng 12 Tháng",
+            "category_path": "bo-micro-khong-day-karaoke-chuyen-dung-cho-amply-loa-keo-vang-bao-hanh-chinh-hang-12-thang-23123218.html",
+            "image": "https://media3.scdn.vn/img4/2023/05_04/MdqH0z6FSEjI9eDOaEMk_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 600000,
+            "default_price_max": 700000,
+            "sale_price_min": 329000,
+            "sale_price_max": 389000,
+            "sale_percent": 46,
+            "sold": 849,
+            "order_count_text": "849",
+            "seller_admin_id": 99778,
+            "sku_user": "Bộ Micro Karaoke cho Amply, loa kéo",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 99778,
+                "name": "Phụ Kiện Công Nghệ 24H",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 345,
+                "star": 4.6
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 22888948,
+            "name": "Vang Cơ Nex FX50 PLUS Đời Mới 2022 Tích Hợp Chế Độ REVERB-tặng dây",
+            "category_path": "vang-co-nex-fx50-plus-doi-moi-2022-tich-hop-che-do-reverb-tang-day-22888948.html",
+            "image": "https://media3.scdn.vn/img4/2023/12_30/LKepygZZ164b1xEU0ydX_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1390000,
+            "default_price_max": 1450000,
+            "sale_price_min": 1200000,
+            "sale_price_max": 1200000,
+            "sale_percent": 18,
+            "sold": 60,
+            "order_count_text": "60",
+            "seller_admin_id": 552717,
+            "sku_user": "fx50plus",
+            "active_event_frame": "flash_sale",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 552717,
+                "name": "Điện máy Duy Tình",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 30,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "flash_sale",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/aRbPXfiRl6OXLDrLAWOR.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 17670842,
+            "name": "Thẻ nhớ MicroSDXC Yoosee 64GB, 32GB, U3-Class 10, Chuyên dụng Camera, smartphone - Bảo hành lỗi 1 đổi 1",
+            "category_path": "the-nho-microsdxc-yoosee-64gb-32gb-u3-class-10-chuyen-dung-camera-smartphone-bao-hanh-loi-1-doi-1-17670842.html",
+            "image": "https://media3.scdn.vn/img4/2022/08_23/EHIJVOdbUpewsI5H5m81_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 100000,
+            "default_price_max": 150000,
+            "sale_price_min": 99000,
+            "sale_price_max": 139000,
+            "sale_percent": 8,
+            "sold": 805,
+            "order_count_text": "805",
+            "seller_admin_id": 99778,
+            "sku_user": "Thẻ nhớ Camera, smartphone",
+            "like_counter": 21,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 99778,
+                "name": "Phụ Kiện Công Nghệ 24H",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 253,
+                "star": 4.7
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 16898701,
+            "name": "Combo 2 Bóng đèn cảm ứng hồng ngoại chuyển động thông minh 9w",
+            "category_path": "combo-2-bong-den-cam-ung-hong-ngoai-chuyen-dong-thong-minh-9w-16898701.html",
+            "image": "https://media3.scdn.vn/img4/2023/04_23/L7z4HEgI9jSxsH5JOakd_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 200000,
+            "default_price_max": 200000,
+            "sale_price_min": 137500,
+            "sale_price_max": 137500,
+            "sale_percent": 32,
+            "sold": 120,
+            "order_count_text": "120",
+            "seller_admin_id": 533782,
+            "sku_user": "QB53",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 533782,
+                "name": "Vua Gia Si",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 34,
+                "star": 4.6
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 16897771,
+            "name": "Cuộn Led dây dán 5m 5050 12v có keo",
+            "category_path": "cuon-led-day-dan-5m-5050-12v-co-keo-16897771.html",
+            "image": "https://media3.scdn.vn/img3/2019/3_22/OMTr1q_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 140000,
+            "default_price_max": 140000,
+            "sale_price_min": 86000,
+            "sale_price_max": 86000,
+            "sale_percent": 39,
+            "sold": 214,
+            "order_count_text": "214",
+            "seller_admin_id": 533782,
+            "sku_user": "QB46",
+            "active_event_frame": "flash_sale",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 533782,
+                "name": "Vua Gia Si",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 35,
+                "star": 4.4
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "flash_sale",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/aRbPXfiRl6OXLDrLAWOR.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        },
+        {
+            "id": 13135395,
+            "name": "Bộ Micro Karaoke Không dây ONTEKCO MF333 UHF Cao cấp, Hút âm tốt, Chuyên dụng cho Mọi amply, Mọi Loa Kéo - Bảo hành 12 Tháng",
+            "category_path": "bo-micro-karaoke-khong-day-ontekco-mf333-uhf-cao-cap-hut-am-tot-chuyen-dung-cho-moi-amply-moi-loa-keo-bao-hanh-12-thang-13135395.html",
+            "image": "https://media3.scdn.vn/img4/2023/11_28/F8yFgqr5yPSz5Rc2OfPr_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 350000,
+            "default_price_max": 950000,
+            "sale_price_min": 185000,
+            "sale_price_max": 645000,
+            "sale_percent": 48,
+            "sold": 117,
+            "order_count_text": "117",
+            "seller_admin_id": 99778,
+            "sku_user": "Bộ 2 Micro Không Dây",
+            "like_counter": 25,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "meta_data": {
+                "is_sendo_select": "true"
+            },
+            "shop": {
+                "id": 99778,
+                "name": "Phụ Kiện Công Nghệ 24H",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 21,
+                "star": 4.8
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "sendo_select",
+                    "text": "Chọn lọc bởi Sendo",
+                    "text_color": "#674f00",
+                    "bg_color": "#fff2c2",
+                    "icon": "https://media3.scdn.vn/img4/2023/10_25/VOz7ApKp5huVU7A97OAQ.png"
+                }
+            ]
+        }
+    ],
+    "data_debug": null,
+    "meta_data": {
+        "source_info": {
+            "source_block_id": "feed",
+            "source_page_id": "search"
+        },
+        "experiment_id": 0,
+        "special_res": 0,
+        "total_count": 41,
+        "count_from_es": 0,
+        "total_page": 1,
+        "belong_tab": "rank",
+        "current_page": 1,
+        "request_id": "a93c00ea-abc4-4e68-9f2f-80a09a486cbc",
+        "ranking_random_values": null,
+        "source_data": "ES",
+        "message": {
+            "not_found": "",
+            "found": ""
+        },
+        "corrected_query": "",
+        "origin_query": "",
+        "corrected_qic": "",
+        "origin_qic": "",
+        "last_offset": 41,
+        "sendo_click": null,
+        "search_algo": "default",
+        "tool_applied_tracking": {
+            "cat_level_2": false,
+            "first_term": false,
+            "pin_product": false,
+            "redirect": false,
+            "auto_query_correct": false
+        },
+        "auto_correct_query": "",
+        "popup_info": {
+            "name": "",
+            "data": {
+                "image": "",
+                "description": "",
+                "expires": 0,
+                "type": 0,
+                "confirm": "",
+                "decline": ""
+            }
+        }
+    },
+    "async_data": {
+        "products": {}
+    }
+}

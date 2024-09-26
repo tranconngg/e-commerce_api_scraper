@@ -1,0 +1,1021 @@
+stores_id,Name,store_url
+1,Bếp Việt - Cơm Văn Phòng - Đông Thiên,https://shopeefood.vn/ha-noi/bep-viet-com-van-phong-dong-thien
+2,Texas Chicken - Aeon Mall Hà Đông,https://shopeefood.vn/ha-noi/texas-chicken-aeon-mall-ha-dong
+3,Trà Sữa HAPPY - KĐT Đô Nghĩa,https://shopeefood.vn/ha-noi/tra-sua-happy-kdt-do-nghia
+4,Trà Sữa Tocotoco - Lò Đúc,https://shopeefood.vn/ha-noi/tra-sua-tocotoco-lo-duc
+5,Trà Sữa Seko Tea - Mễ Trì Thượng,https://shopeefood.vn/ha-noi/seko-tea-tra-sua-dai-loan
+6,Royaltea - 20 Nguyễn Đình Chiểu,https://shopeefood.vn/ha-noi/royaltea-20-nguyen-dinh-chieu
+7,Trà Sữa Tocotoco - Thiên Đường Bảo Sơn,https://shopeefood.vn/ha-noi/tra-sua-tocotoco-thien-duong-bao-son
+8,Bánh Mì Bắp - Gà Popcorn & Bánh Mì Gà Nem - Trần Quang Diệu,https://shopeefood.vn/ha-noi/banh-mi-bap-ga-popcorn-banh-mi-ga-nem-tran-quang-dieu
+9,Trà Sữa Royaltea - Xuân La,https://shopeefood.vn/ha-noi/tra-sua-royaltea-xuan-la
+10,Master Tea 美茶 - Bồ Đề,https://shopeefood.vn/ha-noi/master-tea-%E7%BE%8E%E8%8C%B6-bo-de
+11,"Bếp Mẹ Thỏ - Bún, Miến & Phở Trộn Online",https://shopeefood.vn/ha-noi/bep-me-tho-bun-mien-pho-tron-online
+12,Kem Dairy Queen - Royal City,https://shopeefood.vn/ha-noi/dairy-queen-royal-city
+13,Kem Swensen's - Times City,https://shopeefood.vn/ha-noi/kem-swensen-s-times-city
+14,"Trà Chanh Dương Dương - Mì Cay, Tokbokki - Shop Online",https://shopeefood.vn/ha-noi/tra-chanh-duong-duong-mi-cay-tokbokki-shop-online
+15,Mỳ Cay Ngõ - Đồng Me,https://shopeefood.vn/ha-noi/my-cay-ngo-dong-me
+16,The Pizza Company - The Manor,https://shopeefood.vn/ha-noi/the-pizza-company-the-manor
+17,Minh Hoàng Bakery - Bông Lan Trứng Muối & Đồ Uống Online - Trần Thái Tông,https://shopeefood.vn/ha-noi/minh-hoang-bakery-bong-lan-trung-muoi-do-uong-online-tran-thai-tong
+18,Vịt 29 - Vịt Quay Bắc Kinh - Bạch Mai,https://shopeefood.vn/ha-noi/vit-29-vit-quay-bac-kinh-bach-mai
+19,Trà Sữa Taster's Choice - Hà Đông,https://shopeefood.vn/ha-noi/tra-sua-taster-s-choice-ha-dong
+20,Odi Bakery - Trà & Bánh Ngọt - Phan Văn Trường,https://shopeefood.vn/ha-noi/odi-bakery-tra-banh-ngot-phan-van-truong
+21,Trà Sữa Tocotoco - 271 Nguyễn Khang,https://shopeefood.vn/ha-noi/tra-sua-tocotoco-271-nguyen-khang
+22,Nọng FOOD - Mì Trộn Indomie & Trà Chanh - Kim Giang,https://shopeefood.vn/ha-noi/noong-food-my-tron-indomie-tra-chanh-kim-giang
+23,Gà Rán KFC - Bạch Mai,https://shopeefood.vn/ha-noi/kfc-bach-mai-ha-noi
+24,TOUS les JOURS - Lý Thường Kiệt,https://shopeefood.vn/ha-noi/tous-les-jours-ly-thuong-kiet
+25,Teen's Food - Bánh Mì Doner Kebab & Các Món Ăn Vặt - 17 Võng Thị,https://shopeefood.vn/ha-noi/teen-s-food-banh-mi-doner-kebab-cac-mon-an-vat-17-vong-thi
+26,Ốc Hương Trang® - 139B Lê Hồng Phong,https://shopeefood.vn/ha-noi/oc-huong-trang-139b-le-hong-phong
+27,Bếp Mẹ Cua - Mì Indomie & Đồ Ăn Vặt - Nghĩa Dũng,https://shopeefood.vn/ha-noi/bep-me-cua-mi-indomie-do-an-vat-nghia-dung
+28,Gugsumi - Bún Trộn Healthy - Khương Trung,https://shopeefood.vn/ha-noi/gugsumi-bun-tron-healthy-khuong-trung
+29,Quán Ăn Hợp Tác Xã & Cơm Niêu - Tây Sơn,https://shopeefood.vn/ha-noi/quan-an-hop-tac-xa-com-nieu-tay-son
+30,Pepperonis Pizza - Lê Duẩn,https://shopeefood.vn/ha-noi/pepperonis-pizza-le-duan
+31,Bin Bon - Mì Trộn Indomie - Kim Giang,https://shopeefood.vn/ha-noi/bin-bon-mi-tron-indomie-kim-giang
+32,"Al Fresco's - Pizza, Mỳ Ý, Sườn, Steak Bò Bít Tết - Hai Bà Trưng",https://shopeefood.vn/ha-noi/al-fresco-s-hai-ba-trung
+33,Anh Béo - Bún Miến Ngan - Trần Quốc Vượng,https://shopeefood.vn/ha-noi/anh-beo-bun-mien-ngan-tran-quoc-vuong
+34,Cơm Phố - Cơm Gà & Cơm Bò - Dương Khuê,https://shopeefood.vn/ha-noi/com-pho-com-ga-com-bo-duong-khue
+35,Cơm Cô Ba - Cơm Văn Phòng,https://shopeefood.vn/ha-noi/com-co-ba-com-van-phong
+36,Gà Rán Kpub Chicken,https://shopeefood.vn/ha-noi/ga-ran-kpub-chicken
+37,Nam Hà - Thịt Xiên Nướng - Trần Cung,https://shopeefood.vn/ha-noi/nam-ha-thit-xien-nuong-tran-cung.kl2bpp
+38,Quang Thắng - Cơm Ngon Văn Phòng,https://shopeefood.vn/ha-noi/quang-thang-com-ngon-van-phong
+39,LQS - Chuyên Bún Bò Huế & Cơm Rang Giòn - Trường Chinh,https://shopeefood.vn/ha-noi/lqs-chuyen-bun-bo-hue-com-rang-gion-online
+40,Pizza Ông Tây - Đỗ Quang,https://shopeefood.vn/ha-noi/pizza-ong-tay-do-quang
+41,Cơm Rang Hòa - Tô Hiệu,https://shopeefood.vn/ha-noi/com-rang-hoa
+42,Hà Béo - Ăn Vặt Các Loại,https://shopeefood.vn/ha-noi/ha-beo-an-vat-cac-loai
+43,"Hân - Tokbokki, Gà Sốt Cay Hàn Quốc & Ăn Vặt - Hồ Tùng Mậu",https://shopeefood.vn/ha-noi/han-tokbokki-ga-sot-cay-han-quoc-an-vat-ho-tung-mau
+44,Như Mây - Bánh Đa Trộn,https://shopeefood.vn/ha-noi/nhu-may-banh-da-tron
+45,Nem Nướng Nha Trang Ngọc Hằng - Phú Diễn,https://shopeefood.vn/ha-noi/nem-nuong-nha-trang-ngoc-hang-phu-dien
+46,Hoa Béo - Nem Nướng Ninh Hoà - Xa La,https://shopeefood.vn/ha-noi/hoa-beo-nem-nuong-nha-trang-xa-la
+47,Bảo Bảo - Mì Trộn Indomie - Shop Online,https://shopeefood.vn/ha-noi/bao-bao-mi-tron-indomie-shop-online
+48,"iChi Food - Cháo, Súp & Mỳ Xào - 169 Tôn Đức Thắng",https://shopeefood.vn/ha-noi/ichi-food-chao-sup-my-xao-169-ton-duc-thang
+49,Cơm 3 Miền - Cơm Văn Phòng Online - 67 Võ Chí Công,https://shopeefood.vn/ha-noi/com-3-mien-com-van-phong-online-67-vo-chi-cong
+50,A Lẩu - Cháo Lòng,https://shopeefood.vn/ha-noi/a-lau-chao-long
+51,"Gà Luộc, Gà Ủ Muối & Cơm Cháy - Duyên Dương",https://shopeefood.vn/ha-noi/ga-luoc-ga-u-muoi-com-chay-duyen-duong
+52,Bún Đậu Mẹt Thủy Mít - C8 Thành Công,https://shopeefood.vn/ha-noi/bun-dau-met-thuy-mit-c8-thanh-cong
+53,Bom Bốp - Bún Đậu Mơ,https://shopeefood.vn/ha-noi/bom-bop-bun-dau-mo
+54,Gà Tươi Mạnh Hoạch - 210 Trần Điền,https://shopeefood.vn/ha-noi/ga-tuoi-manh-hoach-210-tran-dien
+55,Sushi Garden,https://shopeefood.vn/ha-noi/sushi-garden
+56,Đức Food - Mì Trộn Indomie - Ngõ 95 Chùa Bộc,https://shopeefood.vn/ha-noi/duc-food-mi-tron-indomie-ngo-95-chua-boc
+57,Trà Sữa Bobapop - 59 Trần Quốc Vượng,https://shopeefood.vn/ha-noi/tra-sua-bobapop-59-tran-quoc-vuong
+58,GÀ RÁN & BURGER GONGFU CHICKEN - 521 Nguyễn Trãi,https://shopeefood.vn/ha-noi/ga-ran-burger-gongfu-chicken-521-nguyen-trai
+59,Guu Chicken - Cơm Gà & Gà Rán - Trần Quốc Hoàn,https://shopeefood.vn/ha-noi/guu-chicken-com-ga-ga-ran-tran-quoc-hoan
+60,Maru Korean - Tiệm Đồ Ăn Hàn Quốc & Trà Sữa - Lê Đại Hành,https://shopeefood.vn/ha-noi/maru-korean-tiem-do-an-han-quoc-tra-sua-le-dai-hanh
+61,Ding Tea - Cầu Diễn,https://shopeefood.vn/ha-noi/ding-tea-cau-dien
+62,Gà Rán Việt,https://shopeefood.vn/ha-noi/ga-ran-viet
+63,Vinamilk - Giấc Mơ Sữa Việt - Định Công Thượng - AC10091,https://shopeefood.vn/ha-noi/vinamilk-giac-mo-sua-viet-dinh-cong-thuong-ac10091
+64,Trà Sữa Miutea - Học Viện Nông Nghiệp,https://shopeefood.vn/ha-noi/tra-sua-miutea-hoc-vien-nong-nghiep
+65,Cơm Tấm Phương Anh - Bạch Mai,https://shopeefood.vn/ha-noi/com-tam-phuong-anh-bach-mai
+66,LaBoong - Trà Ô Long Làng La Boong - 86 Lê Trọng Tấn,https://shopeefood.vn/ha-noi/laboong-tra-o-long-lang-la-boong-86-le-trong-tan
+67,Trà Sữa Tocotoco - Cầu Giấy,https://shopeefood.vn/ha-noi/tra-sua-tocotoco-262-cau-giay
+68,Gà 36 - Linh Đàm,https://shopeefood.vn/ha-noi/ga-36-linh-dam
+69,Trà sữa ToCoToCo - 285 Hoàng Văn Thái,https://shopeefood.vn/ha-noi/tra-sua-tocotoco-285-hoang-van-thai
+70,Trà sữa Mixue - Trần Nguyên Đán,https://shopeefood.vn/ha-noi/tra-sua-mixue-tran-nguyen-dan
+71,Katty Food - Mỳ Trộn Indomie - Lô 27 DV8 KĐT Tây Nam Linh Đàm,https://shopeefood.vn/ha-noi/katty-food-my-tron-indomie-lo-27-dv8-kdt-tay-nam-linh-dam
+72,Choux Juice - Trà Hoa Quả & Nước Ép Nguyên Chất - Nguyễn Xiển,https://shopeefood.vn/ha-noi/choux-juice-tra-hoa-qua-nuoc-ep-nguyen-chat-nguyen-xien
+73,Nước Ép Trái Cây - Chin’s Fruit Tô Hiệu,https://shopeefood.vn/ha-noi/nuoc-ep-trai-cay-chin-s-fruit-to-hieu
+74,Burger King - Giảng Võ,https://shopeefood.vn/ha-noi/burger-king-giang-vo
+75,Cơm Thố Bách Khoa - Khâm Thiên,https://shopeefood.vn/ha-noi/com-tho-bach-khoa-kham-thien
+76,Cơm Thố Anh Nguyễn - Bán Đảo Linh Đàm,https://shopeefood.vn/ha-noi/com-tho-anh-nguyen-ban-dao-linh-dam
+77,Bò Nầm Nướng Binbon - Nguyễn Trãi,https://shopeefood.vn/ha-noi/bo-nam-nuong-binbon-nguyen-trai
+78,Sữa Chua Bà Phương,https://shopeefood.vn/ha-noi/sua-chua-ba-phuong
+79,Duy Nhất - Phở Bò & Cơm Rang - Vĩnh Hưng,https://shopeefood.vn/ha-noi/duy-nhat-pho-bo-com-rang-vinh-hung
+80,"Cơm Thố Delichi - Cơm Thố Gà, Xá Xíu - Nghĩa Tân",https://shopeefood.vn/ha-noi/com-tho-delichi-com-tho-ga-xa-xiu-nghia-tan
+81,Duy Food - Mì Trộn Indomie,https://shopeefood.vn/ha-noi/duy-food-mi-tron-indomie
+82,Mì Trộn Thu Trang - Trần Khát Chân,https://shopeefood.vn/ha-noi/mi-tron-thu-trang-tran-khat-chan
+83,"Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Dương Khuê",https://shopeefood.vn/ha-noi/bento-delichi-com-ga-xoi-mo-com-ga-mam-toi-duong-khue
+84,Bếp Nhỏ Indo - Mỳ Trộn & Đồ Ăn Vặt,https://shopeefood.vn/ha-noi/bep-nho-indo-my-tron-do-an-vat
+85,Namsan Chicken - Triệu Việt Vương,https://shopeefood.vn/ha-noi/namsan-chicken-trieu-viet-vuong
+86,"Bami Bee - Bánh Mì, Mì Trộn Indomie & Gà Ủ Muối - Đầm Bầu",https://shopeefood.vn/ha-noi/bami-bee-banh-mi-mi-tron-indomie-ga-u-muoi-dam-bau
+87,Bếp Mẹ Jo - Bún Mọc & Cháo Gà,https://shopeefood.vn/ha-noi/bep-me-jo-bun-moc-chao-ga
+88,Bánh Mì Hội An - Đồ Ăn Vặt Online - Tân Mai,https://shopeefood.vn/ha-noi/banh-mi-hoi-an-do-an-vat-online-tan-mai
+89,DLC Chicken - Gà Rán Giòn Tan - Quan Nhân,https://shopeefood.vn/ha-noi/dlc-chicken-ga-ran-gion-tan-quan-nhan
+90,Tiệm Gà Ủ Muối - Gà Luộc & Gà Ủ Muối - Nguyễn Viết Xuân,https://shopeefood.vn/ha-noi/tiem-ga-u-muoi-ga-luoc-ga-u-muoi-nguyen-viet-xuan
+91,Mập Quán - Đồ Ăn Vặt & Mỳ Xào - Nguyên Hồng,https://shopeefood.vn/ha-noi/map-quan-do-an-vat-my-xao-nguyen-hong
+92,Tiger Sugar - Vũ Trọng Phụng,https://shopeefood.vn/ha-noi/tiger-sugar-vu-trong-phung
+93,Nem Nướng Nha Trang - Nem Lụi - Bánh Tráng Cuốn Thịt Heo - Mễ Trì,https://shopeefood.vn/ha-noi/nem-nuong-nha-trang-nem-lui-banh-trang-cuon-thit-heo-me-tri
+94,Trà Sữa - Mỳ Cay & Đồ Ăn Vặt Huyền Linh - 47 Dương Quảng Hàm,https://shopeefood.vn/ha-noi/tra-sua-my-cay-do-an-vat-huyen-linh-47-duong-quang-ham
+95,"Mỳ Cay, Bánh Mỳ & Hoa Quả - Ngọc Thụy",https://shopeefood.vn/ha-noi/my-cay-banh-my-hoa-qua-ngoc-thuy
+96,Cơm Tấm Delichi - Cơm Tấm Sườn Bì Chả - Dương Khuê,https://shopeefood.vn/ha-noi/com-tam-delichi-com-tam-suon-bi-cha-duong-khue
+97,Việt Nguyễn Coffee - Mai Anh Tuấn,https://shopeefood.vn/ha-noi/viet-nguyen-coffee-mai-anh-tuan
+98,"Xoài - Bánh Kebab, Phở & Cafe - 39 Tây Tựu",https://shopeefood.vn/ha-noi/xoai-banh-kebab-pho-cafe-39-tay-tuu.dh7ios
+99,"Dương Dương - Lẩu Tokbokki, Mỳ Cay, Trà Chanh & Trà Tắc Online - Đồng Me",https://shopeefood.vn/ha-noi/duong-duong-lau-tokbokki-my-cay-tra-chanh-tra-tac-online-dong-me
+100,Hoàng Huệ - Cơm Rang & Bún Bò Trộn - Chùa Láng,https://shopeefood.vn/ha-noi/hoang-hue-com-rang-bun-bo-tron-chua-lang
+101,Tanka Quán - Chân Gà Nướng & Cánh Gà Nướng - Đê La Thành,https://shopeefood.vn/ha-noi/tanka-quan-chan-ga-nuong-canh-ga-nuong-de-la-thanh
+102,Bami King - Bánh Mì Bò Nướng & Cơm Thố - An Trạch,https://shopeefood.vn/ha-noi/bami-king-banh-mi-bo-nuong-com-tho-an-trach
+103,Bami Sot - Bánh Mì Đen - Lò Đúc,https://shopeefood.vn/ha-noi/bami-sot-banh-mi-den-lo-duc
+104,A-Phú - Mì Trộn Indomie & Ăn Vặt - Phố Trần Cung,https://shopeefood.vn/ha-noi/a-phu-mi-tron-indomie-an-vat-pho-tran-cung
+105,Cơm Sườn Đào Duy Từ - TTTM TSQ Nguyễn Văn Lộc,https://shopeefood.vn/ha-noi/com-suon-dao-duy-tu-tttm-tsq-nguyen-van-loc
+106,ATD Food - Cơm Ngon Số 1 Nhật Hàn - Nguyễn Hoàng Tôn,https://shopeefood.vn/ha-noi/atd-food-com-ngon-so-1-nhat-han-nguyen-hoang-ton
+107,Tiệm Cơm ChisnBa - Cơm Rang Zòn - Trần Vỹ,https://shopeefood.vn/ha-noi/tiem-com-chisnba-com-rang-zon-tran-vy
+108,Xuân Food - Mì Trộn Indomie - Tây Sơn,https://shopeefood.vn/ha-noi/xuan-food-mi-tron-indomie-tay-son
+109,Gà Luộc & Gà Ủ Muối Hoa Tiêu & Gà Rán - Ao Sen,https://shopeefood.vn/ha-noi/ga-luoc-ga-u-muoi-hoa-tieu-ga-ran-ao-sen
+110,Long Biên Quán - Bún Bò Huế & Phở Bò,https://shopeefood.vn/ha-noi/long-bien-quan-bun-bo-hue-pho-bo
+111,Hoa Béo - Nem Nướng Ninh Hòa - Phạm Ngọc Thạch,https://shopeefood.vn/ha-noi/hoa-beo-nem-nuong-ninh-hoa-pham-ngoc-thach
+112,Let's Pizza - Pizza & Mì Ý - Bằng Liệt,https://shopeefood.vn/ha-noi/let-s-pizza-pizza-mi-y-bang-liet
+113,"Papa's Kitchen - Đồ Ăn Hàn Quốc & Tokbokki, Cơm Trộn - Hồng Mai",https://shopeefood.vn/ha-noi/papa-s-kitchen-do-an-han-quoc-tokbokki-com-tron-hong-mai
+114,Cơm Niêu Minh Nhật,https://shopeefood.vn/ha-noi/com-nieu-minh-nhat
+115,Hùng Huy - Bánh Cuốn Chả Phủ Lý - Nguyễn Trãi,https://shopeefood.vn/ha-noi/hung-huy-banh-cuon-cha-phu-ly-nguyen-trai
+116,Cháo Sườn Sụn Phố Cổ,https://shopeefood.vn/ha-noi/chao-suon-sun-pho-co
+117,Giang Cún - Bún Thái Hải Sản - Định Công Thượng,https://shopeefood.vn/ha-noi/giang-cun-bun-thai-hai-san-dinh-cong-thuong
+118,"Cơm Gà Sốt Cay, Cơm Trộn Cá Ngừ & Đồ Ăn Hàn - Moon 76",https://shopeefood.vn/ha-noi/com-ga-sot-cay-com-tron-ca-ngu-do-an-han-moon-76
+119,Thanh Hằng Quán - Phở & Cháo Các Loại,https://shopeefood.vn/ha-noi/thanh-hang-quan-pho-chao-cac-loai
+120,Ăn Vặt Hàn Quốc - Gà Rán - Linh Đàm,https://shopeefood.vn/ha-noi/an-vat-han-quoc-ga-ran-linh-dam
+121,Nui Cô Béo - Ngõ Văn Chương,https://shopeefood.vn/ha-noi/nui-co-beo-ngo-van-chuong
+122,Quán Quen - Mỳ Chua Cay - 167 Tây Sơn,https://shopeefood.vn/ha-noi/quan-quen-my-chua-cay-167-tay-son
+123,Gà Rán & Gà Ủ Muối Hoa Tiêu - Hoàng Ngân,https://shopeefood.vn/ha-noi/ga-ran-ga-u-muoi-hoa-tieu-hoang-ngan
+124,Seoul - Gà Rán Hàn Quốc - Linh Đàm,https://shopeefood.vn/ha-noi/seoul-ga-ran-han-quoc-linh-dam
+125,Bánh Canh Ghẹ Út Còi - Nguyễn Văn Lộc,https://shopeefood.vn/ha-noi/banh-canh-ghe-ut-coi-nguyen-van-loc
+126,"Le Pain Lee - Burger, Gà Rán & Cơm Gà - Nguyễn Xiển",https://shopeefood.vn/ha-noi/le-pain-lee-burger-ga-ran-com-ga-nguyen-xien
+127,Kaoya Hotpot - Mì Vịt Quay & Cơm Xá Xíu,https://shopeefood.vn/ha-noi/kaoya-hotpot-mi-vit-quay-com-xa-xiu
+128,Cơm Gà 8x - Dương Khuê,https://shopeefood.vn/ha-noi/com-ga-8x-duong-khue
+129,Lẩu Nấm Hoàng Gia - Sushi - CT5 Sông Đà,https://shopeefood.vn/ha-noi/lau-nam-hoang-gia-sushi-ct5-song-da
+130,Quán 65 - Cơm Văn Phòng - Nguyễn Trãi,https://shopeefood.vn/ha-noi/quan-65-com-van-phong-nguyen-trai
+131,Gà Rán Taiwan Hot Chicken & Tea - Khương Trung,https://shopeefood.vn/ha-noi/ga-ran-taiwan-hot-chicken-tea-khuong-trung
+132,An Cựu - Bún Bò Huế - Trung Văn,https://shopeefood.vn/ha-noi/an-cuu-bun-bo-hue-trung-van
+133,LATU Quán - Nem Nướng Nha Trang - Yên Phúc,https://shopeefood.vn/ha-noi/latu-quan-nem-nuong-nha-trang-yen-phuc
+134,Mì Trộn Indomie 158 - Thành Công,https://shopeefood.vn/ha-noi/mi-tron-indomie-158-thanh-cong
+135,"Zen Zen - Cơm Gà, Gà Rán & Cơm Bò - Trần Duy Hưng",https://shopeefood.vn/ha-noi/zen-zen-com-ga-ga-ran-com-bo-tran-duy-hung
+136,Cô Tám - Cơm Rang & Cơm Tấm - 126 Hồng Mai,https://shopeefood.vn/ha-noi/co-tam-com-rang-an-vat-126-hong-mai
+137,Hương Vị Việt - Gà Rán & Gà Ủ Muối - Bùi Xương Trạch,https://shopeefood.vn/ha-noi/huong-vi-viet-ga-ran-ga-u-muoi-bui-xuong-trach
+138,"MinCha - Gà Ủ Muối, Mì Trộn Indomie & Đồ Ăn Vặt",https://shopeefood.vn/ha-noi/mincha-ga-u-muoi-mi-tron-indomie-do-an-vat
+139,Món Ngon Phủ Lý - Bánh Cuốn & Bánh Đa - Thanh Xuân Bắc,https://shopeefood.vn/ha-noi/mon-ngon-phu-ly-banh-cuon-banh-da-thanh-xuan-bac
+140,Cuốn Xưa - Phở Cuốn Hà Thành - Tân Mai,https://shopeefood.vn/ha-noi/cuon-xua-pho-cuon-ha-thanh-tan-mai
+141,Thủy - Phở Gà Ta & Bún Thang,https://shopeefood.vn/ha-noi/thuy-pho-ga-ta-bun-thang
+142,Bún Chả Cô Bằng - Ngõ 5 Khuất Duy Tiến,https://shopeefood.vn/ha-noi/bun-cha-co-bang-ngo-5-khuat-duy-tien
+143,Bún Riêu Cua Tóp Mỡ Huỳnh Anh CS3 - Nguyễn Văn Tuyết,https://shopeefood.vn/ha-noi/bun-rieu-cua-top-mo-huynh-anh-cs3-nguyen-van-tuyet
+144,Cơm Văn Phòng & Cơm Niêu Hợp Tác Xã - Nguyễn Đổng Chi,https://shopeefood.vn/ha-noi/com-van-phong-com-nieu-hop-tac-xa-nguyen-dong-chi
+145,Gà Luộc & Gà Ủ Muối - Hẻm 65 Định Công Hạ,https://shopeefood.vn/ha-noi/ga-luoc-ga-u-muoi-hem-65-dinh-cong-ha
+146,Tiệm Gà Ủ Muối - Gà Luộc & Gà Ủ Muối - Lê Quý Đôn 2,https://shopeefood.vn/ha-noi/tiem-ga-u-muoi-ga-luoc-ga-u-muoi-le-quy-don-2
+147,JapanDeli Express - Shophouse S07 Park 10 KĐT Vinhomes Times City Park Hill,https://shopeefood.vn/ha-noi/japandeli-express-shophouse-s07-park-10-kdt-vinhomes-times-city-park-hill
+148,Gugsumi - Cơm Gà & Cơm Văn Phòng - Yên Phúc,https://shopeefood.vn/ha-noi/gugsumi-com-ga-com-van-phong-yen-phuc
+149,Bún Bò Huế Thu Sương - Trần Quang Diệu,https://shopeefood.vn/ha-noi/bun-bo-hue-thu-suong-tran-quang-dieu
+150,Bếp Bum - Bún Trộn Bò Nam Bộ - Hoàng Mai,https://shopeefood.vn/ha-noi/bep-bum-bun-tron-bo-nam-bo-hoang-mai
+151,Bún Bò Huế 65 Đường Láng - Đào Tấn,https://shopeefood.vn/ha-noi/bun-bo-hue-65-duong-lang-dao-tan
+152,Bún Bò Huế Bến Ngự - Lạc Trung,https://shopeefood.vn/ha-noi/bun-bo-hue-ben-ngu-lac-trung
+153,"Hadu Y - Gà Rán, Pizza & Trà Sữa",https://shopeefood.vn/ha-noi/hadu-y-ga-ran-pizza-tra-sua
+154,Nem Nướng Nha Trang Minh Đức - Nghĩa Tân,https://shopeefood.vn/ha-noi/nem-nuong-nha-trang-minh-duc-nghia-tan
+155,Bún Chả Hà Nội - Lạc Long Quân,https://shopeefood.vn/ha-noi/bun-cha-ha-noi-lac-long-quan
+156,"Tường An - Nước Ép, Sinh Tố & Cà Phê",https://shopeefood.vn/ha-noi/tuong-an-nuoc-ep-sinh-to-ca-phe
+157,TacoZone - Nguyễn Thái Học,https://shopeefood.vn/ha-noi/tacozone-nguyen-thai-hoc
+158,Mr. Spaghetti - Nguyễn Thái Học,https://shopeefood.vn/ha-noi/mr-spaghetti-nguyen-thai-hoc
+159,SugarKing - Đường Nâu Đài Loan - Giảng Võ,https://shopeefood.vn/ha-noi/sugarking-duong-nau-dai-loan-giang-vo
+160,"Nem Chạo Dương Thanh - Chạo, Nem Nắm, Nem Tai & Bún Chạo",https://shopeefood.vn/ha-noi/nem-chao-duong-thanh-nem-chao-nem-nam-nem-tai-giap-bat
+161,Tâm Food - Mì Trộn Indomie & Bánh Mì - Tây Sơn,https://shopeefood.vn/ha-noi/tam-food-mi-tron-indomie-banh-mi-tay-son.i1rvs9
+162,Cô Quỳnh - Chè Mùa Hè & Sinh Tố Nước Ép,https://shopeefood.vn/ha-noi/co-quynh-che-mua-he-sinh-to-nuoc-ep
+163,Milktea - Hoa Quả Dầm Caramen Sữa Chua Online - Bùi Xương Trạch,https://shopeefood.vn/ha-noi/milktea-hoa-qua-dam-caramen-sua-chua-online-bui-xuong-trach
+164,Thanh Tâm - Chuyên Trà Sữa & Đồ Ăn Vặt - Shop Online,https://shopeefood.vn/ha-noi/thanh-tam-chuyen-tra-sua-do-an-vat-shop-online.1ng25z
+165,"Nem Chua Rán, Gà Rán & Mẹt Ăn Vặt - Chiến Thắng",https://shopeefood.vn/ha-noi/nem-chua-ran-ga-ran-met-an-vat-chien-thang
+166,Fish Love Cake - Bánh Sinh Nhật - Hồng Hà,https://shopeefood.vn/ha-noi/fish-love-cake-banh-sinh-nhat-hong-ha
+167,Super Chicken - Tiệm Gà Online,https://shopeefood.vn/ha-noi/super-chicken-tiem-ga-online
+168,Bún Cá Gia Quất - Bún & Bánh Đa - Gia Quất,https://shopeefood.vn/ha-noi/bun-ca-gia-quat-bun-banh-da-gia-quat
+169,NEM CHUA RÁN HỒNG HƯƠNG DỊCH VỌNG - 23 Ngõ 2E Phố Dịch Vọng,https://shopeefood.vn/ha-noi/nem-chua-ran-hong-huong-dich-vong-23-ngo-2e-pho-di-ch-vo-ng.98ocvs
+170,Linh Nhi Juice - Nước Ép & Sinh Tố Nguyên Chất,https://shopeefood.vn/ha-noi/linh-nhi-juice-nuoc-ep-sinh-to-nguyen-chat.egeq8c
+171,Bánh Mì Que - Chuẩn Vị Hải Phòng - Phố Nguyễn Phạm Tuân,https://shopeefood.vn/ha-noi/banh-mi-que-chuan-vi-hai-phong-pho-nguyen-pham-tuan
+172,Nem Lụi Huế - Ăn Là Like - Thụy Khuê,https://shopeefood.vn/ha-noi/nem-lui-an-la-like
+173,"Bếp Mẹ Beo Sóc- Trà Sữa, Chân Gà & Đồ Ăn Vặt - Đội Cấn",https://shopeefood.vn/ha-noi/bep-me-beo-soc-tra-sua-chan-ga-do-an-vat-doi-can
+174,Bánh Mì Cô Hoa - Gà Popcorn & Bánh Mì Gà Nem Khoai - Võ Quý Huân,https://shopeefood.vn/ha-noi/banh-mi-co-hoa-ga-popcorn-banh-mi-ga-nem-khoai-vo-quy-huan.joplgf
+175,Bếp Ba Bột - Chân Gà Sốt Thái & Chân Gà Hấp Thảo Quả - Nghĩa Tân,https://shopeefood.vn/ha-noi/bep-ba-bot-chan-ga-sot-thai-chan-ga-hap-thao-qua-nghia-tan
+176,Bếp Tuệ An - Homemade & Vegan food,https://shopeefood.vn/ha-noi/bep-tue-an-homemade-vegan-food
+177,Gà Quay & Gà Ủ Muối Hoa Tiêu PHÚC XXO - Gà Ủ Muối & Gà Quay,https://shopeefood.vn/ha-noi/ga-quay-ga-u-muoi-hoa-tieu-phuc-xxo-ga-u-muoi-ga-quay.4bxmrv
+178,"Gà Ủ Muối, Chân Gà Xả Tắc & Đồ Ăn Vặt - Phúc Đồng",https://shopeefood.vn/ha-noi/ga-u-muoi-chan-ga-xa-tac-do-an-vat-phuc-dong
+179,Dacheng Food - Đồ Ăn Vặt Nội Địa Trung - Shop Online,https://shopeefood.vn/ha-noi/dacheng-food-do-an-vat-noi-dia-trung-shop-online
+180,Bánh Mì Chả Nóng Long Đỉnh - Nguỵ Như Kon Tum,https://shopeefood.vn/ha-noi/banh-mi-cha-nong-long-dinh-nguy-nhu-kon-tum
+181,Tiệm Bánh Rapha - Shop Online - Giáp Bát,https://shopeefood.vn/ha-noi/tiem-banh-rapha-shop-online-giap-bat
+182,Cháo Dinh Dưỡng Thùy Linh - Phan Đình Giót,https://shopeefood.vn/ha-noi/chao-dinh-duong-thuy-linh-phan-dinh-giot
+183,Cơm Ngon Quang Hiếu,https://shopeefood.vn/ha-noi/com-ngon-quang-hieu
+184,Tiệm Gà Ò Ó O - Gà Ủ Muối & Gà Hun Khói,https://shopeefood.vn/ha-noi/tiem-ga-o-o-o-ga-u-muoi-ga-hun-khoi
+185,Shin - Mì Cay & Đồ Ăn Vặt - Khâm Thiên,https://shopeefood.vn/ha-noi/shin-mi-cay-do-an-vat-kham-thien
+186,DH PLUS - Mì Trộn Indomie & Ăn Vặt,https://shopeefood.vn/ha-noi/dh-plus-mi-tron-indomie-an-vat
+187,Thế Giới Khay Hoa Quả Gọt Sẵn - Bánh Mỳ Kẹp & Đồ Ăn Vặt - Thái Thịnh 1,https://shopeefood.vn/ha-noi/the-gioi-khay-hoa-qua-got-san-banh-my-kep-do-an-vat-thai-thinh-1
+188,Bear Coffee & Tea - Tiệm Nhà Gấu,https://shopeefood.vn/ha-noi/bear-coffee-tea-tiem-nha-gau
+189,Sinh Viên Quán Cơm Rang - Cơm Rang - Hoàng Mai,https://shopeefood.vn/ha-noi/sinh-vien-quan-com-rang-com-rang-hoang-mai.hgfghk
+190,Gà Rán Bốp Bi,https://shopeefood.vn/ha-noi/ga-ran-bop-bi
+191,Trà Bí Đao An Nhiên - Giáp Nhất,https://shopeefood.vn/ha-noi/tra-bi-dao-an-nhien-giap-nhat
+192,Nước Ép & Sinh Tố - Tài Chính,https://shopeefood.vn/ha-noi/nuoc-ep-sinh-to-tai-chinh
+193,Bánh Gà Phùng Khoang,https://shopeefood.vn/ha-noi/banh-ga-phung-khoang
+194,Hách Vịt - Vịt Quay Tứ Xuyên & Canh Măng Tiết - Đường Kim Giang,https://shopeefood.vn/ha-noi/hach-vit-vit-quay-tu-xuyen-canh-mang-tiet-duong-kim-giang
+195,Nước Ép Sinh Tố - Đình Thôn,https://shopeefood.vn/ha-noi/nuoc-ep-sinh-to-dinh-thon
+196,Mì Tim Cật Chua Cay Phương Anh,https://shopeefood.vn/ha-noi/mi-tim-cat-chua-cay-phuong-anh
+197,Cháo Sườn Sụn 918 - Phúc Đồng,https://shopeefood.vn/ha-noi/chao-suon-sun-918-phuc-dong
+198,Gimbab Hàn Quốc - Nguyễn Trãi,https://shopeefood.vn/ha-noi/gimbab-han-quoc-nguyen-trai
+199,Bánh Mì & Xôi - Huấn Hoa Cúc,https://shopeefood.vn/ha-noi/banh-mi-xoi-huan-hoa-cuc
+200,Thiên Kê Quán - Gà Mẹt & Gà Nướng Tây Bắc - Vạn Phúc,https://shopeefood.vn/ha-noi/thien-ke-quan-ga-met-ga-nuong-tay-bac-van-phuc
+201,Đinh Huyền - Hàu Sữa Online,https://shopeefood.vn/ha-noi/dinh-huyen-hau-sua-online
+202,"Kem Tuyết, Trà Sữa & Bánh Ngọt - Môkkin - 322 Thái Hà",https://shopeefood.vn/ha-noi/kem-tuyet-tra-sua-banh-ngot-mokkin-322-thai-ha
+203,Chicken Go - Gà Rán Thái Lan - Yên Hòa,https://shopeefood.vn/ha-noi/chicken-go-ga-ran-thai-lan
+204,"54 Foods - Bánh Mì, Xôi & Cơm Thố - Mễ Trì Thượng",https://shopeefood.vn/ha-noi/54-foods-banh-mi-viet
+205,Bún Cá Chú Quảng,https://shopeefood.vn/ha-noi/bun-ca-chu-quang
+206,Thuỷ Mít - Cơm Rang & Phở Xào - Mỹ Đình,https://shopeefood.vn/ha-noi/thuy-mit-com-rang-pho-xao-my-dinh
+207,Thuỷ Mít - Cơm Đảo Văn Phòng - Mỹ Đình,https://shopeefood.vn/ha-noi/thuy-mit-com-dao-van-phong-my-dinh
+208,Nhật Hạ - Vua Gà Ủ Muối - Xuân Phương,https://shopeefood.vn/ha-noi/nhat-ha-vua-ga-u-muoi-xuan-phuong
+209,Gà Luộc & Gà Ủ Muối - Định Công Hạ,https://shopeefood.vn/ha-noi/ga-luoc-ga-u-muoi-dinh-cong-ha
+210,"Gà Rán, Cơm Tấm & Bánh Mì Đò Quan",https://shopeefood.vn/ha-noi/ga-ran-com-tam-banh-mi-do-quan
+211,Nem Nướng Nha Trang & Nem Lụi Huế - Trần Thái Tông,https://shopeefood.vn/ha-noi/nem-nuong-nha-trang-nem-lui-hue-tran-thai-tong
+212,"Bánh Đúc Nóng Online - Đồ Ăn Vặt, Chân Gà Sả Tắc & Đồ Uống - Phúc Đồng",https://shopeefood.vn/ha-noi/banh-duc-nong-online-do-an-vat-chan-ga-sa-tac-do-uong-phuc-dong
+213,Alopizza - Mỳ Ý & Pizza Tươi 100% - Phú Lương,https://shopeefood.vn/ha-noi/alopizza-my-y-pizza-tuoi-100-phu-luong
+214,Cà Phê Sạch Nguyên Chất - Dịch Vọng,https://shopeefood.vn/ha-noi/ca-phe-sach-nguyen-chat
+215,Quán Chiếc Lá Nhỏ - Bún Đậu Mẹt & Dồi Sụn,https://shopeefood.vn/ha-noi/quan-chiec-la-nho-bun-dau-met-doi-sun
+216,Quán Gà Ủ Muối & Gà Luộc - Đồ Ăn Nhanh - Triều Khúc,https://shopeefood.vn/ha-noi/quan-ga-u-muoi-ga-luoc-do-an-nhanh-trieu-khuc.smowle
+217,HaNa Gâteaux - Shop Online,https://shopeefood.vn/ha-noi/hana-cake-shop-online
+218,1999's Healthy Food - Cơm Gạo Lứt & Salad Eat Clean - Doãn Kế Thiện,https://shopeefood.vn/ha-noi/1999-s-healthy-food-com-gao-lut-salad-eat-clean-doan-ke-thien
+219,Quán Trà Hoa Thảo Mộc - Dịch Vọng,https://shopeefood.vn/ha-noi/quan-tra-hoa-thao-moc-dich-vong
+220,Min Bakery - Bông Lan Trứng Muối Online,https://shopeefood.vn/ha-noi/min-bakery-bong-lan-trung-muoi-online
+221,ĐỒ ĂN VẶT 24H LĨNH NAM - Đồ Ăn Vặt - Lĩnh Nam,https://shopeefood.vn/ha-noi/do-an-vat-24h-linh-nam-do-an-vat-linh-nam.ik1bka
+222,Bún Đậu Mắm Tôm Tuấn Lynh - Bún Đậu & Bún Chả Nướng - 9A Ngõ 294 Lĩnh Nam,https://shopeefood.vn/ha-noi/tuanlynh-food-bun-dau-met-bun-cha-nuong-9a-ngo-294-linh-nam
+223,Gà Rán Mr.Thịnh - Phùng Khoang,https://shopeefood.vn/ha-noi/ga-ran-mr-thinh-phung-khoang
+224,Nhi Food - Nem Chua Tạm Thương & Mì Trộn Indomie - Hồng Mai,https://shopeefood.vn/ha-noi/nhi-food-nem-chua-tam-thuong-mi-tron-indomie-hong-mai
+225,"Kencook - Gà Rán, Cơm Gà & Pizza - Nguyễn Lương Bằng",https://shopeefood.vn/ha-noi/kencook-ga-ran-com-ga-pizza-nguyen-luong-bang
+226,Hoàn Hương - Bánh Cuốn Nóng & Gà Tần,https://shopeefood.vn/ha-noi/hoan-huong-banh-cuon-nong-ga-tan
+227,Y Doan - Bún Đậu Mẹt & Bún Chả - Lương Định Của,https://shopeefood.vn/ha-noi/y-doan-bun-dau-met-bun-cha-luong-dinh-cua
+228,Dimsum Điểm Tâm Đài Loan - Phố Định Công Thượng,https://shopeefood.vn/ha-noi/dimsum-diem-tam-dai-loan-pho-dinh-cong-thuong
+229,Tiệm Bánh Mì Tử Tế - Định Công,https://shopeefood.vn/ha-noi/tiem-banh-mi-tu-te-dinh-cong
+230,An An - Mỳ Chua Cay - Ngõ 2 Ao Sen,https://shopeefood.vn/ha-noi/an-an-my-chua-cay-ngo-2-ao-sen
+231,Gà Rán & Gà Lắc Hương Vị Việt,https://shopeefood.vn/ha-noi/ga-ran-ga-lac-huong-vi-viet
+232,MiChuKa - Mì Chua Cay & Lẩu Thái Hải Sản - Khâm Thiên,https://shopeefood.vn/ha-noi/michuka-mi-chua-cay-lau-thai-hai-san-kham-thien
+233,Phương Trinh - Cơm Ngon,https://shopeefood.vn/ha-noi/phuong-trinh-com-ngon
+234,"Bếp Nhà Thỏ - Chân Gà Sốt Thái, Gà Ủ Muối & Mì Trộn Indomie - Bùi Xương Trạch",https://shopeefood.vn/ha-noi/bep-nha-tho-chan-ga-sot-thai-ga-u-muoi-mi-tron-indomie-bui-xuong-trach
+235,Gà Rán & Pizza 99,https://shopeefood.vn/ha-noi/ga-ran-pizza-99
+236,Bếp Nhà Gừng - Keto & More - Phùng Chí Kiên,https://shopeefood.vn/ha-noi/bep-nha-gung-keto-more-phung-chi-kien
+237,Gà ủ muối V-food - Gà Ủ Muối - Lê Quang Đạo,https://shopeefood.vn/ha-noi/ga-u-muoi-v-food-ga-u-muoi-le-quang-dao
+238,Duy Tùng - Mì Trộn Indomiee - Thái Hà,https://shopeefood.vn/ha-noi/duy-tung-mi-tron-indomiee-thai-ha
+239,Bún Đậu Mẹt & Bún Chả Hà Nội - Hoàng Phố,https://shopeefood.vn/ha-noi/bun-dau-met-bun-cha-ha-noi-hoang-pho
+240,Cơm Rang Hải Hậu - Phở Trường - Hoàng Mai,https://shopeefood.vn/ha-noi/com-rang-hai-hau-pho-truong-hoang-mai.vobhrb
+241,Gà Rán Khâm Thiên - Gà Luộc & Gà Ủ Muối Hoa Tiêu - Khâm Thiên,https://shopeefood.vn/ha-noi/ga-ran-kham-thien-ga-luoc-ga-u-muoi-hoa-tieu-kham-thien.xwhjlj
+242,Cơm Gà - Gà Rán Halloween - Nguyễn Văn Cừ,https://shopeefood.vn/ha-noi/com-ga-ga-ran-halloween-nguyen-van-cu
+243,"Miu Quán - Cà Phê Muối, Gà Rán & Đồ Ăn Vặt",https://shopeefood.vn/ha-noi/miu-quan-ca-phe-muoi-ga-ran-do-an-vat
+244,Bún Miến Trộn Thủy Mít - Nghĩa Tân,https://shopeefood.vn/ha-noi/vit-co-bun-mien-tron-nghia-tan
+245,Quán Khói - Lẩu Cốc & Đồ Ăn Vặt,https://shopeefood.vn/ha-noi/quan-khoi-lau-coc-do-an-vat
+246,Thu Phương - Nộm & Ăn Vặt,https://shopeefood.vn/ha-noi/thu-phuong-nom-an-vat
+247,"Gà Tần, Bánh Cuốn Nóng & Bún Chả - Vạn Phúc",https://shopeefood.vn/ha-noi/ga-tan-banh-cuon-nong-bun-cha-cau-am
+248,B9 - Cháo Sườn Sụn - Nguyễn Cảnh Dị,https://shopeefood.vn/ha-noi/b9-chao-suon-sun-nguyen-canh-di.7wlw0s
+249,Trà Sữa Wait Tea - 61 Sông Nhuệ,https://shopeefood.vn/ha-noi/tra-sua-wait-tea-61-song-nhue
+250,Vịt & Gà Nướng Lu A Đạt - Phố Ao Sen,https://shopeefood.vn/ha-noi/vit-ga-nuong-lu-a-dat-pho-ao-sen
+251,Nem Nướng Phở Cuốn Nguyên Xá - Cầu Diễn,https://shopeefood.vn/ha-noi/nem-nuong-pho-cuon-nguyen-xa-cau-dien
+252,Chân Gà Nướng 79 - Định Công,https://shopeefood.vn/ha-noi/chan-ga-nuong-79-dinh-cong
+253,CleanFastFood - Thế Giới Đồ Ăn Vặt - Vinhomes Smart City,https://shopeefood.vn/ha-noi/cleanfastfood-the-gioi-do-an-vat-vinhomes-smart-city
+254,Hồng Quân - Cháo Sườn Sụn - Phan Đình Giót,https://shopeefood.vn/ha-noi/hong-quan-chao-suon-sun-phan-dinh-giot
+255,Cơm Ngon 125 - Cơm - 32 Ngõ 125 Nguyễn Ngọc Vũ,https://shopeefood.vn/ha-noi/com-ngon-125-com-32-ngo-125-nguyen-ngoc-vu.18hkxf
+256,"QQ Food - Sushi, Sashimi & Bento - Nguyễn Huy Tưởng",https://shopeefood.vn/ha-noi/qq-food-sushi-sashimi-bento-nguyen-huy-tuong
+257,BINGO - Tiệm Cafe Muối - Nguyễn Tuân,https://shopeefood.vn/ha-noi/bingo-tiem-cafe-muoi-nguyen-tuan
+258,Bún Đậu Làng Mơ - Bún Đậu Mẹt - Yên Hoà,https://shopeefood.vn/ha-noi/bun-dau-lang-mo-bun-dau-met-yen-hoa.7pgdmq
+259,Bố Nhím - Mì Trộn & Đồ Ăn Vặt - Vũ Tông Phan,https://shopeefood.vn/ha-noi/bo-nhim-mi-tron-do-an-vat-vu-tong-phan
+260,Trà SOGA - Mãng Cầu - Nguyễn Trãi,https://shopeefood.vn/ha-noi/tra-soga-mang-cau-nguyen-trai
+261,Quán Gà Luộc & Gà Ủ Muối Đội Cấn - Khu Tập Thể Thành Công,https://shopeefood.vn/ha-noi/quan-ga-luoc-ga-u-muoi-doi-can-khu-tap-the-thanh-cong
+262,Quán Chum Tea - Coffee - Triều Khúc,https://shopeefood.vn/ha-noi/quan-chum-tea-coffee-trieu-khuc
+263,Thuỳ Linh - Cháo Dinh Dưỡng - Định Công,https://shopeefood.vn/ha-noi/thuy-linh-chao-dinh-duong-dinh-cong
+264,Cô Thanh - Kem Bơ Chè Sầu Đà Nẵng - Trần Duy Hưng,https://shopeefood.vn/ha-noi/co-thanh-kem-bo-che-sau-da-nang-tran-duy-hung
+265,Gà Tươi Phạm Xá - Geleximco Lê Trọng Tấn,https://shopeefood.vn/ha-noi/ga-tuoi-pham-xa-geleximco-le-trong-tan
+266,Bà Nghị - Bánh Mì Cay,https://shopeefood.vn/ha-noi/ba-nghi-banh-mi-cay
+267,Cô Hân - Phở Bò & Cơm Rang,https://shopeefood.vn/ha-noi/co-han-pho-bo-com-rang
+268,Quán Ăn Vặt 105 - Cổ Nhuế 2,https://shopeefood.vn/ha-noi/quan-an-vat-105-co-nhue-2.mlrocm
+269,Huyền Nem Quán - Ăn Nhanh - Nguyễn Đổng Chi,https://shopeefood.vn/ha-noi/huyen-nem-quan-an-nhanh-nguyen-dong-chi
+270,Cơm Gà Song Anh - Cơ Sở 1,https://shopeefood.vn/ha-noi/com-ga-song-anh-co-so-1
+271,"Sinh Tố, Nước Ép & Trà Trái Cây AYE - Nguyễn Ngọc Vũ",https://shopeefood.vn/ha-noi/sinh-to-nuoc-ep-tra-trai-cay-aye-nguyen-ngoc-vu
+272,SHIBUYA RAMEN - Linh Lang,https://shopeefood.vn/ha-noi/shibuya-ramen-linh-lang
+273,Thanh Cảnh - Bánh Mì Chảo,https://shopeefood.vn/ha-noi/thanh-canh-banh-mi-chao
+274,HeoKay - Mì Trộn Indomie - Nguyễn Khánh Toàn,https://shopeefood.vn/ha-noi/heokay-mi-tron-indomie-nguyen-khanh-toan
+275,Cơm Gia Đình Trung Kính - Cơm Văn Phòng Cao Cấp - 168 Hoa Bằng,https://shopeefood.vn/ha-noi/com-gia-dinh-trung-kinh-com-van-phong-cao-cap-168-hoa-bang.vjcxk2
+276,Quán Bà Màu - Món Quê & Đồ Nhậu - Thành Công,https://shopeefood.vn/ha-noi/quan-ba-mau-mon-que-do-nhau-thanh-cong
+277,"Mỳ Gà Tần, Gà Ủ Muối & Đồ Ăn Vặt Phương Thảo",https://shopeefood.vn/ha-noi/my-ga-tan-ga-u-muoi-do-an-vat-phuong-thao
+278,Cô Hoa - Cơm Gà & Đồ Ăn Vặt,https://shopeefood.vn/ha-noi/co-hoa-com-ga-do-an-vat
+279,Cơm Tấm Sườn Cây & Cơm Gà Ta - Hai Phúc - Ciputra Nguyễn Hoàng Tôn,https://shopeefood.vn/ha-noi/com-tam-suon-cay-com-ga-ta-hai-phuc-ciputra-nguyen-hoang-ton
+280,Thái Hạnh Huy Mai - Ăn Vặt & Xôi Gà Vỏ Giòn,https://shopeefood.vn/ha-noi/thai-hanh-huy-mai-an-vat-xoi-ga-vo-gion
+281,Quán Ăn Vặt 24H,https://shopeefood.vn/ha-noi/quan-an-vat-24h
+282,Thái Hạnh - Huy Mai - Thiên Đường Ăn Vặt,https://shopeefood.vn/ha-noi/thai-hanh-huy-mai-thien-duong-an-vat
+283,Bún Chả Mẹ Nga - 32 Vân Hồ 3,https://shopeefood.vn/ha-noi/bun-cha-me-nga-32-van-ho-3
+284,Ăn Vặt Hiệp Gà - Đường Láng,https://shopeefood.vn/ha-noi/an-vat-hiep-ga-duong-lang
+285,Sasuke - Mì Cay & Mì Chua Cay - Chợ Khâm Thiên,https://shopeefood.vn/ha-noi/sasuke-mi-cay-mi-chua-cay-cho-kham-thien
+286,Mì JANG - Thái Hà,https://shopeefood.vn/ha-noi/mi-jang-thai-ha.ilmsow
+287,Bánh Mì Nướng Muối Ớt & Bánh Tráng Trộn - Con Chim Non,https://shopeefood.vn/ha-noi/banh-mi-nuong-muoi-ot-banh-trang-tron-con-chim-non
+288,"Minh Kem Food - Pizza, Mỳ Ý & Ăn Vặt - Lĩnh Nam",https://shopeefood.vn/ha-noi/minh-kem-food-pizza-my-y-an-vat-linh-nam
+289,CoKo House - Trà Hoa Quả & Cà Phê,https://shopeefood.vn/ha-noi/coko-house-tra-hoa-qua-ca-phe
+290,Hương Nam - Trà Bí Đao Hạt Chia - Phú Diễn,https://shopeefood.vn/ha-noi/huong-nam-tra-bi-dao-hat-chia-phu-dien
+291,"San Quán - Đồ Ăn Vặt Xiên Que, Hạt Dẻ & Trà Chanh - Lê Đức Thọ",https://shopeefood.vn/ha-noi/san-quan-do-an-vat-xien-que-hat-de-tra-chanh-le-duc-tho
+292,MinMax Fresh - Chè Khoai Dẻo Online,https://shopeefood.vn/ha-noi/minmax-fresh-che-khoai-deo-online
+293,Hằng Thịnh - Cơm Rang Giòn - 211 Phúc Tân,https://shopeefood.vn/ha-noi/hang-thinh-com-rang-gion-211-phuc-tan
+294,Chân Gà Nộm - Trà Bí Đao & Đồ Ăn Vặt,https://shopeefood.vn/ha-noi/chan-ga-nom-tra-bi-dao-do-an-vat
+295,Tiệm Của Bi - Nước Ép Nguyên Chất & Phở Bò Hà Nội,https://shopeefood.vn/ha-noi/tiem-cua-bi-nuoc-ep-nguyen-chat-pho-bo-ha-noi
+296,"Shushi - Gà, Mỳ Kim Chi & Thịt Xiên Vặt",https://shopeefood.vn/ha-noi/shushi-ga-my-kim-chi-thit-xien-vat
+297,"Tiệm Gà Luộc - Gà Ủ Muối, Gà Xông Khói & Xôi Nếp Nương - Shop Online",https://shopeefood.vn/ha-noi/tiem-ga-luoc-ga-u-muoi-ga-xong-khoi-xoi-nep-nuong-shop-online
+298,Bà Thanh - Tây Sơn,https://shopeefood.vn/ha-noi/ba-thanh-tay-son.5ocash
+299,Vua Cháo Sườn Sụn & Đồ Ăn Vặt - Shop Online,https://shopeefood.vn/ha-noi/vua-chao-suon-sun-do-an-vat-shop-online
+300,Cơm Tấm Times,https://shopeefood.vn/ha-noi/com-tam-times
+301,"Sinh Nhật Yến Nhi Bakery - Bánh Sinh Nhật, Bánh Ngọt & Bánh Ăn Vặt - CT4A KĐT Xa La",https://shopeefood.vn/ha-noi/sinh-nhat-yen-nhi-bakery-banh-sinh-nhat-banh-ngot-banh-an-vat-ct4a-kdt-xa-la
+302,Cơm Nhà LeO - Đường Láng,https://shopeefood.vn/ha-noi/com-nha-leo-duong-lang
+303,Changmun Healthy - Bánh Bao & Bánh Ăn Kiêng - Lạc Long Quân,https://shopeefood.vn/ha-noi/changmun-healthy-banh-bao-banh-an-kieng-lac-long-quan
+304,Nem Nướng Nha Trang - Bà Thảo Béo,https://shopeefood.vn/ha-noi/nem-nuong-nha-trang-ba-thao-beo
+305,"Quán Tía Tô - Bún Riêu Ốc Cá, Cháo Lòng & Bún Đậu Mắm Tôm",https://shopeefood.vn/ha-noi/quan-tia-to-bun-rieu-oc-ca-chao-long-bun-dau-mam-tom
+306,Bông Meomeo - Đồ Ăn Vặt Online,https://shopeefood.vn/ha-noi/bong-meomeo-do-an-vat-online
+307,Bún Đậu 23 & Bún Chả Hàng Mành,https://shopeefood.vn/ha-noi/bun-dau-23-bun-cha-hang-manh
+308,"Bảo Phong - Phở Bò, Cơm Rang & Mì Xào - 142 Mai Dịch",https://shopeefood.vn/ha-noi/bao-phong-pho-bo-com-rang-mi-xao-142-mai-dich
+309,Hoa Quả 88 - Nguyễn Khoái,https://shopeefood.vn/ha-noi/hoa-qua-88-nguyen-khoai
+310,Nem Nướng Nha Trang Chính Gốc - Thái Hà,https://shopeefood.vn/ha-noi/nem-nuong-nha-trang-chinh-goc-thai-ha
+311,HIẾU FOOD - Nem Chua Rán & Trà Sữa - Tây Sơn,https://shopeefood.vn/ha-noi/hieu-food-nem-chua-ran-tra-sua-tay-son.69wh1m
+312,Cá Kho Hà Nam Yên Hoà,https://shopeefood.vn/ha-noi/ca-kho-ha-nam-yen-hoa
+313,Bún Bò Huế Minh Quân - Ao Sen,https://shopeefood.vn/ha-noi/bun-bo-hue-minh-quan-ao-sen
+314,Mr.Eco Salad Healthy - Food & Drinks - Đặng Tất,https://shopeefood.vn/ha-noi/mr-eco-salad-healthy-food-drinks-dang-tat
+315,"Skyward Coffee - Cookiemint, Skyward Hạnh Nhân & Cacao Sữa Dừa - Chùa Láng",https://shopeefood.vn/ha-noi/skyward-coffee-cookiemint-skyward-hanh-nhan-cacao-sua-dua-chua-lang
+316,Thành Nam - Phở & Cơm Rang,https://shopeefood.vn/ha-noi/thanh-nam-pho-com-rang
+317,Mr.Eco Cơm Gạo Lứt - Healthy Food - Cầu Giấy,https://shopeefood.vn/ha-noi/mr-eco-com-gao-lut-healthy-food-cau-giay
+318,Trà Chanh Smile,https://shopeefood.vn/ha-noi/tra-chanh-smile
+319,Nem Nướng Nha Trang Anh Tư - Nguyễn Văn Cừ,https://shopeefood.vn/ha-noi/nem-nuong-nha-trang-anh-tu-nguyen-van-cu
+320,"Trà Trái Cây Tươi, Phở Cuốn & Đồ Ăn Vặt - Cô Hà - Giáp Nhất",https://shopeefood.vn/ha-noi/tra-trai-cay-tuoi-pho-cuon-do-an-vat-co-ha-giap-nhat
+321,"Bánh Cá Taiyaki, Sandwich & Bánh Mì Muối Ớt - Văn Chương",https://shopeefood.vn/ha-noi/banh-ca-taiyaki-sandwich-banh-mi-muoi-ot-van-chuong
+322,"Cơm Gà, Bánh Mì Bami & Đồ Uống - Đức Diễn",https://shopeefood.vn/ha-noi/com-ga-banh-mi-bami-do-uong-duc-dien
+323,SOTAFOOD - Eat Clean & Healthy Food - 11 Phương Liệt,https://shopeefood.vn/ha-noi/sotafood-eat-clean-healthy-food-11-phuong-liet
+324,Bánh Mì & Pate Cột Đèn Hải Phòng Tâm Cook - Ngô Thì Nhậm,https://shopeefood.vn/ha-noi/banh-mi-pate-cot-den-hai-phong-tam-cook-ngo-thi-nham
+325,Bánh Mì Sài Gòn - 19Y Thụy Khuê,https://shopeefood.vn/ha-noi/banh-mi-sai-gon-19y-thuy-khue
+326,Cóc Xoài Bao Tử Khánh Ngọc - Nguyễn Khang,https://shopeefood.vn/ha-noi/coc-xoai-bao-tu-khanh-ngoc-nguyen-khang.a3rnll
+327,Lẩu Ly Thái Tomyum & Mì Trộn Indomie - Bảo Anh - Cầu Bươu,https://shopeefood.vn/ha-noi/lau-ly-thai-tomyum-mi-tron-indomie-bao-anh-cau-buou
+328,HANSAM FOOD - Cà Phê Sâm Hàn Quốc,https://shopeefood.vn/ha-noi/hansam-food-ca-phe-sam-han-quoc
+329,Bún Đậu Mắm Tôm & Chân Gà Cô Loan,https://shopeefood.vn/ha-noi/bun-dau-mam-tom-chan-ga-co-loan
+330,Fong Tea - Trà Sữa Hong Kong,https://shopeefood.vn/ha-noi/fong-tea-tra-sua-hong-kong
+331,Cơm Mầm Đá - Cơm Gà & Cơm Sườn Nướng - 23 Vũ Phạm Hàm,https://shopeefood.vn/ha-noi/com-mam-da-com-ga-com-suon-nuong-23-vu-pham-ham
+332,"Kiot Trạm - Cafe Muối, Trà Sữa & Trà Hoa Quả - 27 Trương Công Giai",https://shopeefood.vn/ha-noi/kiot-tram-cafe-muoi-tra-sua-tra-hoa-qua-27-truong-cong-giai
+333,"Bụi Phố Phú Diễn - Trà Sữa, Sữa Chua & Coffee",https://shopeefood.vn/ha-noi/bui-pho-phu-dien-tra-sua-sua-chua-coffee
+334,Vịt Quay Lò Đúc - Shop Online,https://shopeefood.vn/ha-noi/vit-quay-lo-duc-shop-online
+335,Panda Food - Mỳ Trộn & Đồ Ăn Vặt - Đức Giang,https://shopeefood.vn/ha-noi/panda-food-my-tron-do-an-vat-duc-giang
+336,Cà Phê Muối Cô Vân - Phương Mai,https://shopeefood.vn/ha-noi/ca-phe-muoi-co-van-phuong-mai
+337,The An Eat Clean - Healthy Gạo Lứt,https://shopeefood.vn/ha-noi/the-an-eat-clean-healthy-gao-lut
+338,Trà Sữa RoyalTea - Đối Diện 35 Yên Hòa,https://shopeefood.vn/ha-noi/tra-sua-royaltea-doi-dien-35-yen-hoa
+339,Cộng 84 - Cơm Thố & Cơm Đảo & Cơm Gà,https://shopeefood.vn/ha-noi/cong-84-com-tho-com-dao-com-ga
+340,Zing House Cafe - KĐT Văn Khê,https://shopeefood.vn/ha-noi/zing-house-cafe-kdt-van-khe
+341,An An - Mỳ Kim Chi & Cơm Văn Phòng - Ngõ 1 Ao Sen,https://shopeefood.vn/ha-noi/an-an-my-kim-chi-com-van-phong-ngo-1-ao-sen
+342,Hải Yến - Bánh Cuốn - Nghĩa Tân,https://shopeefood.vn/ha-noi/hai-yen-banh-cuon-nghia-tan.3bmqpq
+343,TAMA Coffee & Tea - Trà Chanh & Trà Sữa - Vân Canh,https://shopeefood.vn/ha-noi/tama-coffee-tea-tra-chanh-tra-sua-van-canh
+344,"Tiệm Nhà Liên - Phở Cuốn, Trà Thái & Nước Ép",https://shopeefood.vn/ha-noi/tiem-nha-lien-pho-cuon-tra-thai-nuoc-ep
+345,Xiên Chiên - Đồ Ăn Vặt Xã Đàn,https://shopeefood.vn/ha-noi/xien-chien-do-an-vat-xa-dan
+346,Comi ChefHome - Cơm Xá Xíu & Mỳ Gà Quay - Lê Văn Hiến,https://shopeefood.vn/ha-noi/comi-chefhome-com-xa-xiu-my-ga-quay-le-van-hien
+347,Pizza Life - Sunshine Garden,https://shopeefood.vn/ha-noi/pizza-life-sunshine-garden
+348,Baccarat Coffee & Food - Nguyễn Chí Thanh,https://shopeefood.vn/ha-noi/baccarat-coffee-food-nguyen-chi-thanh
+349,Nem Chua Thanh Hóa - Shop Online - Minh Khai,https://shopeefood.vn/ha-noi/nem-chua-thanh-hoa-shop-online-minh-khai
+350,LEO'S Tea - Trà Sữa & Ăn Vặt,https://shopeefood.vn/ha-noi/leo-s-tea-tra-sua-an-vat
+351,"Bánh Mỳ Doner Kebeb, Nước Ép Trái Cây & Đồ Ăn Vặt - Bùi Xương Trạch",https://shopeefood.vn/ha-noi/banh-my-doner-kebeb-nuoc-ep-trai-cay-do-an-vat-bui-xuong-trach
+352,Cơm Gà Min Food,https://shopeefood.vn/ha-noi/min-food-com-ga-spaghetty
+353,GINGAYA - TIỆM ĂN HEALTHY EATCLEAN - DƯƠNG QUẢNG HÀM,https://shopeefood.vn/ha-noi/gingaya-tiem-an-healthy-eatclean-duong-quang-ham
+354,Bún Đậu Mẹt 268 Tô Hiệu,https://shopeefood.vn/ha-noi/bun-dau-met-268-to-hieu
+355,Tiger Sugar Việt Nam - Doãn Kế Thiện,https://shopeefood.vn/ha-noi/tiger-sugar-viet-nam-doan-ke-thien
+356,Gà Ủ Muối & Vịt Quay Tâm Tươi,https://shopeefood.vn/ha-noi/ga-u-muoi-vit-quay-tam-tuoi
+357,Mỳ Cay & Mỳ Trộn - Topokki Leella 1991,https://shopeefood.vn/ha-noi/my-cay-my-tron-topokki-leella-1991
+358,Mỳ Cay & Lẩu Cốc - Topokki Tiệm 1991,https://shopeefood.vn/ha-noi/my-cay-lau-coc-topokki-tiem-1991
+359,Nước Ép Trái Cây Khổng Lồ 1991,https://shopeefood.vn/ha-noi/nuoc-ep-trai-cay-khong-lo-1991
+360,Bếp CiCi - Mì Trộn & Đồ Ăn Vặt Online - Quan Nhân,https://shopeefood.vn/ha-noi/bep-cici-mi-tron-do-an-vat-online-quan-nhan
+361,Mẹ Bon - Bếp Ăn Vặt & Gà Ủ Muối - Kim Giang,https://shopeefood.vn/ha-noi/me-bon-bep-an-vat-ga-u-muoi-kim-giang
+362,Phở Bò Quân Hà,https://shopeefood.vn/ha-noi/pho-bo-quan-ha
+363,Happy Bean - Tào Phớ Đài Loan - Tàu Hũ Tảo Biển,https://shopeefood.vn/ha-noi/happy-bean-tao-pho-dai-loan-tau-hu-tao-bien
+364,Nem Nướng Nha Trang - Bún Bậu Mắm Tôm KUBO,https://shopeefood.vn/ha-noi/nem-nuong-nha-trang-bun-bau-mam-tom-kubo
+365,Mỳ Trộn Hoàng Hạnh - Trà Chanh & Trà Sữa - Trần Nhật Duật,https://shopeefood.vn/ha-noi/my-tron-hoang-hanh-tra-chanh-tra-sua-tran-nhat-duat
+366,Hoàng Anh - Mì Trộn Indomie - Shop Online,https://shopeefood.vn/ha-noi/hoang-anh-mi-tron-indomie-shop-online
+367,Gà Rán Seoul - Hoàng Đôn Hoà,https://shopeefood.vn/ha-noi/ga-ran-seoul-phan-trong-tue
+368,Xôi Xoài Dì LOY - Phạm Ngọc Thạch,https://shopeefood.vn/ha-noi/xoi-xoai-di-loy-pham-ngoc-thach
+369,Tiệm Trà Trái Cây Mèo Béo - Trung Kính,https://shopeefood.vn/ha-noi/tiem-tra-trai-cay-meo-beo-trung-kinh
+370,Cà Phê Muối Diệp Anh - Nước Ép & Sinh Tố - Mỹ Đình,https://shopeefood.vn/ha-noi/ca-phe-muoi-diep-anh-nuoc-ep-sinh-to-my-dinh
+371,SENTOSA - Phó Đức Chính,https://shopeefood.vn/ha-noi/sentosa-pho-duc-chinh
+372,Bali Quán - 432 Nguyễn Trãi,https://shopeefood.vn/ha-noi/bali-quan-432-nguyen-trai
+373,Phở Cuốn Trang Minh - Phú Diễn,https://shopeefood.vn/ha-noi/pho-cuon-trang-minh-phu-dien
+374,"Bánh Mỳ Cay Hải Phòng, Nước Ép & Đồ Ăn Vặt Mẹ CoNan - Định Công",https://shopeefood.vn/ha-noi/banh-my-cay-hai-phong-nuoc-ep-do-an-vat-me-conan-dinh-cong
+375,Thịt Nướng Mu Wu - Thịt Nướng Trung Hoa & Lẩu Malatang,https://shopeefood.vn/ha-noi/thit-nuong-mu-wu-thit-nuong-trung-hoa-lau-malatang
+376,Bánh Mì Que - Đặc Sản Hải Phòng - Lương Thế Vinh,https://shopeefood.vn/ha-noi/banh-mi-que-dac-san-hai-phong-luong-the-vinh
+377,Cơm Rang Đệ Nhất,https://shopeefood.vn/ha-noi/com-rang-de-nhat
+378,"Tiệm Bánh Gạo - Bánh Sinh Nhật, Bánh Ngọt & Bánh Mỳ - 57 Đê La Thành Nhỏ, Đống Đa",https://shopeefood.vn/ha-noi/tiem-banh-gao-banh-sinh-nhat-banh-ngot-banh-my-57-de-la-thanh-nho-dong-da
+379,"Tùng Food- Gỏi Cuốn, Bún Trộn & Mì Trộn",https://shopeefood.vn/ha-noi/tung-food-goi-cuon-bun-tron-mi-tron
+380,Bún Đậu - 171 Hà Kế Tấn,https://shopeefood.vn/ha-noi/bun-dau-171-ha-ke-tan
+381,Bún Riêu Cua & Bún Cá - Hiền Linh - Ngõ 2 Nguyễn Chánh,https://shopeefood.vn/ha-noi/bun-rieu-cua-bun-ca-hien-linh-ngo-2-nguyen-chanh
+382,Phượng Quán - Xuân Thuỷ,https://shopeefood.vn/ha-noi/phuong-quan-xuan-thuy
+383,Lakaa - Tea & Coffee Vân Canh,https://shopeefood.vn/ha-noi/lakaa-tea-coffee-van-canh
+384,Thu Hường Cake - Trương Định,https://shopeefood.vn/ha-noi/thu-huong-cake-truong-dinh
+385,"Mì Trộn, Chân Gà & Đồ Ăn Vặt - Shop Online",https://shopeefood.vn/ha-noi/mi-tron-chan-ga-do-an-vat-shop-online
+386,Bún Chả & Bún Đậu Bi Béo - Sài Đồng,https://shopeefood.vn/ha-noi/bun-cha-bun-dau-bi-beo-sai-dong
+387,Bánh Mì Cô Lan - 25 Bà Triệu,https://shopeefood.vn/ha-noi/banh-mi-co-lan-25-ba-trieu
+388,Bánh Mì Cô Lan - 46 Chiến Thắng,https://shopeefood.vn/ha-noi/banh-mi-co-lan-46-chien-thang
+389,"Bún Thái, Bún Hải Sản & Bún Cá - Chuẩn Vị Thái Chú Hải",https://shopeefood.vn/ha-noi/bun-thai-bun-hai-san-bun-ca-chuan-vi-thai-chu-hai
+390,Bánh Tráng Trộn Anh Dũng - Phùng Khoang,https://shopeefood.vn/ha-noi/banh-trang-tron-anh-dung-phung-khoang
+391,Aroma203 Coffee & Tea,https://shopeefood.vn/ha-noi/aroma203-coffee-tea
+392,"Linh Lê - Gỏi Cuốn, Súp & Hoa Quả Dầm - Đường Láng",https://shopeefood.vn/ha-noi/linh-le-goi-cuon-sup-hoa-qua-dam-duong-lang
+393,Gà Tươi Chicken Việt Đủ Món & Lẩu Các Loại,https://shopeefood.vn/ha-noi/ga-tuoi-chicken-viet-du-mon-lau-cac-loai
+394,"Giona - Cơm Gà Xối Mỡ, Sốt Me & Cay - Mễ Trì",https://shopeefood.vn/ha-noi/giona-com-ga-xoi-mo-sot-me-cay-me-tri
+395,Ngọc Diệp - Bánh Mì Sốt Vang,https://shopeefood.vn/ha-noi/ngoc-diep-banh-mi-sot-vang
+396,Linhh Cam - Nước Ép Trái Cây Tươi Nguyên Chất - Trần Điền,https://shopeefood.vn/ha-noi/linhh-cam-nuoc-ep-trai-cay-tuoi-nguyen-chat-tran-dien
+397,"Nước Ép, Sinh Tố Đồng Giá 21k - Yên Lãng",https://shopeefood.vn/ha-noi/nuoc-ep-sinh-to-dong-gia-21k-yen-lang
+398,Kem Trà Huyền Linh - Phố Xốm,https://shopeefood.vn/ha-noi/kem-tra-huyen-linh-pho-xom
+399,Cơm Gà Nam Hội - Lạc Trung,https://shopeefood.vn/ha-noi/com-ga-nam-hoi-lac-trung
+400,Quán Cơm Hạt Dẻ - Cơm Gà Online,https://shopeefood.vn/ha-noi/o-ga-com-ga-de-nhat
+401,Bánh Mì Dân Tổ - Bánh Mì - Ngõ Tự Do,https://shopeefood.vn/ha-noi/banh-mi-dan-to-banh-mi-ngo-tu-do
+402,Tiệm Bánh Youth Cake - Bông Lan Trứng Muối & Red Velvet,https://shopeefood.vn/ha-noi/tiem-banh-youth-cake-bong-lan-trung-muoi-red-velvet
+403,Tiến Vịt - Vịt Nướng - Minh Khai,https://shopeefood.vn/ha-noi/tien-vit-vit-nuong-minh-khai
+404,"Fami Food - Đồ Ăn Vặt, Nem Chua Rán & Viên Chiên Nước Mắm - Cầu Giấy",https://shopeefood.vn/ha-noi/fami-food-do-an-vat-nem-chua-ran-vien-chien-nuoc-mam-cau-giay
+405,"Ăn Vặt HOTA - Vua Chân Gà Sả Tắc, Chân Gà Sốt Thái & Bánh Tráng Trộn",https://shopeefood.vn/ha-noi/an-vat-hota-vua-chan-ga-sa-tac-chan-ga-sot-thai-banh-trang-tron
+406,HETY - Bún Thịt Nướng - Mai Dịch,https://shopeefood.vn/ha-noi/hety-bun-thit-nuong-phan-ba-vanh
+407,Nem Nướng Nha Trang - Phở Cuốn Bún Trộn 99,https://shopeefood.vn/ha-noi/nem-nuong-nha-trang-pho-cuon-bun-tron-99
+408,Thảo Nguyên Chay - Nhân Mỹ,https://shopeefood.vn/ha-noi/thao-nguyen-chay-nhan-my
+409,"Neo Cafe - Cà Phê Muối, Cold Brew & Trà trái cây - 14 Duy Tân",https://shopeefood.vn/ha-noi/neo-cafe-ca-phe-muoi-cold-brew-tra-trai-cay-14-duy-tan
+410,RedFood - Ăn Vặt 1 Lần Nghiện 1 Đời - Geleximco,https://shopeefood.vn/ha-noi/redfood-an-vat-1-lan-nghien-1-doi-geleximco
+411,Thực Phẩm Sạch An Bình - Trần Cung,https://shopeefood.vn/ha-noi/thuc-pham-sach-an-binh-tran-cung
+412,Cơm Gà Giòn Booby - Trần Đại Nghĩa,https://shopeefood.vn/ha-noi/banh-mi-kep-cha-bo-booby-tran-dai-nghia
+413,"Thiện Tóp - Bánh Cuốn, Bún Chả & Gà Tần",https://shopeefood.vn/ha-noi/thien-top-banh-cuon-bun-cha-ga-tan
+414,"Bánh Tráng Huyền Linh - Bánh Tráng Trộn, Bánh Tráng Nướng & Bánh Tráng Cuộn - 68 Triều Khúc",https://shopeefood.vn/ha-noi/banh-trang-huyen-linh-banh-trang-tron-banh-trang-nuong-banh-trang-cuon-68-trieu-khuc
+415,"Cơm, Phở & Bánh Mì - Đồ Nướng Hân Hạnh",https://shopeefood.vn/ha-noi/com-pho-banh-mi-do-nuong-han-hanh
+416,4Chiem - Food - Hà Nội,https://shopeefood.vn/ha-noi/4chiem-food-ha-noi.oqcu3x
+417,Phở Bò Cơm Rang - Nhân Hòa,https://shopeefood.vn/ha-noi/pho-bo-com-rang-nhan-hoa
+418,"Tiệm Nhà Na - Mì Trộn, Lẩu Ly & Đồ Ăn Vặt - Văn Cao",https://shopeefood.vn/ha-noi/tiem-nha-na-mi-tron-lau-ly-do-an-vat-van-cao
+419,December Tea - Trà Hoa Quả Nhiệt Đới & Mì Trộn Indomie - Định Công,https://shopeefood.vn/ha-noi/december-tea-tra-hoa-qua-nhiet-doi-mi-tron-indomie-dinh-cong
+420,Bún Chả Hàng Than - Bún Mọc Sườn Chua Chuẩn Vị Phố - Tây Mỗ,https://shopeefood.vn/ha-noi/bun-cha-hang-than-bun-moc-suon-chua-chuan-vi-pho-tay-mo
+421,Toocha Tea - Vinhomes Ocean Park,https://shopeefood.vn/ha-noi/toocha-tea-vinhomes-ocean-park
+422,"Quán Nhà Kẹo - Mì Indomie, Mì Trộn & Đồ Ăn Vặt - 18 Ngõ 575 Kim Mã",https://shopeefood.vn/ha-noi/quan-nha-keo-mi-indomie-mi-tron-do-an-vat-18-ngo-575-kim-ma
+423,Pizza & Đồ Ăn Vặt Việt Trung Hàn - Nguyễn Văn Cừ,https://shopeefood.vn/ha-noi/pizza-do-an-vat-viet-trung-han-nguyen-van-cu
+424,Món Ngon Cô Tí - Khương Trung,https://shopeefood.vn/ha-noi/mon-ngon-co-ti-khuong-trung
+425,LÒNG BẾN NGỰ - Vị Quê Ra Phố,https://shopeefood.vn/ha-noi/long-ben-ngu-vi-que-ra-pho
+426,Gấu Trúc Béo - Mỳ Trộn Indomie - 347 Ngô Gia Tự,https://shopeefood.vn/ha-noi/gau-truc-beo-my-tron-indomie-347-ngo-gia-tu
+427,Cháo Dinh Dưỡng Thuỳ Linh - Cháo - Quỳnh Đô,https://shopeefood.vn/ha-noi/chao-dinh-duong-thuy-linh-chao-quynh-do
+428,Frodo Boss Juice - Nước Ép Vì Sức Khoẻ - 107 Phố Huế,https://shopeefood.vn/ha-noi/frodo-boss-juice-nuoc-ep-vi-suc-khoe-107-pho-hue
+429,Đồ Nhậu Minh Thuý - Đồ Ăn - Cửu Việt 2,https://shopeefood.vn/ha-noi/do-nhau-minh-thuy-do-an-cuu-viet-2
+430,Hảo Béo - Bánh Xèo & Nem Lụi - Lê Văn Hiến,https://shopeefood.vn/ha-noi/hao-beo-banh-xeo-nem-lui-le-van-hien
+431,Thắm Juice Healthy - Nước Ép Nguyên Chất & Sinh Tố,https://shopeefood.vn/ha-noi/tham-juice-healthy-nuoc-ep-nguyen-chat-sinh-to
+432,"Pozaa Tea - 177 Nguyễn Ngọc Vũ - Trà Sữa, Trà Chanh & Nước Ép",https://shopeefood.vn/ha-noi/pozaa-tea-177-nguyen-ngoc-vu-tra-sua-tra-chanh-nuoc-ep
+433,Nhà Hàng Gimbab - Bibimbab - Nguyễn Trãi,https://shopeefood.vn/ha-noi/nha-hang-gimbab-bibimbab-nguyen-trai
+434,GÀ MẸT XÔI CHIM GÀ BÓ XÔI THU HOA - Ăn Vặt - Hoàng Tăng Bí,https://shopeefood.vn/ha-noi/ga-met-xoi-chim-ga-bo-xoi-thu-hoa-an-vat-hoang-tang-bi
+435,Bún Chả Obama,https://shopeefood.vn/ha-noi/bun-cha-obama
+436,Cơm Gà - KĐT Văn Khê,https://shopeefood.vn/ha-noi/com-ga-kdt-van-khe
+437,Bánh Mì Que & Pate Gia Truyền - Duy Tân,https://shopeefood.vn/ha-noi/banh-mi-que-pate-gia-truyen-duy-taan
+438,Cơm Thố Bình An - Lạc Long Quân,https://shopeefood.vn/ha-noi/com-tho-binh-an-lac-long-quan
+439,Bếp Mẹ Gấu - Bún Trộn & Nem Nướng Nha Trang - Kim Giang,https://shopeefood.vn/ha-noi/bep-me-gau-bun-tron-nem-nuong-nha-trang-kim-giang
+440,"Tiệm Trà Tháng 12 - Trà Dâu Tằm, Trà Mãng Cầu & Trà Trái Cây",https://shopeefood.vn/ha-noi/tiem-tra-thang-12-tra-dau-tam-tra-mang-cau-tra-trai-cay
+441,"ABi - Gà Ủ Muối, Chân Gà Sốt Thái & Gà Tần - A1 Thành Công",https://shopeefood.vn/ha-noi/abi-ga-u-muoi-chan-ga-sot-thai-ga-tan-a1-thanh-cong
+442,Bún Bò Huế - Hải Đăng - Ngọc Lâm,https://shopeefood.vn/ha-noi/bun-bo-hue-hai-dang-ngoc-lam.4wk21c
+443,Trà Chanh Giã Tay GUANG DONG & Đồ Ăn Vặt - 33 Bùi Xương Trạch,https://shopeefood.vn/ha-noi/tra-chanh-gia-tay-guang-dong-do-an-vat-33-bui-xuong-trach
+444,Bombino’s Pizza - Ocean Park 1,https://shopeefood.vn/ha-noi/bombino-s-pizza-ocean-park-1
+445,Cơm Sườn & Cơm Gà - Mạnh Trang,https://shopeefood.vn/ha-noi/com-suon-com-ga-manh-trang
+446,Bún Đậu Nhật Vượng - Bún Đậu - Khúc Thừa Dụ,https://shopeefood.vn/ha-noi/bun-dau-nhat-vuong-bun-dau-khuc-thua-du
+447,Cafe Dự - Mỹ Đình,https://shopeefood.vn/ha-noi/cafe-du-my-dinh.53nnp2
+448,Gia Bảo Food - Mỳ Trộn - Nguyễn Xiển,https://shopeefood.vn/ha-noi/gia-bao-food-my-tron-nguyen-xien
+449,Quán Nhà Mít - Xôi & Bánh Mỳ - Shop Online,https://shopeefood.vn/ha-noi/quan-nha-mit-xoi-banh-my-shop-online
+450,SinhFood - Gà Ủ Muối - Vạn Phúc,https://shopeefood.vn/ha-noi/sinhfood-ga-u-muoi-van-phuc.aat9oi
+451,"BÚN 2CE - Bún Dọc Mùng, Phở & Bánh Mỳ Sốt Vang - Ngõ 39 Đình Thôn",https://shopeefood.vn/ha-noi/bun-2ce-bun-doc-mung-pho-banh-my-sot-vang-ngo-39-dinh-thon.m4pxno
+452,Trà Sữa Pozza Tea - 82 Phùng Khoang,https://shopeefood.vn/ha-noi/tra-sua-pozza-tea-82-phung-khoang
+453,Anh Thư Bakery - Cầu Diễn,https://shopeefood.vn/ha-noi/anh-thu-bakery-cau-dien
+454,Bếp Nhà Ỉn - Phố Lụa Vạn Phúc,https://shopeefood.vn/ha-noi/bep-nha-in-pho-lua-van-phuc
+455,TocoToco Bích Hoà - Trà Sữa - Cụm Công Nghiệp Thanh Oai,https://shopeefood.vn/ha-noi/tocotoco-bich-hoa-tra-sua-cum-cong-nghiep-thanh-oai.mpkcdv
+456,PHẬT NHẢY TƯỜNG - SOUP Bào Ngư Vi Cá,https://shopeefood.vn/ha-noi/phat-nhay-tuong-soup-bao-ngu-vi-ca
+457,Bún Hải Sản No1 - Khương Hạ,https://shopeefood.vn/ha-noi/bun-hai-san-no1-khuong-ha
+458,Chin Chin - Trà sữa đậm vị & Trà Hoa Quả Tươi - Trần Phú,https://shopeefood.vn/ha-noi/chin-chin-tra-sua-dam-vi-tra-hoa-qua-tuoi-tran-phu
+459,Tonkotsu Ramen - Mì Tươi Truyền Thống Nhật Bản,https://shopeefood.vn/ha-noi/tonkotsu-ramen-mi-tuoi-truyen-thong-nhat-ban
+460,"Bánh Cá, Bánh Đồng Xu & Đồ Uống - Trà Takipoo",https://shopeefood.vn/ha-noi/banh-ca-banh-dong-xu-do-uong-tra-takipoo
+461,Khúc Bạch 2CE - 98 Phố Huế,https://shopeefood.vn/ha-noi/khuc-bach-2ce-98-pho-hue
+462,Ăn Vặt Hồ Tây 음식 - Ăn Vặt - Lạc Long Quân,https://shopeefood.vn/ha-noi/an-vat-ho-tay-%EC%9D%8C%EC%8B%9D-an-vat-lac-long-quan.fsep84
+463,1998 Đồ Ăn Vặt - Đồ Ăn Vặt - Đại La,https://shopeefood.vn/ha-noi/1998-do-an-vat-do-an-vat-dai-la.im6ycs
+464,Thanh Food - Mì Trộn Indomie & Bánh Mì - Tây Sơn,https://shopeefood.vn/ha-noi/thanh-food-mi-tron-indomie-banh-mi-tay-son.w67goq
+465,Ome Cafe - Võ Văn Dũng,https://shopeefood.vn/ha-noi/ome-cafe-vo-van-dung
+466,Dương Khuê - Mì Trộn Indomi & Cơm Gà,https://shopeefood.vn/ha-noi/duong-khue-mi-tron-indomi-com-ga
+467,Chè Ngon Mẹ Tép - Chè & Sữa Chua Các Loại Online,https://shopeefood.vn/ha-noi/che-ngon-me-tep-che-sua-chua-cac-loai-online
+468,Quán Bọn Mình - Nem Nướng Nha Trang,https://shopeefood.vn/ha-noi/quan-bon-minh-nem-nuong-nha-trang
+469,"Tóp Tép Quán - Nem Chua Rán, Xúc Xích & Gà Chiên - Hồ Tùng Mậu",https://shopeefood.vn/ha-noi/top-tep-quan-nem-chua-ran-xuc-xich-ga-chien-ho-tung-mau
+470,Bếp Quỳnh - Bánh Healthy - Văn Cao,https://shopeefood.vn/ha-noi/bep-quynh-banh-healthy-van-cao.liy0pa
+471,Chè Miền Tây - Đói Ăn Cũng Ngon - Doãn Kế Thiện,https://shopeefood.vn/ha-noi/che-mien-tay-doan-ke-thien
+472,"Tiệm Mít Béo - Nước Ép, Sinh Tố & Trà Hoa Quả",https://shopeefood.vn/ha-noi/tiem-mit-beo-nuoc-ep-sinh-to-tra-hoa-qua
+473,Quán Xiên 1995 - Xiên Chiên & Trà Trái Cây,https://shopeefood.vn/ha-noi/quan-xien-1995-xien-chien-tra-trai-cay
+474,Lợi Foods - Lẩu Thái - 1A Phương Canh,https://shopeefood.vn/ha-noi/loi-foods-lau-thai-1a-phuong-canh
+475,Trà Sữa Tiger Sugar - Mễ Trì Thượng,https://shopeefood.vn/ha-noi/tra-sua-tiger-sugar-me-tri-thuong
+476,Fam's Chicken - Ocean Park,https://shopeefood.vn/ha-noi/fam-s-chicken-ocean-park
+477,"Bún Đậu Mắm Tôm, Bún Chả & Bánh Mỳ Chảo - Thỏ Ngọc Quán - Phố Võ Quý Huân",https://shopeefood.vn/ha-noi/bun-dau-mam-tom-bun-cha-banh-my-chao-tho-ngoc-quan-pho-vo-quy-huan
+478,Gà Ủ Muối 47 - Cơm Gà & Phở Cuốn,https://shopeefood.vn/ha-noi/ga-u-muoi-47-com-ga-pho-cuon
+479,Món Ngon Hải Phòng - An Biên Eatery,https://shopeefood.vn/ha-noi/mon-ngon-hai-phong-an-bien-eatery
+480,Chè Ngon - Tiramisu & Bông Lan Trứng Muối - Xã Đàn,https://shopeefood.vn/ha-noi/che-ngon-tiramisu-bong-lan-trung-muoi-xa-dan
+481,Quán Lẩu Ếch & Gà Mẹt - Khương Trung,https://shopeefood.vn/ha-noi/quan-lau-ech-ga-met-khuong-trung
+482,Quỳnh Anh - Bún Bò Trộn Nam Bộ - Nhân Hòa,https://shopeefood.vn/ha-noi/quynh-anh-bun-bo-tron-nam-bo-nhan-hoa.glpfsn
+483,Hường - Bánh Xèo & Nem Lụi,https://shopeefood.vn/ha-noi/huong-banh-xeo-nem-lui
+484,"AHA Chicken - Gà Rán, Cơm Gà & Đồ Ăn Vặt - Tân Triều",https://shopeefood.vn/ha-noi/aha-chicken-ga-ran-com-ga-do-an-vat-tan-trieu
+485,"Xôi Thị Kha - Thịt, Chả & Bánh Khúc - 54A Nguyễn Chí Thanh",https://shopeefood.vn/ha-noi/xoi-thi-kha-thit-cha-banh-khuc-54a-nguyen-chi-thanh
+486,"Trà Sữa Ruby Tea - Trà Sữa, Trà Chanh & Đồ Ăn Vặt - Nguyễn Quý Đức",https://shopeefood.vn/ha-noi/tra-sua-ruby-tea-tra-sua-tra-chanh-do-an-vat-nguyen-quy-duc
+487,Bún Bò Trộn 247 - Bún Trộn Nam Bộ - AEON Mall Hà Đông,https://shopeefood.vn/ha-noi/bun-bo-tron-247-bun-tron-nam-bo-aeon-mall-ha-dong
+488,"TIỆM TRÀ 85 - Trà Hoa Quả Nhiết Đới, Nước Ép & Sinh Tố Các Loại - Lĩnh Nam",https://shopeefood.vn/ha-noi/tiem-tra-85-tra-hoa-qua-nhiet-doi-nuoc-ep-sinh-to-cac-loai-linh-nam.lgvqtb
+489,Monki Quán - Nước Trà Hoa Quả & Ăn Vặt - Mộ Lao,https://shopeefood.vn/ha-noi/monki-quan-nuoc-tra-hoa-qua-an-vat-mo-lao
+490,Mukbang - Đồ Ăn Hàn Quốc - Phùng Khoang,https://shopeefood.vn/ha-noi/mukbang-do-an-han-quoc-phung-khoang
+491,"Bánh Bao Mini Chiên, Nước Ép & Ăn Vặt Michi - Nguyễn Đổng Chi",https://shopeefood.vn/ha-noi/banh-bao-mini-chien-nuoc-ep-an-vat-michi-nguyen-dong-chi
+492,Cơm Nhà Khương Uyển - Nguyễn Văn Cừ,https://shopeefood.vn/ha-noi/com-nha-khuong-uyen-nguyen-van-cu
+493,Bún Chả Việt - Tinh Hoa Ẩm Thực Việt - Cầu Giấy,https://shopeefood.vn/ha-noi/bun-cha-viet-tinh-hoa-am-thuc-viet-cau-giay
+494,Quỳnh Anh - Gỏi Cuốn Và Ăn Vặt,https://shopeefood.vn/ha-noi/quynh-anh-goi-cuon-va-an-vat
+495,Tiệm Nhà Thỏ - Mì Indomie & Nước Hoa Quả - Kiến Hưng,https://shopeefood.vn/ha-noi/tiem-nha-tho-mi-indomie-nuoc-hoa-qua-kien-hung
+496,Tiệm Cà Phê Sâu Sâu - Cà Phê Muối - KĐT Định Công,https://shopeefood.vn/ha-noi/tiem-ca-phe-sau-sau-ca-phe-muoi-kdt-dinh-cong.6eydnm
+497,Bôn Bôn - Xoài Cóc Dầm & Đồ Ăn Vặt Online,https://shopeefood.vn/ha-noi/bon-bon-xoai-coc-dam-do-an-vat-online
+498,Bánh Sinh Nhật Thu Hường Cake - Định Công Thượng,https://shopeefood.vn/ha-noi/banh-sinh-nhat-thu-huong-cake-dinh-cong-thuong
+499,Nem Nướng Nha Trang Vân Linh - Dương Khuê,https://shopeefood.vn/ha-noi/nem-nuong-nha-trang-van-linh-duong-khue
+500,"Bếp Nam Anh - Xôi, Bánh Khúc & Bánh Bao - Số 9 Nghĩa Lộ",https://shopeefood.vn/ha-noi/bep-nam-anh-xoi-banh-khuc-banh-bao-so-9-nghia-lo
+501,Chân Gà Sốt Thái & Mì Thái Tomyum - Bafood - Khương Hạ,https://shopeefood.vn/ha-noi/chan-ga-sot-thai-mi-thai-tomyum-bafood-khuong-ha
+502,Ô Mai Ngọc Mai - Hàng Than,https://shopeefood.vn/ha-noi/o-mai-ngoc-mai-hang-than
+503,Tean Quán - Mì Trộn & Đồ Ăn Vặt - Lạc Long Quân - Shop Online,https://shopeefood.vn/ha-noi/tean-quan-mi-tron-do-an-vat-lac-long-quan-shop-online
+504,Gấu Food & Drink - Ăn Vặt & Đồ Uống - Tây Sơn,https://shopeefood.vn/ha-noi/gau-food-drink-an-vat-do-uong-tay-son
+505,"Cơm Canh, Gà Rán & Đồ Ăn Vặt Hàn Quốc - Chị Linh Quán",https://shopeefood.vn/ha-noi/com-canh-ga-ran-do-an-vat-han-quoc-chi-linh-quan
+506,Tiệm Trà Lãi - Trà Hoa Quả & Caramen,https://shopeefood.vn/ha-noi/tiem-tra-lai-tra-hoa-qua-caramen
+507,Royaltea - Phú Diễn,https://shopeefood.vn/ha-noi/royaltea-phu-dien
+508,BBCinema - Đồ Ăn Nhanh Kim Mã,https://shopeefood.vn/ha-noi/bbcinema-do-an-nhanh-kim-ma
+509,LABI Coffee & Tea - Số 1 Ngõ Hàng Thịt,https://shopeefood.vn/ha-noi/labi-coffee-tea-so-1-ngo-hang-thit
+510,Pain Lee - Pizza & Spaghetti - Nghĩa Dũng,https://shopeefood.vn/ha-noi/pain-lee-pizza-spaghetti-nghia-dung
+511,831 Food - Mì Trộn Indomie - Shop Online,https://shopeefood.vn/ha-noi/831-food-mi-tron-indomie-shop-online
+512,Quý Gà Ủ Muối Hoa Tiêu & Gà Hấp - Tô Hiến Thành,https://shopeefood.vn/ha-noi/quy-ga-u-muoi-hoa-tieu-ga-hap-to-hien-thanh
+513,Nước Ép Nguyên Chất Nhà Làm - Láng Trung,https://shopeefood.vn/ha-noi/nuoc-ep-nguyen-chat-nha-lam-lang-trung
+514,"Crepe Sầu Riêng , Bánh Bò & Da Lợn - Xuân Đỉnh",https://shopeefood.vn/ha-noi/crepe-sau-rieng-banh-bo-da-lon-xuan-dinh
+515,"Thảo Vy - Xôi, Bánh Mì & Mì Trộn Indomie",https://shopeefood.vn/ha-noi/thao-vy-xoi-banh-mi-mi-tron-indomie
+516,Mình Coffee And Tea - Khu Đô Thị Văn Phú,https://shopeefood.vn/ha-noi/minh-coffee-and-tea-khu-do-thi-van-phu
+517,Ăn Vặt Thị Tóp,https://shopeefood.vn/ha-noi/an-vat-thi-top
+518,Bánh Mỳ Win S - Dương Quảng Hàm,https://shopeefood.vn/ha-noi/banh-my-win-s-duong-quang-ham
+519,Bếp Ăn Vặt - Đồ Hàn & Mỳ Indomie - Bạch Đằng,https://shopeefood.vn/ha-noi/bep-an-vat-do-han-my-indomie-bach-dang
+520,Bắp Food - Nem Chua Rán & Các Món Ăn Vặt - Quan Hoa,https://shopeefood.vn/ha-noi/bap-food-nem-chua-ran-cac-mon-an-vat-quan-hoa
+521,Sarang Kitchen Hàn Quốc - Đồ Ăn Hàn Quốc - Vinhomes Symphony,https://shopeefood.vn/ha-noi/sarang-kitchen-han-quoc-do-an-han-quoc-vinhomes-symphony.9mgwjk
+522,"Cô Ti's Kitchen - Cơm, Salad & Ăn Vặt Online",https://shopeefood.vn/ha-noi/co-ti-s-kitchen-com-salad-an-vat-online
+523,"Bánh Mì, Xôi & Ăn Vặt - Yên Xá",https://shopeefood.vn/ha-noi/banh-mi-xoi-an-vat-yen-xa
+524,"Bếp Nhà Dứa - Bún Thái Hải Sản, Bắp Bò & Mỳ Trộn",https://shopeefood.vn/ha-noi/bep-nha-dua-bun-thai-hai-san-bap-bo-my-tron
+525,"Ciemt Juice - Nước Ép, Trà Hoa Quả & Sinh Tố",https://shopeefood.vn/ha-noi/ciemt-juice-nuoc-ep-tra-hoa-qua-sinh-to
+526,Cháo Dinh Dưỡng Đăng Nhi Cơ Sở 3 - Hoàng Văn Thái,https://shopeefood.vn/ha-noi/chao-dinh-duong-dang-nhi-co-so-3-hoang-van-thai
+527,"Chè Ngon, Trà Ngon & Đồ Ăn Vặt - Phương Linh Quán",https://shopeefood.vn/ha-noi/che-ngon-tra-ngon-do-an-vat-phuong-linh-quan
+528,Tiệm Trà Mina - Tựu Liệt,https://shopeefood.vn/ha-noi/tiem-tra-mina-tuu-liet
+529,Tiệm Chè Mộc Nhiên,https://shopeefood.vn/ha-noi/tiem-che-moc-nhien
+530,QUẨY ĐÙI GÀ KHÔI NGUYÊN CUISINE,https://shopeefood.vn/ha-noi/quay-dui-ga-khoi-nguyen-cuisine
+531,"Hải Yến Foods - Đồ Ăn Nhanh, Viên Chiên & Gà KFC - Võ Quý Huân",https://shopeefood.vn/ha-noi/hai-yen-foods-do-an-nhanh-vien-chien-ga-kfc-vo-quy-huan
+532,Tuấn Béo - Bún Đậu Mẹt - Ngô Gia Tự,https://shopeefood.vn/ha-noi/tuan-beo-bun-dau-met-ngo-gia-tu.kzdemv
+533,Anh Food - Đồ Ăn Vặt - Shop Online,https://shopeefood.vn/ha-noi/anh-food-do-an-vat-shop-online
+534,CƠM HÀN QUỐC BIG.BOSS - Chùa Láng,https://shopeefood.vn/ha-noi/com-han-quoc-big-boss-chua-lang
+535,Lòng Trần Cháo - Phở Gà & Bún Đậu Mẹt - Mễ Trì Thượng,https://shopeefood.vn/ha-noi/long-tran-chao-pho-ga-bun-dau-met-dong-me
+536,Thúy An - Xoài Cóc Bao Tử & Đồ Ăn Vặt Online - Khương Trung,https://shopeefood.vn/ha-noi/thuy-an-xoai-coc-bao-tu-do-an-vat-online
+537,ChaoSiam Trà - Cafe Ấm Đất Nung - Lê Đại Hành,https://shopeefood.vn/ha-noi/chaosiam-tra-cafe-am-dat-nung-le-dai-hanh
+538,"Tiểu Phàm - Chè, Sinh Tố & Nước Ép - Âu Cơ",https://shopeefood.vn/ha-noi/tieu-pham-che-sinh-to-nuoc-ep-au-co
+539,A Rau Má - Sữa Hạt & Sữa Đậu Nành,https://shopeefood.vn/ha-noi/a-rau-ma-sua-hat-sua-dau-nanh
+540,Cô Em Bán Bánh - Bánh Bò Thốt Nốt & Bánh Ngọt - Shop Online,https://shopeefood.vn/ha-noi/co-em-ban-banh-banh-bo-thot-not-banh-ngot-shop-online
+541,Mỳ Trộn Indomie & Mỳ Trộn - Phúc Xá,https://shopeefood.vn/ha-noi/my-tron-indomie-my-tron-phuc-xa
+542,"CiCi Food - Ăn Vặt Trung Và Việt, Đặc Sản Tây Bắc & Trà Nước Ép",https://shopeefood.vn/ha-noi/cici-food-an-vat-trung-va-viet-dac-san-tay-bac-tra-nuoc-ep
+543,Heo Thì - Bún Cù Kỳ Đặc Sản Hạ Long,https://shopeefood.vn/ha-noi/heo-thi-bun-cu-ky-dac-san-ha-long
+544,Somali Cat - Bánh Ngọt & Trà Sữa Online - Nguyễn Huy Tưởng,https://shopeefood.vn/ha-noi/somali-cat-banh-ngot-tra-sua-online-nguyen-huy-tuong
+545,Rory Juice - Nước ép & Sinh Tố Trái Cây Tươi,https://shopeefood.vn/ha-noi/rory-juice-nuoc-ep-sinh-to-trai-cay-tuoi
+546,Cat Food - Mì Trộn & Mì Cay Indomie - Bùi Xương Trạch,https://shopeefood.vn/ha-noi/cat-food-mi-tron-mi-cay-indomie-bui-xuong-trach
+547,Smoothie Detox & Healthy - Xã Đàn,https://shopeefood.vn/ha-noi/smoothie-detox-healthy-xa-dan
+548,Gà Không Lối Thoát - Mẹt Gà Muối Ngọc Ánh,https://shopeefood.vn/ha-noi/ga-khong-loi-thoat-met-ga-muoi-ngoc-anh
+549,Huy Ốc Quán - Bún Chả & Ốc Nóng - Phú Lương,https://shopeefood.vn/ha-noi/huy-oc-quan-bun-cha-oc-nong-phu-luong
+550,"Happy Chicken - Cơm Gà, Gà Rán & Mì Ý - Trần Bình",https://shopeefood.vn/ha-noi/happy-chicken-com-ga-ga-ran-mi-y-tran-binh
+551,ĐO ĐO - Bánh Tráng Trộn - Thanh Xuân Bắc,https://shopeefood.vn/ha-noi/do-do-banh-trang-tron-thanh-xuan-bac.ie3zt2
+552,Nem Nướng Nha Trang Hồng Tuyết - Cầu Diễn,https://shopeefood.vn/ha-noi/nem-nuong-nha-trang-hong-tuyet-cau-dien
+553,Bún Cá Ngon - Quan Nhân,https://shopeefood.vn/ha-noi/bun-ca-ngon-quan-nhan
+554,Tiệm Mỳ Nhà Bon - Mỳ Cay & Mỳ Xào,https://shopeefood.vn/ha-noi/tiem-my-nha-bon-my-cay-my-xao
+555,1000M - Trà & Trà Sữa Shan Tuyết Thượng Hạng - 45 Nguyễn Thị Định,https://shopeefood.vn/ha-noi/1000m-tra-tra-sua-shan-tuyet-thuong-hang-45-nguyen-thi-dinh
+556,Ô Long Đây - 48A Cửa Bắc,https://shopeefood.vn/ha-noi/o-long-day-48a-cua-bac
+557,"Gấu Ú - Ăn Vặt, Bánh Mì Cay & Nem Chua Rán - Yên Hoà",https://shopeefood.vn/ha-noi/gau-u-an-vat-banh-mi-cay-nem-chua-ran-yen-hoa
+558,Cơm Chay An Vui - Đồ Chay Tuệ Lâm - Nguyễn Trãi,https://shopeefood.vn/ha-noi/com-chay-an-vui-do-chay-tue-lam-nguyen-trai
+559,ShiO Sushi - S1.08 Ocean Park,https://shopeefood.vn/ha-noi/shio-sushi-s1-08-ocean-park
+560,Bờm Quán - Mì Trộn Indomie - Nghĩa Tân,https://shopeefood.vn/ha-noi/bom-quan-mi-tron-indomie-nghia-tan.n0muve
+561,TÝ TEA - TRÀ SỮA & ĂN VẶT - TÂN KHAI,https://shopeefood.vn/ha-noi/ty-tea-tra-sua-an-vat-tan-khai
+562,Minh Food - Nem Chua Rán Và Xiên Que,https://shopeefood.vn/ha-noi/minh-food-nem-chua-ran-va-xien-que
+563,Oola - Trà Ô Long Đậm Vị - Tạ Quang Bửu,https://shopeefood.vn/ha-noi/oola-tra-o-long-dam-vi-ta-quang-buu
+564,Bún Chả Đỗ Lý,https://shopeefood.vn/ha-noi/bun-cha-do-ly
+565,"Thuỷ Kin - Nước Ép, Sinh Tố & Các Loại Trà - Cổ Linh",https://shopeefood.vn/ha-noi/thuy-kin-nuoc-ep-sinh-to-cac-loai-tra-co-linh
+566,Samlovecake,https://shopeefood.vn/ha-noi/samlovecake
+567,Jaspas Restaurant,https://shopeefood.vn/ha-noi/jaspas-restaurant
+568,"Coy's Kitchen - Cơm Đảo Gà Nướng, Chân Gà & Ăn Vặt Online - Phố Nguyễn Hiền",https://shopeefood.vn/ha-noi/coy-s-kitchen-com-dao-ga-nuong-chan-ga-an-vat-online-pho-nguyen-hien
+569,"Phở Lý Quốc Sư - Phở Bò, Cơm Văn Phòng & Lẩu - 29 Nguyễn Chí Thanh",https://shopeefood.vn/ha-noi/pho-ly-quoc-su-pho-bo-com-van-phong-lau-29-nguyen-chi-thanh
+570,"Chick Garden - Chè, Súp & Mỳ Chua Cay - Ngô Thì Nhậm",https://shopeefood.vn/ha-noi/chick-garden-che-sup-my-chua-cay-ngo-thi-nham
+571,Phở Cuốn Anh Tú,https://shopeefood.vn/ha-noi/pho-cuon-anh-tu
+572,Gà Rán Five Star - 04 Yên Hòa,https://shopeefood.vn/ha-noi/ga-ran-five-star-04-yen-hoa
+573,YH.TANG - Đệ Nhất Trà Sữa Nướng - Trần Phú,https://shopeefood.vn/ha-noi/yh-tang-de-nhat-tra-sua-nuong-tran-phu
+574,Bonchon Chicken - Lạc Long Quân,https://shopeefood.vn/ha-noi/bonchon-chicken-lac-long-quan
+575,Mỳ Ếch Chua Cay Trần Quỳnh - 30 Nguyễn Thái Học,https://shopeefood.vn/ha-noi/my-ech-chua-cay-tran-quynh-30-nguyen-thai-hoc
+576,PiPo Quán - Bánh Tráng Cuốn Thịt Heo,https://shopeefood.vn/ha-noi/pipo-quan-banh-trang-cuon-thit-heo
+577,Xôi Yến - Bách Khoa,https://shopeefood.vn/ha-noi/xoi-yen-bach-khoa
+578,Dakgalbi - Tiệm Gà Rán Hàn Quốc - 29 Ngõ Tự Do,https://shopeefood.vn/ha-noi/dakgalbi-tiem-ga-ran-han-quoc-29-ngo-tu-do
+579,Sói Biển - Thực phẩm sạch - Số 8 Vũ Thạnh,https://shopeefood.vn/ha-noi/soi-bien-thuc-pham-sach-so-8-vu-thanh
+580,Bún Đậu Mẹt Minh Thư - Văn Minh,https://shopeefood.vn/ha-noi/bun-dau-met-minh-thu-van-minh
+581,Minh Phương - Nem Nướng Nha Trang - Ao Sen,https://shopeefood.vn/ha-noi/minh-phuong-nem-nuong-nha-trang-ao-sen
+582,Bảo Ngọc Food - Mì Trộn Indomie & Đồ Ăn Vặt - Phố Lụa,https://shopeefood.vn/ha-noi/bao-ngoc-food-mi-tron-indomie-do-an-vat-pho-lua
+583,Yên Đàm - Trà Sữa Thảo Dược,https://shopeefood.vn/ha-noi/yen-dam-tra-sua-thao-duoc
+584,Kombo - Cơm Niêu Singapore - Hoàng Cầu Mới,https://shopeefood.vn/ha-noi/kombo-com-nieu-singapore-hoang-cau-moi
+585,Coco Nama Tea Bar - Nguyễn Khánh Toàn,https://shopeefood.vn/ha-noi/coco-nama-tea-bar-nguyen-khanh-toan
+586,Gà Tần & Mì Chua Cay Tim Cật - 4I,https://shopeefood.vn/ha-noi/ga-tan-mi-chua-cay-tim-cat-4i
+587,ABAMI - Bánh Mì Hội An - Duy Tân,https://shopeefood.vn/ha-noi/abami-banh-mi-hoi-an-duy-tan
+588,"Tiệm Bé Cá – Trà Sữa, Mỳ Ý & Sandwich",https://shopeefood.vn/ha-noi/tiem-be-ca-tra-sua-my-y-sandwich
+589,Phúc Nguyễn - Trái Cây Tươi & Nước Ép Trái Cây Tươi - Trần Quốc Vượng,https://shopeefood.vn/ha-noi/phuc-nguyen-trai-cay-tuoi-nuoc-ep-trai-cay-tuoi-tran-quoc-vuong
+590,PHỞ PHỐ CỔ - Phở & Cơm Rang - Thịnh Liệt,https://shopeefood.vn/ha-noi/pho-pho-co-pho-com-rang-thinh-liet
+591,"688 Food - Mỳ cay, Mỳ trộn & Mỳ tương đen - Mỹ Đình",https://shopeefood.vn/ha-noi/688-food-my-cay-my-tron-my-tuong-den-my-dinh
+592,Ốc 29 - Ốc Hải Sản & Đồ Ăn Vặt - 38 Yên Lãng,https://shopeefood.vn/ha-noi/oc-29-oc-hai-san-do-an-vat-38-yen-lang
+593,Long Xã Đàn - Bún Sườn Chua - Chùa Láng,https://shopeefood.vn/ha-noi/long-xa-dan-bun-suon-chua-chua-lang
+594,Chicky - Cơm & Gà Rán Ăn Vặt - Đại An,https://shopeefood.vn/ha-noi/chicky-com-ga-ran-an-vat-dai-an
+595,Bún Chả Ba Cô - Mễ Trì Hạ,https://shopeefood.vn/ha-noi/bun-cha-ba-co-me-tri-ha
+596,Tossful - Salad Bar - Liễu Giai,https://shopeefood.vn/ha-noi/tossful-salad-bar-lieu-giai
+597,Korea House - Đồ Ăn Hàn Quốc Và Cơm Trộn - Ngõ Chùa Liên Phái,https://shopeefood.vn/ha-noi/korea-house-do-an-han-quoc-va-com-tron-ngo-chua-lien-phai
+598,Trâm - Bánh Mì Sốt Vang Đình Ngang - Vinhomes Ocean Park,https://shopeefood.vn/ha-noi/tram-banh-mi-sot-vang-dinh-ngang-vinhomes-ocean-park
+599,Mokchang - Đồ Ăn Hàn Quốc - Láng Hạ,https://shopeefood.vn/ha-noi/mokchang-do-an-han-quoc-lang-ha
+600,Bếp Nhà Châu - Eatclean & Healthy,https://shopeefood.vn/ha-noi/bep-nha-chau-eatclean-healthy
+601,Tiến Thành - Mỳ Trộn Indomie - 18 Tương Mai,https://shopeefood.vn/ha-noi/tien-thanh-my-tron-indomie-18-tuong-mai
+602,Cháo Lòng Phương Linh,https://shopeefood.vn/ha-noi/chao-long-phuong-linh
+603,Bún Ốc Sườn Cô Sáu - Lạc Trung,https://shopeefood.vn/ha-noi/bun-oc-suon-co-sau-lac-trung
+604,Bánh Mì Nem Khoai Và Bánh Gà - Minh Châu,https://shopeefood.vn/ha-noi/banh-mi-nem-khoai-va-banh-ga-minh-chau
+605,A Béo - Mỳ Trộn Indomie - Nguyễn An Ninh,https://shopeefood.vn/ha-noi/a-beo-my-tron-indomie-nguyen-an-ninh
+606,Bánh Tráng Dì Oanh,https://shopeefood.vn/ha-noi/banh-trang-di-oanh
+607,Bánh Mì Nướng Muối Ớt Minh Châu - Hoa Bằng,https://shopeefood.vn/ha-noi/banh-mi-nuong-muoi-ot-minh-chau-hoa-bang
+608,Nem Nắm & Nem Tai - Thu Hương (Since 2005) - Nguyễn An Ninh,https://shopeefood.vn/ha-noi/nem-nam-nem-tai-thu-huong-since-2005-nguyen-an-ninh
+609,Chè Sầu Liên & Đồ Ăn Vặt - Định Công,https://shopeefood.vn/ha-noi/che-sau-lien-do-an-vat-dinh-cong
+610,"Lương Tâm - Bánh Mì, Burger & Đồ Trộn",https://shopeefood.vn/ha-noi/luong-tam-banh-mi-burger-do-tron
+611,Tự Nhiên Thấy Đói - Mỳ Cay & Gà Ủ Muối - Nguyễn Khánh Toàn,https://shopeefood.vn/ha-noi/tu-nhien-thay-doi-my-cay-ga-u-muoi-nguyen-khanh-toan
+612,Quán Cơm Ngon - Cơm Rang Đùi Gà,https://shopeefood.vn/ha-noi/quan-com-bop-com-rang-dui-ga
+613,Japchae - Miến Trộn Hàn Quốc,https://shopeefood.vn/ha-noi/japchae-mien-tron-han-quoc
+614,Đồ Ăn Vặt - Bảo Linh,https://shopeefood.vn/ha-noi/do-an-vat-bao-linh
+615,Tuý Food - Mì Trộn Indomie - 7/27 Đại Cồ Việt,https://shopeefood.vn/ha-noi/tuy-food-mi-tron-indomie-7-27-dai-co-viet
+616,Tiger Suger Trần Quốc Hoàn - Trà Sữa - Trần Quốc Hoàn,https://shopeefood.vn/ha-noi/tiger-suger-tran-quoc-hoan-tra-sua-tran-quoc-hoan.rsjbsk
+617,Chân Gà Bay Online,https://shopeefood.vn/ha-noi/chan-ga-bay-online
+618,"Hương Vị Việt - Gà Rán, Gà Luộc & Gà Ủ Muối - Pháo Đài Láng",https://shopeefood.vn/ha-noi/huong-vi-viet-ga-ran-ga-luoc-ga-u-muoi-phao-dai-lang
+619,Royaltea - Trà Sữa Hồng Kông - Linh Đàm,https://shopeefood.vn/ha-noi/royaltea-linh-dam
+620,Nhất Cháo - Nguyễn Thị Định,https://shopeefood.vn/ha-noi/nhat-chao-nguyen-thi-dinh
+621,Bún Đậu Mắm Tôm Phan Hưng - Phan Văn Trường,https://shopeefood.vn/ha-noi/bun-dau-mam-tom-phan-hung-phan-van-truong
+622,Teen Food - Nem Chua Rán Chị Hạnh - Dương Khuê,https://shopeefood.vn/ha-noi/teen-food-nem-chua-ran-chi-hanh-duong-khue
+623,Trùm Ăn Vặt Nana - Phố Đặng Thai Mai,https://shopeefood.vn/ha-noi/trum-an-vat-nana-au-co
+624,Bún Bò Huế O Thi,https://shopeefood.vn/ha-noi/bun-bo-hue-o-thi
+625,Tiệm Mì Indo - Đặng Văn Ngữ,https://shopeefood.vn/ha-noi/tiem-mi-indo-dang-van-ngu
+626,Chân Gà Rút Xương Sốt Thái & Ngâm Sả Tắc - Bếp Mẹ Bi,https://shopeefood.vn/ha-noi/chan-ga-rut-xuong-sot-thai-ngam-sa-tac-bep-me-bi
+627,Tiệm Mì Aji - Mì Trộn Indomie - Triều Khúc,https://shopeefood.vn/ha-noi/tiem-mi-aji-mi-tron-indomie-trieu-khuc.nbbfgq
+628,Tiệm Cú Đêm - Triều Khúc - Shop Online,https://shopeefood.vn/ha-noi/tiem-cu-dem-trieu-khuc-shop-online
+629,Vị Miền Trung - Bún Bò Huế & Bánh Tráng Cuốn Thịt Heo - Lê Trọng Tấn,https://shopeefood.vn/ha-noi/vi-mien-trung-bun-bo-hue-banh-trang-cuon-thit-heo-le-trong-tan
+630,Bún Đậu Ngõ Nhỏ - Bún Đậu Mắm Tôm - 235 Yên Hoà,https://shopeefood.vn/ha-noi/bun-dau-ngo-nho-bun-dau-mam-tom-235-yen-hoa
+631,Trà Bí Đao Cát Tiên - Lê Hồng Phong,https://shopeefood.vn/ha-noi/tra-bi-dao-cat-tien-le-hong-phong
+632,Một Chút - Đậm Vị Trà Pha Máy,https://shopeefood.vn/ha-noi/mot-chut-dam-vi-tra-pha-may
+633,"Kim Liên - Bún, Miến & Bánh Đa Cua - Lương Định Của",https://shopeefood.vn/ha-noi/kim-lien-bun-mien-banh-da-cua-luong-dinh-cua
+634,Bản Gác Food - Trâu Gác Bếp - Vinhomes Smart City,https://shopeefood.vn/ha-noi/ban-gac-food-trau-gac-bep-vinhomes-smart-city
+635,Trà Chanh Giã Tay Chị Đẹp - 307 Tô Hiệu,https://shopeefood.vn/ha-noi/tra-chanh-gia-tay-chi-dep-307-to-hieu
+636,Trà Chanh Giã Tay Chị Đẹp - 3 Nguyễn Biểu,https://shopeefood.vn/ha-noi/tra-chanh-gia-tay-chi-dep-3-nguyen-bieu
+637,Tiệm Bé Xoài Nước Ép Tươi Nguyên Chất & Sinh Tố Hoa Quả,https://shopeefood.vn/ha-noi/tiem-be-xoai-nuoc-ep-tuoi-nguyen-chat-sinh-to-hoa-qua
+638,Cơm Niêu 157 - Cơm Văn Phòng - Mỹ Đình,https://shopeefood.vn/ha-noi/com-nieu-157-com-van-phong-my-dinh
+639,Ăn Vặt Ngon - Xoài Cóc Bao Tử & Nem Chua Rán - Khuất Duy Tiến,https://shopeefood.vn/ha-noi/an-vat-ngon-xoai-coc-bao-tu-nem-chua-ran-khuat-duy-tien
+640,Little Kitchen - Tiệm Mì Indome Online,https://shopeefood.vn/ha-noi/little-kitchen-tiem-mi-indome-online
+641,Xôi Nhà Lười,https://shopeefood.vn/ha-noi/xoi-nha-luoi
+642,Bastet's Home - Trà Sữa & Ăn Vặt - Hà Đông,https://shopeefood.vn/ha-noi/bastet-s-home-tra-sua-an-vat-ha-dong
+643,Bún Đậu Mắm Tôm - Giả Cầy - Hàng Bún,https://shopeefood.vn/ha-noi/bun-dau-mam-tom-gia-cay-hang-bun-quan-thanh
+644,3T Food Chân Gà Sốt Thái - Vương Thừa Vũ,https://shopeefood.vn/ha-noi/3t-food-chan-ga-sot-thai-vuong-thua-vu
+645,Trúc Vy - Xôi Mặn & Phở Tíu - Shop Online,https://shopeefood.vn/ha-noi/truc-vy-xoi-man-pho-tiu-shop-online
+646,Cơm Văn Phòng - Phú Thắng,https://shopeefood.vn/ha-noi/com-van-phong-phu-thang
+647,Gà Tần & Mì Gà Tần - Tô Hiệu,https://shopeefood.vn/ha-noi/ga-tan-mi-ga-tan-to-hieu
+648,Lang Thang Cà Phê - Đỗ Hành,https://shopeefood.vn/ha-noi/lang-thang-ca-phe-do-hanh
+649,Huyền Anh Bún Riêu Cua Tóp Mỡ - Trần Đại Nghĩa,https://shopeefood.vn/ha-noi/huyen-anh-bun-rieu-cua-top-mo-tran-dai-nghia
+650,Gumbok Gà Rán Hàn Quốc - Vũ Phạm Hàm,https://shopeefood.vn/ha-noi/gumbok-ga-ran-han-quoc-vu-pham-ham
+651,Bánh Mỳ Thịt Nướng - Nước Ép Nguyên Chất,https://shopeefood.vn/ha-noi/banh-my-thit-nuong-nuoc-ep-nguyen-chat
+652,Gà Không Lối Thoát - Mẹt Gà Tuyển,https://shopeefood.vn/ha-noi/ga-khong-loi-thoat-met-ga-tuyen
+653,Tam Hoa - Nem Nướng Nha Trang & Bún Trộn Nam Bộ - Ỷ La,https://shopeefood.vn/ha-noi/tam-hoa-nem-nuong-nha-trang-bun-tron-nam-bo-y-la.dfqpew
+654,Lòng Ngon Quán - Định Công,https://shopeefood.vn/ha-noi/long-ngon-quan-dinh-cong
+655,"Lạ Coffee - Sinh Tố, Cà Phê & Nước Ép",https://shopeefood.vn/ha-noi/la-coffee-sinh-to-ca-phe-nuoc-ep
+656,Bánh Đa Cua & Bún Cá Cay Chất Cảng - 245 Tô Hiệu,https://shopeefood.vn/ha-noi/banh-da-cua-bun-ca-cay-chat-cang-245-to-hieu
+657,Quán Ông Dũng - Bún Riêu Ốc & Mỳ Chua Cay,https://shopeefood.vn/ha-noi/quan-ong-dung-bun-rieu-oc-my-chua-cay
+658,EY YOGURT - Sữa Chua Thủ Công Kéo Sợi,https://shopeefood.vn/ha-noi/ey-yogurt-sua-chua-thu-cong-keo-soi
+659,Mỳ Cay & Cơm Chiên - Ăn Vặt Tiệm 1991,https://shopeefood.vn/ha-noi/my-cay-com-chien-an-vat-tiem-1991
+660,Thaolun - Bún Sườn Bò Hầm - Nghi Tàm,https://shopeefood.vn/ha-noi/thaolun-bun-suon-bo-ham-nghi-tam
+661,"Bình Food - Mì Indomie, Bánh Mì & Đồ Ăn Vặt",https://shopeefood.vn/ha-noi/binh-food-mi-indomie-banh-mi-do-an-vat
+662,Sweetie Cake,https://shopeefood.vn/ha-noi/sweetie-cake
+663,Bé Ớt Quán - Xã Đàn,https://shopeefood.vn/ha-noi/be-ot-quan-xa-dan
+664,Nước Ép Sinh Tố - Trần Quý Cáp,https://shopeefood.vn/ha-noi/nuoc-ep-sinh-to-tran-quy-cap
+665,"Meo Food - Mỳ Cay, Bánh Tráng & Đồ Ăn Vặt",https://shopeefood.vn/ha-noi/meo-food-my-cay-banh-trang-do-an-vat
+666,Trà Sữa Rosier - Fresh Tea & Coffee - Tô Hiến Thành,https://shopeefood.vn/ha-noi/tra-sua-rosier-fresh-tea-coffee-to-hien-thanh
+667,Tú Vịt - Vịt Nướng Vân Đình- Đồng Me,https://shopeefood.vn/ha-noi/tu-vit-vit-nuong-van-dinh-dong-me
+668,Bún Đậu Sóc Béo – Phúc Đồng,https://shopeefood.vn/ha-noi/bun-dau-soc-beo-phuc-dong
+669,Nem Nướng & Mì Trộn - Bếp Nhà Bắp,https://shopeefood.vn/ha-noi/nem-nuong-mi-tron-bep-nha-bap
+670,Nem Nướng Nha Trang H2O - Xuân La,https://shopeefood.vn/ha-noi/nem-nuong-nha-trang-h2o-xuan-la
+671,Karma Tea Club - 53 Nguyễn Văn Tuyết,https://shopeefood.vn/ha-noi/karma-tea-club-53-nguyen-van-tuyet
+672,Bánh Canh Sườn Heo - Mỳ Bò Đức Nhật,https://shopeefood.vn/ha-noi/banh-canh-suon-heo-my-bo-duc-nhat
+673,Trà Sữa & Trà Hoa Quả Pozaa Tea - 95 Trần Quốc Vượng,https://shopeefood.vn/ha-noi/tra-sua-tra-hoa-qua-pozaa-tea-95-tran-quoc-vuong
+674,"Meo Quán - Mì Cay, Đồ Ăn Vặt & Trà Hoa Quả",https://shopeefood.vn/ha-noi/meo-quan-mi-cay-do-an-vat-tra-hoa-qua
+675,Kelly Milk Tea - 30 Tiến Thành,https://shopeefood.vn/ha-noi/kelly-milk-tea-30-tien-thanh
+676,Chocoffee - Đào Tấn,https://shopeefood.vn/ha-noi/chocoffee-dao-tan
+677,"Trà Trái Cây, Sinh Tố & Nước Ép - ChiMini",https://shopeefood.vn/ha-noi/tra-trai-cay-sinh-to-nuoc-ep-chimini
+678,Hiha Ăn Vặt - Kim Giang,https://shopeefood.vn/ha-noi/hiha-an-vat-kim-giang
+679,"Quốc Toản - Bún, Miến & Bánh Đa Trộn - Nghĩa Tân",https://shopeefood.vn/ha-noi/quoc-toan-bun-mien-banh-da-tron-nghia-tan
+680,"Tiệm Mì Sinh Viên - Đồ Đêm, Mì Trộn & Nước - 91/35 Số 2 Nguyễn Chí Thanh",https://shopeefood.vn/ha-noi/tiem-mi-sinh-vien-do-dem-mi-tron-nuoc-91-35-so-2-nguyen-chi-thanh
+681,Bếp An Khang - Quan Nhân,https://shopeefood.vn/ha-noi/bep-an-khang-quan-nhan
+682,Chè Ngon Sài Gòn - Chè Thái Thập Cẩm - Nguyễn Chánh,https://shopeefood.vn/ha-noi/che-ngon-sai-gon-che-thai-thap-cam-nguyen-chanh.rtyoxl
+683,Dương - Cơm Tấm Sài Gòn,https://shopeefood.vn/ha-noi/com-tam-duong-vu-huu
+684,Cơm Rang Dưa Bò - Gà Sốt ULa - 81 Nguyễn Khang,https://shopeefood.vn/ha-noi/com-rang-dua-bo-ga-sot-ula-81-nguyen-khang
+685,Đệ Nhất Sủi Cảo Bảo Hoa Viên - Giảng Võ,https://shopeefood.vn/ha-noi/de-nhat-sui-cao-bao-hoa-vien-giang-vo
+686,Xôi Bà Ngà - Đồ ăn - Thuỵ Khuê,https://shopeefood.vn/ha-noi/xoi-ba-nga-do-an-thuy-khue.pwse51
+687,Deilyno - Bún Trộn Nam Bộ & Miến Trộn Đặc Biệt - Tả Thanh Oai,https://shopeefood.vn/ha-noi/deilyno-bun-tron-nam-bo-mien-tron-dac-biet-ta-thanh-oai
+688,Bún Thủy - Trần Nhật Duật,https://shopeefood.vn/ha-noi/bun-thuy-tran-nhat-duat
+689,Long Wang Cơ Sở 1 - Dim Sum Hongkong - 84 Ngọc Khánh,https://shopeefood.vn/ha-noi/long-wang-co-so-1-dim-sum-hongkong-84-ngoc-khanh
+690,Bếp Nhà Bun - Chân Gà Sả Ớt Online - Nguyễn Văn Huyên,https://shopeefood.vn/ha-noi/bep-nha-bun-chan-ga-sa-ot-online-nguyen-van-huyen
+691,Sữa Chua Trân Châu Hạ Long Delivery - Tân Triều,https://shopeefood.vn/ha-noi/sua-chua-tran-chau-ha-long-delivery-tan-trieu
+692,Savor - Bánh Mì & Trà Sữa - Nguyễn Huy Tưởng,https://shopeefood.vn/ha-noi/savor-banh-mi-tra-sua-nguyen-huy-tuong
+693,Thu Hằng - Bánh Tráng Trộn & Nước Ép,https://shopeefood.vn/ha-noi/thu-hang-banh-trang-tron-nuoc-ep
+694,Trà Sữa Tiger Sugar - Nguyễn Chính,https://shopeefood.vn/ha-noi/tra-sua-tiger-sugar-nguyen-chinh
+695,Trà Bí Đao Plus - Nguyễn Chính,https://shopeefood.vn/ha-noi/tra-bi-dao-plus-nguyen-chinh
+696,Sữa Chua Trân Châu Hạ Long Healthy - Nguyễn Chính,https://shopeefood.vn/ha-noi/sua-chua-tran-chau-ha-long-healthy-nguyen-chinh
+697,Happy Lunch - Đường Láng,https://shopeefood.vn/ha-noi/happy-lunch-duong-lang
+698,Trà Sữa Tiger Sugar By HongKong - Tam Khương,https://shopeefood.vn/ha-noi/tra-sua-tiger-sugar-by-hongkong-tam-khuong
+699,Sữa Chua Trân Châu Hạ Long - Tân Mai,https://shopeefood.vn/ha-noi/sua-chua-tran-chau-ha-long-tan-mai
+700,Nem Nướng Nha Trang Luji - Kiot K101 khu TMDV Trung Văn VL1,https://shopeefood.vn/ha-noi/nem-nuong-nha-trang-luji-do-duc-duc
+701,"Highlands Coffee - Trà, Cà Phê & Bánh - Imperia Garden",https://shopeefood.vn/ha-noi/highlands-coffee-tra-ca-phe-banh-imperia-garden
+702,"Highlands Coffee - Trà, Cà Phê & Bánh - Eco Lake View",https://shopeefood.vn/ha-noi/highlands-coffee-tra-ca-phe-banh-eco-lake-view
+703,Boost Juice - Smoothies & Nước Ép Trái Cây - The Loop,https://shopeefood.vn/ha-noi/boost-juice-smoothies-nuoc-ep-trai-cay-the-loop
+704,Bánh Tráng Trộn 98 - Chùa Láng,https://shopeefood.vn/ha-noi/banh-trang-tron-98-chua-lang
+705,SiA Lab - Phê cùng Trà,https://shopeefood.vn/ha-noi/sia-lab-phe-cung-tra
+706,Cheese Coffee - Lê Đại Hành,https://shopeefood.vn/ha-noi/cheese-coffee-le-dai-hanh
+707,KATINAT - Yên Phụ,https://shopeefood.vn/ha-noi/katinat-yen-phu
+708,Trà Sữa Gong Cha - 貢茶 - Hoàng Đạo Thúy,https://shopeefood.vn/ha-noi/tra-sua-gong-cha-hoang-dao-thuy
+709,Anh Béo - Bún & Bánh Đa Trộn - Vĩnh Hưng,https://shopeefood.vn/ha-noi/anh-beo-bun-banh-da-tron-vinh-hung
+710,Mỏ Khoét Quán - Cơm Gà Sốt Cay Hàn Quốc - Trần Cung,https://shopeefood.vn/ha-noi/mo-khoet-quan-com-ga-sot-cay-han-quoc-tran-cung
+711,Mì Gà Tần & Chân Gà Lắc - Quán Ăn Đêm Sen - Láng,https://shopeefood.vn/ha-noi/mi-ga-tan-chan-ga-lac-quan-an-dem-sen-lang
+712,Cơm Tấm Anh Ba Sài Gòn,https://shopeefood.vn/ha-noi/com-tam-anh-ba-sai-gon
+713,Cơm Tấm 3 Ông Tướng - Minh Khai,https://shopeefood.vn/ha-noi/com-tam-ba-ong-tuong
+714,Cơm Gà Hải Thuỷ - Bún Đậu Mắm Tôm & Bún Chả,https://shopeefood.vn/ha-noi/com-ga-hai-thuy-bun-dau-mam-tom-bun-cha
+715,Bánh Mì Tuhu Bread - Phố Nguyễn Sơn,https://shopeefood.vn/ha-noi/banh-mi-tuhu-bread-pho-nguyen-son
+716,Indomie SC - Mì Trộn Indomie - Hồ Tùng Mậu,https://shopeefood.vn/ha-noi/indomie-sc-mi-tron-indomie-ho-tung-mau.49x29v
+717,Cúc - Cháo Sườn Sụn - Linh Đàm,https://shopeefood.vn/ha-noi/cuc-chao-suon-sun-linh-dam
+718,Phở Xào Duyên Béo,https://shopeefood.vn/ha-noi/pho-xao-duyen-beo
+719,Cô Ba - Nem Nướng Nha Trang - Minh Khai,https://shopeefood.vn/ha-noi/co-ba-nem-nuong-nha-trang-minh-khai
+720,Bánh Mỳ Doner Kebab Bánh Mỳ Vũ - Ăn Vặt - Hạ Đình,https://shopeefood.vn/ha-noi/banh-my-doner-kebab-banh-my-vu-an-vat-ha-dinh
+721,Tim Food - Mì Trộn Indomie & Đồ Ăn Vặt - Hồng Hà,https://shopeefood.vn/ha-noi/tim-food-mi-tron-indomie-do-an-vat-hong-ha
+722,"HN - Bún Bò Huế, Phở, Cơm Mì Xào - Nguyễn Văn Cừ",https://shopeefood.vn/ha-noi/hn-bun-bo-hue-pho-com-mi-xao-nguyen-van-cu
+723,Tiệm Mì Tươi Ramen2go,https://shopeefood.vn/ha-noi/tiem-mi-tuoi-ramen2go
+724,Starbucks Coffee - Ocean Park S2,https://shopeefood.vn/ha-noi/starbucks-coffee-ocean-park-s2
+725,Domino's Pizza - Xuân La,https://shopeefood.vn/ha-noi/domino-s-pizza-xuan-la
+726,"Hủ Tiếu Thái Lan, Trà Sữa Thái, Ăn Vặt - Pi Thai - 136 Vũ Phạm Hàm",https://shopeefood.vn/ha-noi/hu-tieu-thai-lan-tra-sua-thai-an-vat-pi-thai-136-vu-pham-ham
+727,Pizza Hut - Trần Nguyên Đán,https://shopeefood.vn/ha-noi/pizza-hut-tran-nguyen-dan
+728,Pizza Hut - Gamuda,https://shopeefood.vn/ha-noi/pizza-hut-gamuda
+729,Trà sữa Cooler City - Icecream & Tea - Phố Xốm,https://shopeefood.vn/ha-noi/tra-sua-cooler-city-icecream-tea-pho-xom
+730,The Alley - Trà Sữa Đài Loan - 48 Trần Phú,https://shopeefood.vn/ha-noi/the-alley-tra-sua-dai-loan-tran-phu
+731,Chị Cúc - Bún Trộn Nam Bộ - Gốc Đề,https://shopeefood.vn/ha-noi/chi-cuc-bun-tron-nam-bo-goc-de
+732,Yi He Kao Nai - Trà Sữa Nướng Vân Nam - Phú Diễn,https://shopeefood.vn/ha-noi/yi-he-kao-nai-phu-dien
+733,Bola - Bông Lan Trứng Muối Và Chè Đà Nẵng - Phan Bá Vành,https://shopeefood.vn/ha-noi/bola-bong-lan-trung-muoi-va-che-da-nang-phan-ba-vanh
+734,Twitter Beans Coffee - Vũ Phạm Hàm,https://shopeefood.vn/ha-noi/twitter-beans-coffee-vu-pham-ham
+735,Trà Sữa Tiger Hill - Toà K1 KĐT Việt Hưng,https://shopeefood.vn/ha-noi/tra-sua-tiger-hill-toa-k1-kdt-viet-hung
+736,Trà Sữa Tiger Sugar Delivery - Đường Nâu Sữa Đài Loan - Lê Lai,https://shopeefood.vn/ha-noi/tra-sua-tiger-sugar-delivery-duong-nau-sua-dai-loan-le-lai
+737,Pozaa Tea - Trà Sữa Đài Loan - Lê Trọng Tấn,https://shopeefood.vn/ha-noi/pozaa-tea-tra-sua-dai-loan-le-trong-tan
+738,Trà sữa LeeTee - Kem Trứng & Trà Hoa Quả - Láng Hạ,https://shopeefood.vn/ha-noi/tra-sua-leetee-kem-trung-tra-hoa-qua-lang-ha
+739,Trà Bí Đao Nam Duy - Hà Nội - Vũ Tông Phan,https://shopeefood.vn/ha-noi/tra-bi-dao-nam-duy-ha-noi-vu-tong-phan
+740,Bánh Su Kem Nhật Bản Beard Papa’s - Thụy Khuê,https://shopeefood.vn/ha-noi/banh-su-kem-nhat-ban-beard-papa-s-thuy-khue
+741,Bánh Mì Minh Nhật - Duy Tân,https://shopeefood.vn/ha-noi/banh-mi-minh-nhat-duy-tan
+742,Sun Coffee - Trà Hoa Quả Trái Cây,https://shopeefood.vn/ha-noi/sun-coffee-tra-hoa-qua-trai-cay
+743,Royal Tea - Trà Sữa Trân Châu - Hồ Tùng Mậu,https://shopeefood.vn/ha-noi/royal-tea-tra-sua-tran-chau-ho-tung-mau
+744,"Habifood - Bánh Bao Handmade, Sữa Hạt & Ăn Vặt - 101 C9 Hoàng Ngọc Phách",https://shopeefood.vn/ha-noi/habifood-banh-bao-handmade-sua-hat-an-vat-101-c9-hoang-ngoc-phach
+745,Tiệm Gà Rán Óng Ánh - Chùa Láng,https://shopeefood.vn/ha-noi/tiem-ga-ran-ong-anh-chua-lang
+746,KingDo Tea - Trà Sữa Olong Đậm Vị Thượng Hạng- KĐT ĐẠI KIM,https://shopeefood.vn/ha-noi/kingdo-tea-tra-sua-olong-dam-vi-thuong-hang-kdt-dai-kim
+747,Tiệm Mì Indo - Kim Giang,https://shopeefood.vn/ha-noi/tiem-mi-indo-kim-giang
+748,"Nhom Nhem Quán - Thiên Đường Ăn Vặt, Chè & Nước Ép - Xuân La",https://shopeefood.vn/ha-noi/nhom-nhem-quan-thien-duong-an-vat-che-nuoc-ep-xuan-la
+749,An Nam Cháo,https://shopeefood.vn/ha-noi/an-nam-chao
+750,"Bánh Tôm Hà Thành - Bánh Tôm, Bánh Gối & Nem Chua Rán - 21 Chiến Thắng",https://shopeefood.vn/ha-noi/banh-tom-ha-thanh-banh-tom-banh-goi-nem-chua-ran-21-chien-thang
+751,Cơm Gà 1994 - Nguyễn Khánh Toàn,https://shopeefood.vn/ha-noi/com-ga-1994-nguyen-khanh-toan
+752,Trà Sữa AZang - Hàng Bông,https://shopeefood.vn/ha-noi/tra-sua-azang-hang-bong
+753,Dì Cẩm - Bún Thịt Nướng Hội An - Láng Hạ,https://shopeefood.vn/ha-noi/di-cam-bun-thit-nuong-hoi-an-lang-ha
+754,Cơm Tấm Sườn 1975 - Láng Hạ,https://shopeefood.vn/ha-noi/com-tam-suon-1975-lang-ha
+755,"Bếp Nhà Nhom Nhem - Sandwich, Bánh Mì & Đồ Ăn Vặt - Xuân La",https://shopeefood.vn/ha-noi/bep-nha-nhom-nhem-sandwich-banh-mi-do-an-vat-xuan-la
+756,"Tiệm Trà Chè Sky - Mì Trộn Indomie, Trà Mãng Cầu, Trà Chanh - Thượng Đình",https://shopeefood.vn/ha-noi/tiem-tra-che-sky-mi-tron-indomie-tra-mang-cau-tra-chanh-thuong-dinh
+757,Hidu House - Mỳ Ý & Pizza - Lương Định Của,https://shopeefood.vn/ha-noi/hidu-house-my-y-pizza-luong-dinh-cua
+758,BUMTRO - Bún Trộn Nam Bộ - Ngọc Lâm,https://shopeefood.vn/ha-noi/bumtro-bun-tron-nam-bo-ngoc-lam
+759,Bún Chả Ngon - Nguyễn Khắc Cần,https://shopeefood.vn/ha-noi/bun-cha-ngon-nguyen-khac-can
+760,Quán Kimbap - Ẩm Thực Hàn Quốc - Phố Nhổn,https://shopeefood.vn/ha-noi/quan-kimbap-am-thuc-han-quoc-pho-nhon
+761,Bếp Cơm Gạo Lứt - Eat Clean & Healthy - Shop Online,https://shopeefood.vn/ha-noi/bep-com-gao-lut-eat-clean-healthy-shop-online
+762,Cơm Sốt hiMC - Cơm Sườn Tê Cay & Cơm Gà - Nguyễn Văn Trỗi,https://shopeefood.vn/ha-noi/com-sot-himc-com-suon-te-cay-com-ga-nguyen-van-troi
+763,Ngọc - Cháo Lòng Ngon & Bún Đậu Mẹt,https://shopeefood.vn/ha-noi/ngoc-chao-long-ngon-bun-dau-met
+764,"Snap Food - Cơm, Bún & Bánh Mì Healthy - Tôn Đức Thắng",https://shopeefood.vn/ha-noi/snap-food-com-bun-banh-mi-healthy-ton-duc-thang
+765,Nam An - Cơm gà Hội An - Láng Hạ,https://shopeefood.vn/ha-noi/nam-an-com-ga-hoi-an-lang-ha
+766,"Bao Bao - Cơm Xá Xíu, Mỳ Chua Cay & Cháo Ếch - 213 Xã Đàn",https://shopeefood.vn/ha-noi/bao-bao-com-xa-xiu-my-chua-cay-chao-ech-213-xa-dan
+767,Bánh Mì Bami Bread - Hoàng Quốc Việt,https://shopeefood.vn/ha-noi/banh-mi-bami-bread-hoang-quoc-viet
+768,GA Rau Má & Súp Cua Trứng Bắc Thảo,https://shopeefood.vn/ha-noi/ga-rau-ma-sup-cua-trung-bac-thao
+769,San Tokbokki - Ẩm Thực Hàn Quốc - Trần Quốc Hoàn,https://shopeefood.vn/ha-noi/san-tokbokki-am-thuc-han-quoc-tran-quoc-hoan
+770,Trà Sữa Winggo - Trà Sữa Kem Trứng Nướng & Trà Hoa Quả - Doãn Kế Thiện,https://shopeefood.vn/ha-noi/tra-sua-winggo-tra-sua-kem-trung-nuong-tra-hoa-qua-doan-ke-thien
+771,Pizza Home - Thái Phiên,https://shopeefood.vn/ha-noi/pizza-home-thai-phien
+772,Longfood - Bún Trộn Nam Bộ Mới - Chiến Thắng,https://shopeefood.vn/ha-noi/longfood-bun-tron-nam-bo-moi-chien-thang.dusktd
+773,Quán Bánh Cuốn Thanh Hóa - Nguyễn Xiển,https://shopeefood.vn/ha-noi/quan-banh-cuon-thanh-hoa-nguyen-xien
+774,Bếp Trên Mây Cloud Cook - Kim Mã,https://shopeefood.vn/ha-noi/bep-tren-may-cloud-cook-kim-ma
+775,Tiệm Ăn Vặt Anh Tâm - Gà Lắc Trân Châu,https://shopeefood.vn/ha-noi/tiem-an-vat-anh-tam-ga-lac-tran-chau
+776,Ăn Vặt Yum Yum,https://shopeefood.vn/ha-noi/an-vat-yum-yum
+777,Trà Dâu 2M - Trà Sữa & Nước Ép - Đền Lừ,https://shopeefood.vn/ha-noi/tra-dau-2m-tra-sua-nuoc-ep-den-lu
+778,Super Chicken - Trần Thái Tông,https://shopeefood.vn/ha-noi/super-chicken-tran-thai-tong.yxd79z
+779,Gà Rán Mê Lyy - Dương Khuê,https://shopeefood.vn/ha-noi/ga-ran-me-lyy-duong-khue
+780,Samdoong - Gimpap & Tokbukki - Hồ Tùng Mậu,https://shopeefood.vn/ha-noi/samdoong-gimpap-tokbukki-ho-tung-mau.ls2hxg
+781,Ni Ni Indomie - Ăn Vặt Quán - Nguyễn Chánh,https://shopeefood.vn/ha-noi/ni-ni-indomie-an-vat-quan-nguyen-chanh
+782,Nhi Food - Nem Chua Tạm thương & Mì Trộn Indomie - Phùng Khoang,https://shopeefood.vn/ha-noi/nhi-food-nem-chua-tam-thuong-mi-tron-indomie-phung-khoang
+783,Song Hổ Quán - Phở Bò & Cơm Rang,https://shopeefood.vn/ha-noi/song-ho-quan-pho-bo-com-rang
+784,Uncle Thai - Thịt Xiên Nướng Thái - Nguyễn Hữu Huân,https://shopeefood.vn/ha-noi/uncle-thai-thit-xien-nuong-thai-nguyen-huu-huan
+785,"Meo Meo Quán - Gà Ủ Muối, Xôi & Đồ Ăn Vặt - Văn Hội",https://shopeefood.vn/ha-noi/meo-meo-quan-ga-u-muoi-xoi-do-an-vat-van-hoi.ty44hk
+786,Bếp Nhà Sum - Đồ Ăn Ngon Việt Hàn,https://shopeefood.vn/ha-noi/bep-nha-sum-do-an-ngon-viet-han
+787,...Ka Coffee - Đội Cấn,https://shopeefood.vn/ha-noi/ka-coffee-doi-can
+788,"Khánh Béo - Ăn Vặt, Nước Ép & Sinh Tố",https://shopeefood.vn/ha-noi/khanh-beo-an-vat-nuoc-ep-sinh-to
+789,SuChin - Cơm Gà Cay Hàn Quốc,https://shopeefood.vn/ha-noi/suchin-com-ga-cay-han-quoc
+790,Trà Sữa Trân Châu Tiger Sugar Tea - Trà Sữa Trân Châu - Tân Mai,https://shopeefood.vn/ha-noi/tra-sua-tran-chau-tiger-sugar-tea-tra-sua-tran-chau-tan-mai
+791,Trà Chanh Xiên Que - 372B Xã Đàn,https://shopeefood.vn/ha-noi/tra-chanh-xien-que-372b-xa-dan.pacj45
+792,Bánh Mì Hem - Nguyễn Huy Tưởng,https://shopeefood.vn/ha-noi/banh-mi-hem-nguyen-huy-tuong
+793,Bánh Cuốn Đệ Nhất - Quang Trung,https://shopeefood.vn/ha-noi/banh-cuon-de-nhat-quang-trung
+794,"Happy Chicken - Cơm Gà, Gà Rán & Mì Ý - Thành Công",https://shopeefood.vn/ha-noi/happy-chicken-com-ga-ga-ran-mi-y-thanh-cong
+795,"Happy Chicken - Cơm Gà, Gà Rán & Mì Ý - Khương Trung",https://shopeefood.vn/ha-noi/happy-chicken-com-ga-ga-ran-mi-y-khuong-trung
+796,PIZZA GO - Khương Trung,https://shopeefood.vn/ha-noi/pizza-go-khuong-trung
+797,Trà Sữa Tiger Sugar By Taiwan - Cổng Làng Văn Nội,https://shopeefood.vn/ha-noi/tra-sua-tiger-sugar-by-taiwan-cong-lang-van-noi
+798,Quán Gà Ủ Muối - Gà Hun Khói & Chân Gà Ngâm Xả Tắc,https://shopeefood.vn/ha-noi/quan-ga-u-muoi-ga-hun-khoi-chan-ga-ngam-xa-tac
+799,Quán Mẹt Ăn Vặt - Nem Nướng Nha Trang & Nem Chua Rán,https://shopeefood.vn/ha-noi/quan-met-an-vat-nem-nuong-nha-trang-nem-chua-ran
+800,Quán Mẹt Ăn Vặt Giá Học Sinh - Nem Nướng Nha Trang & Nem Chua Rán,https://shopeefood.vn/ha-noi/quan-met-an-vat-gia-hoc-sinh-nem-nuong-nha-trang-nem-chua-ran
+801,Quán Nem Nướng Nha Trang - Mẹt Ăn Vặt - Lê Đức Thọ,https://shopeefood.vn/ha-noi/quan-nem-nuong-nha-trang-met-an-vat-le-duc-tho
+802,Tiger Sugar - Yên Hoà,https://shopeefood.vn/ha-noi/tiger-sugar-yen-hoa
+803,Bún Chả & Nem Cua Bể - Yên Hòa,https://shopeefood.vn/ha-noi/bun-cha-nem-cua-be-yen-hoa
+804,Nootea - Lê Trọng Tấn,https://shopeefood.vn/ha-noi/nootea-le-trong-tan
+805,Lẩu Ly & Mì Indomie - Lĩnh Nam - Shop Online,https://shopeefood.vn/ha-noi/lau-ly-mi-indomie-linh-nam-shop-online
+806,Hạt Dinh Dưỡng Thanh Xuân,https://shopeefood.vn/ha-noi/hat-dinh-duong-thanh-xuan
+807,Nướng Lẩu 136 - Đền Lừ 2,https://shopeefood.vn/ha-noi/nuong-lau-136-den-lu-2
+808,Sữa Chua Trân Châu Hạ Long - Mỹ Đình,https://shopeefood.vn/ha-noi/sua-chua-tran-chau-ha-long-my-dinh
+809,Nhóp Nhép - Thế Giới Đồ Ăn Vặt Online - Doãn Kế Thiện,https://shopeefood.vn/ha-noi/nhop-nhep-the-gioi-do-an-vat-online-doan-ke-thien
+810,Cơm Rang Quốc Dân - Thành Công,https://shopeefood.vn/ha-noi/com-rang-quoc-dan-thanh-cong
+811,M Cafein - Kim Giang,https://shopeefood.vn/ha-noi/m-cafein-kim-giang
+812,Cơm Thố ACay - Giếng Mứt,https://shopeefood.vn/ha-noi/com-tho-acay-gieng-mut
+813,"Thiên An - Gà Ủ Muối, Mỳ Trộn Indomie & Ăn Vặt Các Loại",https://shopeefood.vn/ha-noi/thien-an-ga-u-muoi-my-tron-indomie-an-vat-cac-loai
+814,Cà Phê Góc Phố Simco - Đình Thôn,https://shopeefood.vn/ha-noi/ca-phe-goc-pho-simco-dinh-thon
+815,Gà Luộc - Gà Ủ Muối - Yên Phụ,https://shopeefood.vn/ha-noi/ga-luoc-ga-u-muoi-yen-phu
+816,Chân Gà YangYang - Đồ Ăn Vặt & Đồ Uống,https://shopeefood.vn/ha-noi/chan-ga-yangyang-do-an-vat-do-uong
+817,"Hạnh Food - Gà Ủ Muối, Mỳ Cay & Mỳ Trộn Indomie - Shop Online",https://shopeefood.vn/ha-noi/hanh-food-ga-u-muoi-my-cay-my-tron-indomie-shop-online
+818,Bún Cá Măng Cay Đệ Nhất - Thanh Bình,https://shopeefood.vn/ha-noi/bun-ca-mang-cay-de-nhat-thanh-binh
+819,Bánh Mì Hội An - Hoàng Đạo Thành,https://shopeefood.vn/ha-noi/banh-mi-hoi-an-hoang-dao-thanh
+820,Bún Chả Obama - Xuân Đỉnh,https://shopeefood.vn/ha-noi/bun-cha-obama-xuan-dinh
+821,Ốc Phủi 36 - Đại Học Hà Nội,https://shopeefood.vn/ha-noi/oc-phui-36-dai-hoc-ha-noi
+822,Trà Mãng Cầu Hưng Ngọc Vượng,https://shopeefood.vn/ha-noi/tra-mang-cau-hung-ngoc-vuong
+823,Phở Chua 22 - Phở Chua & Mỳ Trộn - Trâu Quỳ,https://shopeefood.vn/ha-noi/pho-chua-22-pho-chua-my-tron-trau-quy
+824,Mỳ Chua Cay Tomyum & Nộm Chân Gà Sốt Thái - Nguyễn Khánh Toàn,https://shopeefood.vn/ha-noi/my-chua-cay-tomyum-nom-chan-ga-sot-thai-nguyen-khanh-toan
+825,Chả Cá Hà Nội 1871,https://shopeefood.vn/ha-noi/cha-ca-ha-noi-1871
+826,Bánh Mì Bơ Béo - Bánh Mì Que & Bánh Mì Truyền Thống - Yên Duyên,https://shopeefood.vn/ha-noi/banh-mi-bo-beo-banh-mi-que-banh-mi-truyen-thong-yen-duyen
+827,Chubby's Kitchen - Bánh Mỳ & Sữa Hạt - Tôn Thất Tùng,https://shopeefood.vn/ha-noi/chubby-s-kitchen-banh-my-sua-hat-ton-that-tung
+828,Cơm Gà Nướng Lu 99 - Dương Quảng Hàm,https://shopeefood.vn/ha-noi/com-ga-nuong-lu-99-duong-quang-ham
+829,Tiệm Nhà Dâu - Gỏi Cuốn & Bún Chả Hà Thành - Vũ Tông Phan,https://shopeefood.vn/ha-noi/tiem-nha-dau-goi-cuon-bun-cha-ha-thanh-vu-tong-phan
+830,Xả Cà Phê - Cà Phê Muối & Trà Hoa Quả,https://shopeefood.vn/ha-noi/xa-ca-phe-ca-phe-muoi-tra-hoa-qua
+831,"SamFood - Bánh Xèo, Xiên Chiên & Mì Cay Hải Sản - Hà Trì 1",https://shopeefood.vn/ha-noi/samfood-banh-xeo-xien-chien-mi-cay-hai-san-ha-tri-1
+832,Green Life - Cơm Văn Phòng - Đại Kim,https://shopeefood.vn/ha-noi/green-life-com-van-phong-dai-kim
+833,Nem Nướng Nha Trang Quý Luyện - Hồ Tùng Mậu,https://shopeefood.vn/ha-noi/nem-nuong-nha-trang-quy-luyen-ho-tung-mau
+834,Bún Chả Que Tre - Thanh Xuân Bắc,https://shopeefood.vn/ha-noi/bun-cha-que-tre-thanh-xuan-bac
+835,Bé Gạo - Ăn Vặt Đường Phố,https://shopeefood.vn/ha-noi/be-gao-an-vat-duong-pho
+836,Long Tuý - Mì Trộn Indomie - Đại Cồ Việt,https://shopeefood.vn/ha-noi/long-tuy-mi-tron-indomie-dai-co-viet
+837,Oishii - Cơm Bò Quốc Dân Nhật Bản - Minh Khai,https://shopeefood.vn/ha-noi/oishii-com-bo-quoc-dan-nhat-ban-minh-khai
+838,Mập Ú - Chân Gà Sả Ớt & Sốt Thái - Trần Duy Hưng,https://shopeefood.vn/ha-noi/map-u-chan-ga-sa-ot-sot-thai-tran-duy-hung
+839,Bếp Cô Nhàn - Mỹ Đình,https://shopeefood.vn/ha-noi/bep-co-nhan-my-dinh
+840,"Bếp Nhà Max - Chân Gà Sả Tắc, Sốt Thái & Mì Tim Cật Chua Cay",https://shopeefood.vn/ha-noi/bep-nha-max-chan-ga-sa-tac-sot-thai-mi-tim-cat-chua-cay
+841,So Coffee - Cafe Muối - Tân Triều,https://shopeefood.vn/ha-noi/so-coffee-cafe-muoi-tan-trieu
+842,"EJ COFFEE - Cafe Muối & Trà Chanh, Tắc FullToping - Hoàng Đạo Thuý",https://shopeefood.vn/ha-noi/ej-coffee-cafe-muoi-tra-chanh-tac-fulltoping-hoang-dao-thuy
+843,"Bếp Chú Thuỷ Cơ Sở 1 - Cơm Gà Nướng, Sườn Nướng & Thịt Nướng - Trần Đại Nghĩa",https://shopeefood.vn/ha-noi/bep-chu-thuy-co-so-1-com-ga-nuong-suon-nuong-thit-nuong-tran-dai-nghia
+844,"Ngô, Khoai & Hạt Dẻ - Shop Online",https://shopeefood.vn/ha-noi/ngo-khoai-hat-de-shop-online
+845,Umi Ramen Bùi Thị Xuân - Mỳ & Cơm Thịt Nướng Nhật Bản,https://shopeefood.vn/ha-noi/umi-ramen-bui-thi-xuan-my-com-thit-nuong-nhat-ban
+846,Sushila - Cơm & Mỳ Ramen - Trúc Khê,https://shopeefood.vn/ha-noi/sushila-com-my-ramen-truc-khe
+847,Cơm Gà Phan Rang - Linh Đàm,https://shopeefood.vn/ha-noi/com-ga-phan-rang-linh-dam
+848,Tiệm Trà Dâu Tây Đông Du,https://shopeefood.vn/ha-noi/tiem-tra-dau-tay-dong-du
+849,Cồ Tuấn - Phở Bò & Cơm Rang - Mễ Trì,https://shopeefood.vn/ha-noi/co-tuan-pho-bo-com-rang-me-tri.u1n64t
+850,Ro's Cake - Bánh Kem & Bông Lan Trứng Muối,https://shopeefood.vn/ha-noi/ro-s-cake-banh-kem-bong-lan-trung-muoi
+851,Nem Nướng Nha Trang - Hoàng Mai,https://shopeefood.vn/ha-noi/nem-nuong-nha-trang-hoang-mai
+852,Gà Luộc & Gà Ủ Muối - Giáp Bát,https://shopeefood.vn/ha-noi/ga-luoc-ga-u-muoi-giap-bat
+853,Cơm Gà Hội An & Cơm Sườn Nướng - Vườn Cam,https://shopeefood.vn/ha-noi/com-ga-hoi-an-com-suon-nuong-vuon-cam
+854,NEM CHUA RÁN CẢM HỘI - Cảm Hội,https://shopeefood.vn/ha-noi/nem-chua-ran-cam-hoi-cam-hoi.6spsnd
+855,Cơm Cá Hồi - Sushi SakeDon - Hồ Tùng Mậu,https://shopeefood.vn/ha-noi/com-ca-hoi-sushi-sakedon-ho-tung-mau
+856,Bánh Mì Chả Nóng Long Đỉnh - 147/2 Tân Mai,https://shopeefood.vn/ha-noi/banh-mi-cha-nong-long-dinh-147-2-tan-mai
+857,Cơm Gà Sài Gòn - Cát Linh,https://shopeefood.vn/ha-noi/com-ga-sai-gon-cat-linh
+858,"Kumit - Bánh Gà, Nem Chua Rán & Mì Trộn Indomie",https://shopeefood.vn/ha-noi/kumit-banh-ga-nem-chua-ran-mi-tron-indomie
+859,"Cơm, Gà Rán & Mì Trộn Bếp Nhà Cám",https://shopeefood.vn/ha-noi/ga-ran-tra-sua-bep-nha-cam-nghia-dung
+860,Hải An - Bánh Mì Muối Ớt - Hoàng Ngân,https://shopeefood.vn/ha-noi/hai-an-banh-mi-muoi-ot-hoang-ngan
+861,ĂN VẶT ONLINE - Bánh Gà & Nem Rán - 183 Hoàng Văn Thái,https://shopeefood.vn/ha-noi/an-vat-online-banh-ga-nem-ran-183-hoang-van-thai
+862,Trà Sữa Mynee - Olong Tây Bắc Đậm Vị,https://shopeefood.vn/ha-noi/tra-sua-mynee-olong-tay-bac-dam-vi
+863,Bếp Của Vụn - Bánh Bông Lan Trứng Muối Online,https://shopeefood.vn/ha-noi/bep-cua-vun-banh-bong-lan-trung-muoi-online
+864,Bếp Tông - Bún Đậu & Ăn Đêm Long Biên,https://shopeefood.vn/ha-noi/bep-tong-bun-dau-an-dem-long-bien
+865,Bún Đậu Ngọc Bích - Xa La,https://shopeefood.vn/ha-noi/bun-dau-ngoc-bich-xa-la
+866,Quán Ngõ Nhỏ - Viên Chiên & Mì Trộn - Cổ Linh,https://shopeefood.vn/ha-noi/quan-ngo-nho-vien-chien-mi-tron-co-linh
+867,Nhất Phẩm - Bún Trộn Nam Bộ - Nguyễn Tuân,https://shopeefood.vn/ha-noi/nhat-pham-bun-tron-nam-bo-nguyen-tuan
+868,Chasiu - Cơm Chiên & Mì Xôi Thịt Xá Xíu - Quốc Tử Giám,https://shopeefood.vn/ha-noi/chasiu-com-chien-mi-xoi-thit-xa-xiu-quoc-tu-giam
+869,Nước Ép Nguyên Chất - Amy Fruit,https://shopeefood.vn/ha-noi/nuoc-ep-nguyen-chat-amy-fruit
+870,"Cháo Ngon Jerry - Chuyên Mỳ Xào, Chân Gà Sả Tắc & Sốt Thái",https://shopeefood.vn/ha-noi/chao-ngon-jerry-chuyen-my-xao-chan-ga-sa-tac-sot-thai
+871,Cơm Tấm Cơm Niêu Zô Zô,https://shopeefood.vn/ha-noi/com-tam-com-nieu-zo-zo
+872,Healthy Meal - Shop Online,https://shopeefood.vn/ha-noi/healthy-meal-shop-online
+873,Hương Tròn - Mì Trộn Indomie & Đồ Ăn Vặt - Bùi Xương Trạch,https://shopeefood.vn/ha-noi/huong-tron-mi-tron-indomie-do-an-vat-bui-xuong-trach
+874,Thịt Quay & Bún Bò Nam Bộ - Chef Đăng,https://shopeefood.vn/ha-noi/bun-plus
+875,Nem Nướng Nha Trang - Phú Lãm,https://shopeefood.vn/ha-noi/nem-nuong-nha-trang-phu-lam
+876,Aha Coffee - Vinhomes Smart City,https://shopeefood.vn/ha-noi/aha-coffee-vinhomes-smart-city
+877,Chay Tịnh Thuỷ - Nguyễn Công Hoan,https://shopeefood.vn/ha-noi/chay-tinh-thuy-nguyen-cong-hoan
+878,Bếp Bum - Bún Trộn Bò Nam Bộ & Mì Gà Tần - Chợ Khâm Thiên,https://shopeefood.vn/ha-noi/bep-bum-bun-tron-bo-nam-bo-mi-ga-tan-cho-kham-thien
+879,Đồ Ăn Vặt & Cá Viên Chiên - Đường Láng,https://shopeefood.vn/ha-noi/do-an-vat-ca-vien-chien-duong-lang
+880,Bếp Bum - Bún Trộn Bò Nam Bộ & Mì Gà Tần - Ngọc Lâm,https://shopeefood.vn/ha-noi/bep-bum-bun-tron-bo-nam-bo-mi-ga-tan-ngoc-lam
+881,"Su Su - Nước Ép, Sinh Tố & Bánh Tráng Trộn - Khương Đình",https://shopeefood.vn/ha-noi/su-su-nuoc-ep-sinh-to-banh-trang-tron-khuong-dinh
+882,Bánh Mì Thập Cẩm - Thanh Nga - Linh Lang,https://shopeefood.vn/ha-noi/banh-mi-thap-cam-thanh-nga-linh-lang
+883,"Bình Food - Mì Trộn Indomie, Mì Cay & Tokbokki - Thượng Đình",https://shopeefood.vn/ha-noi/binh-food-mi-tron-indomie-mi-cay-tokbokki-thuong-dinh
+884,Cơm Chay Lý Sơn - Shop Online,https://shopeefood.vn/ha-noi/com-chay-ly-son-shop-online
+885,Cơm Ngon Mạnh Quỳnh,https://shopeefood.vn/ha-noi/com-ngon-manh-quynh
+886,Trà Chanh Bụi Phố - Licogi13 Khuất Duy Tiến,https://shopeefood.vn/ha-noi/tra-chanh-bui-pho-licogi13-khuat-duy-tien
+887,Lê La Quán - Mì Trộn Indomie & Đồ Ăn Vặt - Xuân Thủy,https://shopeefood.vn/ha-noi/le-la-quan-mi-tron-indomie-do-an-vat-xuan-thuy
+888,Quang Tèo - Bún Bò Huế,https://shopeefood.vn/ha-noi/quang-teo-bun-bo-hue
+889,Ăn Vặt Cay Cay - Ăn Vặt Nội Địa Trung - Phố Đốc Ngữ,https://shopeefood.vn/ha-noi/an-vat-cay-cay-an-vat-noi-dia-trung-pho-doc-ngu
+890,Moon Mart - Bánh Mì Hoa Cúc Pháp - Khương Trung,https://shopeefood.vn/ha-noi/moon-mart-banh-mi-hoa-cuc-phap-khuong-trung.rtb5jh
+891,Tiệm Gà Rán Toki - Nguyễn Chính,https://shopeefood.vn/ha-noi/tiem-ga-ran-toki
+892,Quán Mỳ Chờ - Mỳ Vằn Thắn & Dimsum - 216 Nguyễn Lương Bằng,https://shopeefood.vn/ha-noi/quan-my-cho-my-van-than-dimsum-216-nguyen-luong-bang
+893,Bếp 24h - Food & Drink - Mễ Trì Thượng,https://shopeefood.vn/ha-noi/bep-24h-food-drink-me-tri-thuong
+894,Bơ Juice - Nước Ép & Ăn Vặt - Xuân La,https://shopeefood.vn/ha-noi/bo-juice-nuoc-ep-an-vat-xuan-la.hbllys
+895,Duck Coffee,https://shopeefood.vn/ha-noi/duck-coffee
+896,Bánh Mì Que Bảo Lam - Bảo Linh,https://shopeefood.vn/ha-noi/banh-mi-que-bao-lam-bao-linh
+897,Noémi Bakery & Tea - Trung Kính,https://shopeefood.vn/ha-noi/noemi-bakery-tea-trung-kinh
+898,Bếp Bé Bếu - Cơm & Bánh Mì Nướng Trung Hoa - Phạm Ngọc Thạch,https://shopeefood.vn/ha-noi/bep-be-beu-com-banh-mi-nuong-trung-hoa-pham-ngoc-thach
+899,Z Juice - Trà Chanh & Nước Ép Hoa Quả - Vĩnh Hưng,https://shopeefood.vn/ha-noi/z-juice-tra-chanh-nuoc-ep-hoa-qua-vinh-hung
+900,"Phương Béo - Nước Ép, Sinh Tố & Trà Trái Cây Tươi",https://shopeefood.vn/ha-noi/phuong-beo-nuoc-ep-sinh-to-tra-trai-cay-tuoi
+901,Cà Phê Sói - Cafe Rang Mộc & Say Tại Chỗ,https://shopeefood.vn/ha-noi/ca-phe-soi-cafe-rang-moc-say-tai-cho
+902,Cơm Tấm Cô Trân - Cơm Sườn Nướng - 567 Nguyễn Văn Cừ,https://shopeefood.vn/ha-noi/com-tam-co-tran-com-suon-nuong-567-nguyen-van-cu
+903,Bún Bò Huế & Cơm Rang - Hoàng Mỡ,https://shopeefood.vn/ha-noi/bun-bo-hue-com-rang-hoang-mo
+904,Mầm - Trà Pha Máy Đậm Vị - Nguyễn Văn Cừ,https://shopeefood.vn/ha-noi/mam-tra-pha-may-dam-vi-nguyen-van-cu
+905,Ăn Vặt Jerry - Ăn Vặt - 116 Khương Đình,https://shopeefood.vn/ha-noi/an-vat-jerry-an-vat-116-khuong-dinh
+906,Quán Của Mị - Cơm Văn Phòng & Đồ Ăn Vặt - Phúc Đồng,https://shopeefood.vn/ha-noi/quan-cua-mi-com-van-phong-do-an-vat-phuc-dong
+907,Mỳ Chua Cay Tim Cật & Trà Trái Cây Tươi - Cầu Diễn,https://shopeefood.vn/ha-noi/my-chua-cay-tim-cat-tra-trai-cay-tuoi-cau-dien
+908,Lẩu Nam Gia - Lẩu Thái & Mỳ Thái Chua Cay,https://shopeefood.vn/ha-noi/lau-nam-gia-lau-thai-my-thai-chua-cay
+909,Tiệm Trà Mãng Cầu Đặc Biệt Hana - Mỹ Đình,https://shopeefood.vn/ha-noi/tiem-tra-mang-cau-dac-biet-hana-my-dinh
+910,Quán Quân - Mì Tim Cật Chua Cay & Cháo - Khâm Thiên,https://shopeefood.vn/ha-noi/quan-quan-mi-tim-cat-chua-cay-chao-kham-thien
+911,Tmore - Tiệm Trà Chanh - Vĩnh Tuy,https://shopeefood.vn/ha-noi/tmore-tiem-tra-chanh-vinh-tuy
+912,Chicky - Cơm & Gà Rán Ăn Vặt - Trần Đại Nghĩa,https://shopeefood.vn/ha-noi/chicky-com-ga-ran-an-vat-tran-dai-nghia
+913,Mye Vegan - Chay Lành Mạnh & Buffet Chay - 14A Ngõ 575 Kim Mã,https://shopeefood.vn/ha-noi/mye-vegan-chay-lanh-manh-buffet-chay-14a-ngo-575-kim-ma
+914,Đồ Ăn Vặt Misa - Trà Sữa - Kim Mã,https://shopeefood.vn/ha-noi/do-an-vat-misa-tra-sua-kim-ma.vpm3ze
+915,Linh - Cari Gà & Ăn Vặt Hàn Quốc,https://shopeefood.vn/ha-noi/linh-cari-ga-an-vat-han-quoc
+916,"HATO 159 - Nước Ép, Sinh Tố & Mì Trộn - Nguyễn Chính",https://shopeefood.vn/ha-noi/hato-159-nuoc-ep-sinh-to-mi-tron-nguyen-chinh
+917,Phương Thảo Food - Mì Trộn Indomie - Trà Tắc Khổng Lồ,https://shopeefood.vn/ha-noi/phuong-thao-food-mi-tron-indomie-tra-tac-khong-lo
+918,Mr. Tuk Tuk - Món Thái - Chùa Láng,https://shopeefood.vn/ha-noi/mr-tuk-tuk-mon-thai-chua-lang
+919,Bánh Mì Xứ Lạng - Phan Bá Vành,https://shopeefood.vn/ha-noi/banh-mi-xu-lang-phan-ba-vanh
+920,Ốc Nguyễn - Đê La Thành,https://shopeefood.vn/ha-noi/oc-nguyen-de-la-thanh
+921,Xưởng - Cafe - Nguyễn Công Hoan,https://shopeefood.vn/ha-noi/xuong-cafe-nguyen-cong-hoan
+922,Cô Ba Sài Gòn - Minh Khai,https://shopeefood.vn/ha-noi/co-ba-sai-gon-minh-khai
+923,Chân Gà Rút Xương Sốt Thái & Ngâm Sả Tắc - Bắc Linh Đàm,https://shopeefood.vn/ha-noi/chan-ga-rut-xuong-sot-thai-ngam-sa-tac-bac-linh-dam
+924,Trường An - Cơm Tấm Sườn Bì - 361 Nguyễn Khang,https://shopeefood.vn/ha-noi/truong-an-com-tam-suon-bi-361-nguyen-khang
+925,Shiba Chef - Bánh Takoyaki & Bánh Xèo Nhật,https://shopeefood.vn/ha-noi/shiba-chef-banh-takoyaki-banh-xeo-nhat
+926,Briques - Ngõ Gạch,https://shopeefood.vn/ha-noi/briques-ngo-gach
+927,"Bếp Nhà Mít - Mỳ Gà Tần, Mỳ Trộn Indomie & Nem Rán Ngon",https://shopeefood.vn/ha-noi/bep-nha-mit-my-ga-tan-my-tron-indomie-nem-ran-ngon
+928,Bún Chả Huy Đoàn - 344 Lạc Trung,https://shopeefood.vn/ha-noi/bun-cha-huy-doan-344-lac-trung
+929,Bún Trộn Hoàng Phố - Thái Hà,https://shopeefood.vn/ha-noi/bun-tron-hoang-pho-thai-ha
+930,Cháo Sườn & Cháo Đậu Cà Muối - Bà Hoa - Lý Nam Đế,https://shopeefood.vn/ha-noi/chao-suon-chao-dau-ca-muoi-ba-hoa-ly-nam-de
+931,Bún Bò Huế O Hiền - Mỹ Đình,https://shopeefood.vn/ha-noi/bun-bo-hue-o-hien-my-dinh
+932,"Ngon Ngon - Mì Cay, Trà Sữa & Đồ Ăn Vặt - Trần Cung",https://shopeefood.vn/ha-noi/ngon-ngon-mi-cay-tra-sua-do-an-vat-tran-cung
+933,Phở Cuốn & Bún Trộn Bếp Nhà Gà - Trích Sài,https://shopeefood.vn/ha-noi/pho-cuon-bun-tron-bep-nha-ga-trich-sai
+934,Cơm Việt Gren Mart - Lạc Long Quân,https://shopeefood.vn/ha-noi/com-viet-gren-mart-lac-long-quan
+935,Cuốn Xưa - Phở Cuốn Hà Thành - Tây Mỗ,https://shopeefood.vn/ha-noi/cuon-xua-pho-cuon-ha-thanh-tay-mo
+936,Bếp Của Cậu - Gà Ủ Muối Xuân Đỉnh,https://shopeefood.vn/ha-noi/bep-cua-cau-ga-u-muoi-xuan-dinh
+937,Trà Sữa Nọng - Lê Trọng Tấn,https://shopeefood.vn/ha-noi/tra-sua-nong-le-trong-tan
+938,Clefs Café - Trà Ôlong & Cà Phê Đặc Sản - 96B Nguyễn Huy Tưởng,https://shopeefood.vn/ha-noi/clefs-cafe-tra-olong-ca-phe-dac-san-96b-nguyen-huy-tuong
+939,"Bami Suxi - Bánh Mì, Trà Chanh & Cà Phê",https://shopeefood.vn/ha-noi/bami-suxi-banh-mi-tra-chanh-ca-phe
+940,A Khoai - Cháo Sườn Sụn - Khuất Duy Tiến,https://shopeefood.vn/ha-noi/a-khoai-chao-suon-sun-khuat-duy-tien
+941,Chè Ngon Quán - Shop Online - Mỹ Đình 1,https://shopeefood.vn/ha-noi/che-ngon-quan-shop-online-my-dinh-1
+942,Tiệm Trà Mãng Cầu 15K - Trà Hoa Quả Nhiệt Đới - Đình Thôn,https://shopeefood.vn/ha-noi/tiem-tra-mang-cau-15k-tra-hoa-qua-nhiet-doi-dinh-thon
+943,Gà Ủ Muối & Gà Luộc - Tu Hoàng,https://shopeefood.vn/ha-noi/ga-u-muoi-ga-luoc-tu-hoang
+944,Long Gà - Nguyễn Sơn,https://shopeefood.vn/ha-noi/long-ga-nguyen-son
+945,Bami Deli - Bánh Mì Hương Vị Bò Sốt - 381 Đội Cấn,https://shopeefood.vn/ha-noi/bami-deli-banh-mi-huong-vi-bo-sot-381-doi-can
+946,"Bún Bò Huế - Toàn Yến - Nam Dư, Lĩnh Nam",https://shopeefood.vn/ha-noi/bun-bo-hue-toan-yen-nam-du-linh-nam
+947,Cafe Kem Vivi - Tân Mai,https://shopeefood.vn/ha-noi/cafe-kem-vivi-tan-mai
+948,NooShan - Trà Sữa Shan Tuyết Pha Máy - 42 Nguyễn Văn Tuyết,https://shopeefood.vn/ha-noi/nooshan-tra-sua-shan-tuyet-pha-may-42-nguyen-van-tuyet
+949,Hoàng Khô - Món Ngon Nhà Làm - 204 Kim Giang,https://shopeefood.vn/ha-noi/hoang-kho-mon-ngon-nha-lam-204-kim-giang.ssz7ey
+950,Mỏ Khoét Food - Bún Bò & Cơm Trộn,https://shopeefood.vn/ha-noi/mo-khoet-food-bun-bo-com-tron
+951,Cổ Trà - Trà Shan Tuyết 300 Năm Tuổi & Trà Hoa Quả - 94 Trấn Vũ,https://shopeefood.vn/ha-noi/co-tra-tra-shan-tuyet-300-nam-tuoi-tra-hoa-qua-94-tran-vu
+952,1999 JUICE - Sinh Tố & Nước Ép - 73 Nguyễn Trãi,https://shopeefood.vn/ha-noi/1999-juice-sinh-to-nuoc-ep-73-nguyen-trai
+953,Ngon Thạch Quán - 286 Đường Tựu Liệt,https://shopeefood.vn/ha-noi/ngon-thach-quan-286-duong-tuu-liet
+954,Tiệm Cơm Phong Thành Quán,https://shopeefood.vn/ha-noi/tiem-com-phong-thanh-quan
+955,Mai Trang - Ốc & Ăn Vặt,https://shopeefood.vn/ha-noi/mai-trang-oc-an-vat
+956,Yu Tang - Trà Sữa & Mỳ Đài Loan - Trần Đại Nghĩa,https://shopeefood.vn/ha-noi/yu-tang-tra-sua-my-dai-loan-tran-dai-nghia
+957,"Py Food - Bún Gỏi Cuốn, Nộm & Súp - Đường Bưởi",https://shopeefood.vn/ha-noi/py-food-bun-goi-cuon-nom-sup-duong-buoi
+958,Cơm Tấm Sài Gòn Dung Hường,https://shopeefood.vn/ha-noi/com-tam-sai-gon-dung-huong
+959,"Bếp Nhà Nghé - Gỏi Cuốn, Phở Cuốn & Chân Gà - Cổ Nhuế",https://shopeefood.vn/ha-noi/bep-nha-nghe-goi-cuon-pho-cuon-chan-ga-co-nhue
+960,Đảo Chè - Chè Sạch Vị Ngon - Nguyễn Văn Lộc,https://shopeefood.vn/ha-noi/dao-che-che-sach-vi-ngon-nguyen-van-loc
+961,Xôi Ngon & Bánh Mỳ Truyền Thống Làng Hồ - Hoàng Hoa Thám,https://shopeefood.vn/ha-noi/xoi-ngon-banh-my-truyen-thong-lang-ho-hoang-hoa-tham
+962,Bún Đậu Cô Chủ Nhỏ - Phương Mai,https://shopeefood.vn/ha-noi/bun-dau-co-chu-nho-phuong-mai
+963,"Cammi - Nước Ép, Mì Trộn Indomie - An Trạch",https://shopeefood.vn/ha-noi/cammi-nuoc-ep-mi-tron-indomie-an-trach
+964,"Grille6 - Salad, Steak & Pasta - Hào Nam",https://shopeefood.vn/ha-noi/grille6-steakhouse
+965,Trạm - Tiệm Cà Phê Tử Tế - 39 Lý Thường Kiệt,https://shopeefood.vn/ha-noi/tram-tiem-ca-phe-tu-te-39-ly-thuong-kiet
+966,Linh An Tea - Chè & Đồ Ăn Vặt,https://shopeefood.vn/ha-noi/linh-an-tea-che-do-an-vat
+967,Bún Đậu Mắm Tôm Tâm Quán,https://shopeefood.vn/ha-noi/bun-dau-mam-tom-tam-quan
+968,Chi Cha - Xôi & Bánh Mỳ Phố - Vĩnh Tuy,https://shopeefood.vn/ha-noi/chi-cha-xoi-banh-my-pho-vinh-tuy.ke8wxc
+969,Bún Trộn - Bún Trộn Nam Bộ - Shop Online - Phan Văn Trường,https://shopeefood.vn/ha-noi/bun-tron-bun-tron-nam-bo-shop-online-phan-van-truong
+970,Phương Bống - Bánh Mì Truyền Thống & Mì Trộn Hải Sản - Phương Mai,https://shopeefood.vn/ha-noi/phuong-bong-banh-mi-truyen-thong-mi-tron-hai-san-luong-dinh-cua
+971,"Andy24 Linh Đàm - Cơm Ngon, Phở Cuốn & Đồ Ăn Đêm",https://shopeefood.vn/ha-noi/andy24-linh-dam-com-ngon-pho-cuon-do-an-dem
+972,Bếp Mỳ & Tép - Từ Hoa,https://shopeefood.vn/ha-noi/bep-my-tep-tu-hoa
+973,Gà Rán FIVE STARS - 18A Ngô Quyền,https://shopeefood.vn/ha-noi/ga-ran-five-stars-18a-ngo-quyen
+974,"Thái Thadu - Món Thái, Cơm & Món Cuốn - Trần Thái Tông",https://shopeefood.vn/ha-noi/thai-thadu-mon-thai-com-mon-cuon-tran-thai-tong
+975,"Đồ Ăn Nhanh Hàn Quốc - Đùi Gà Chiên Sốt, Gà Viên Chiên & Tokbokki",https://shopeefood.vn/ha-noi/do-an-nhanh-han-quoc-dui-ga-chien-sot-ga-vien-chien-tokbokki
+976,Đồ Ăn Vặt Hà Nội - Nhót Xanh Chẩm Chéo & Xoài Cóc Bao Tử,https://shopeefood.vn/ha-noi/do-an-vat-ha-noi-nhot-xanh-cham-cheo-xoai-coc-bao-tu
+977,Pô's Cake - Bông Lan Trứng Muối & Khô Gà Online - Bằng B,https://shopeefood.vn/ha-noi/po-s-cake-bong-lan-trung-muoi-kho-ga-online-bang-b
+978,Mimi Troll - Mì Trộn Indomie Và Ăn Vặt - Giải Phóng,https://shopeefood.vn/ha-noi/mimi-troll-mi-tron-indomie-va-an-vat-giai-phong.qcydjd
+979,Tiệm Ăn CunCun - Bún Trộn & Phở Cuốn - Phương Mai,https://shopeefood.vn/ha-noi/tiem-an-cuncun-bun-tron-pho-cuon-phuong-mai
+980,"Gà Rán, Gà Luôc & Gà Ủ Muối - Kiến Hưng",https://shopeefood.vn/ha-noi/ga-ran-ga-luoc-ga-u-muoi-kien-hung
+981,Nem Nướng & Bún Riêu Tóp Tóp,https://shopeefood.vn/ha-noi/nem-nuong-bun-rieu-top-top
+982,Chef Đăng - Thịt Quay Plus CS1,https://shopeefood.vn/ha-noi/chef-dang-thit-quay-plus-cs1
+983,Lightea Trà Sữa - Cá Viên Chiên,https://shopeefood.vn/ha-noi/lightea-tra-sua-ca-vien-chien
+984,Banana - Coffee & Nước Ép Trái Cây,https://shopeefood.vn/ha-noi/banana-coffee-nuoc-ep-trai-cay
+985,JingCha - Milk Tea & Coffee - Nguyễn Văn Cừ,https://shopeefood.vn/ha-noi/jingcha-milk-tea-coffee-nguyen-van-cu
+986,"Musa Chicken - Gà Rán Giòn, Mì Trộn & Ăn Vặt",https://shopeefood.vn/ha-noi/musa-chicken-ga-ran-gion-mi-tron-an-vat-ngo-trai-ca
+987,Nhịp Coffee - Chuyên Nước Ép & Sinh Tố Hoa Quả,https://shopeefood.vn/ha-noi/nhip-coffee-chuyen-nuoc-ep-sinh-to-hoa-qua
+988,Quán Hường Thanh - Phở Gà & Bún Chả,https://shopeefood.vn/ha-noi/quan-huong-thanh-pho-ga-bun-cha
+989,"Măm Măm Quán - Chân Gà Sốt Thái, Mì Trộn Indomie & Đồ Ăn Vặt - Ngõ 406 Hồ Tùng Mậu",https://shopeefood.vn/ha-noi/mam-mam-quan-chan-ga-sot-thai-mi-tron-indomie-do-an-vat-ngo-406-ho-tung-mau
+990,Tiệm Hôm Nay - Cà Phê Mang Đi - Lê Duẩn,https://shopeefood.vn/ha-noi/tiem-hom-nay-ca-phe-mang-di-le-duan
+991,Pizza 247 - Ngõ Hòa Bình 3,https://shopeefood.vn/ha-noi/pizza-247-ngo-hoa-binh-3
+992,Tiệm Bánh Nhà Lu - Ngô Đình Mẫn,https://shopeefood.vn/ha-noi/tiem-banh-nha-lu-ngo-dinh-man
+993,OKITACO - CƠM GÀ NHẬT & BÁNH TACOS - VINHOMES SMART CITY,https://shopeefood.vn/ha-noi/okitaco-com-ga-nhat-banh-tacos-vinhomes-smart-city
+994,Tiệm Oye - Trà Ngon Đậm Vị - Khu Đô Thị Văn Khê,https://shopeefood.vn/ha-noi/tiem-oye-tra-ngon-dam-vi-khu-do-thi-van-khe
+995,MIHAVA Food - Mì Trộn Indomie & Đồ Ăn Vặt - Văn Hương,https://shopeefood.vn/ha-noi/mihava-food-mi-tron-indomie-do-an-vat-van-huong
+996,"NaiGai - Cà Phê, Trà Sữa & Nước Ép - Láng Hạ",https://shopeefood.vn/ha-noi/naigai-ca-phe-tra-sua-nuoc-ep-lang-ha
+997,Tiệm Chè Nhà Khoai - Chè Khoai Dẻo & Chè Khúc Bạch,https://shopeefood.vn/ha-noi/tiem-che-nha-khoai-che-khoai-deo-che-khuc-bach
+998,Sinh Tố - Nước Ép Thóc,https://shopeefood.vn/ha-noi/sinh-to-nuoc-ep-thoc
+999,Tiệm Gà Rán Tê Tê Hàn Quốc,https://shopeefood.vn/ha-noi/tiem-ga-ran-te-te-han-quoc
+1000,Bánh Mì B+ - Vĩnh Hưng,https://shopeefood.vn/ha-noi/banh-mi-b-vinh-hung
+1001,Coffee Nguyệt - Trà Hoa Quả Nhiệt Đới & Nước Ép,https://shopeefood.vn/ha-noi/coffee-nguyet-tra-hoa-qua-nhiet-doi-nuoc-ep
+1002,ENJOY Coffee - Hoàng Mai,https://shopeefood.vn/ha-noi/enjoy-coffee-hoang-mai
+1003,Boba Chicken - Gà Rán - Kim Mã,https://shopeefood.vn/ha-noi/boba-chicken-ga-ran-kim-ma
+1004,Trà Sữa & Nước Ép Trái Cây Nguyên Chất - Quán Bơ,https://shopeefood.vn/ha-noi/tra-sua-nuoc-ep-trai-cay-nguyen-chat-quan-bo
+1005,"Rifa Snack Cafe - Chè, Trà Sữa & Nước Rau Má",https://shopeefood.vn/ha-noi/rifa-snack-cafe-che-tra-sua-nuoc-rau-ma
+1006,Bánh Mì Khói - Bánh Bao Tô Giang - Trần Bình,https://shopeefood.vn/ha-noi/banh-mi-khoi-banh-bao-to-giang-tran-binh
+1007,Vịt Quay Thu Phú,https://shopeefood.vn/ha-noi/vit-quay-thu-phu
+1008,Amor Healthy - Salad & Healthy Food - Nguyên Hồng,https://shopeefood.vn/ha-noi/amor-healthy-salad-healthy-food-nguyen-hong
+1009,Tea Break - Trà Sữa Ô Long Đậm Vị - 181 Xuân Thủy,https://shopeefood.vn/ha-noi/tea-break-tra-sua-o-long-dam-vi-181-xuan-thuy
+1010,"Hồng Thúy - Bún Dọc Mùng, Bún Bò Nam Bộ & Bún Thịt Nướng - Vũ Hữu",https://shopeefood.vn/ha-noi/hong-thuy-bun-doc-mung-bun-bo-nam-bo-bun-thit-nuong-vu-huu
+1011,Cơm Bình An - Vũ Ngọc Phan,https://shopeefood.vn/ha-noi/com-binh-an-vu-ngoc-phan
+1012,Bánh Tráng Bảo Bảo,https://shopeefood.vn/ha-noi/banh-trang-bao-bao
+1013,Hanyuri - Korean Food & Gà Rán - 34 Đại La,https://shopeefood.vn/ha-noi/hanyuri-korean-food-ga-ran-34-dai-la
+1014,Bún Bò Huế Lộc Lộc - Lê Đức Thọ,https://shopeefood.vn/ha-noi/bun-bo-hue-loc-loc-le-duc-tho
+1015,Chè Bưởi Tư Đỉnh - Lương Thế Vinh,https://shopeefood.vn/ha-noi/che-buoi-tu-dinh-luong-the-vinh
+1016,Gà Rán Popeyes - Trần Quốc Hoàn,https://shopeefood.vn/ha-noi/ga-ran-popeyes-tran-quoc-hoan
+1017,Bún Bò Huế Nam Minh - Nghĩa Tân,https://shopeefood.vn/ha-noi/bun-bo-hue-nam-minh-nghia-tan
+1018,Quán Vị Xưa - Bún Riêu Cua Tóp Mỡ & Bún Ốc - KĐT Geleximco,https://shopeefood.vn/ha-noi/quan-vi-xua-bun-rieu-cua-top-mo-bun-oc-kdt-geleximco
+1019,Mye Diet - Salad & Cơm Gạo Lứt - Nguyễn Phúc Lai,https://shopeefood.vn/ha-noi/mye-diet-salad-com-gao-lut-nguyen-phuc-lai
+1020,Mì Ramen - Nudeli,https://shopeefood.vn/ha-noi/mi-ramen-nudeli
